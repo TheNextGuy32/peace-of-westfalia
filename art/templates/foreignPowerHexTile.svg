@@ -28,14 +28,14 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.5094246"
-     inkscape:cx="474.06427"
-     inkscape:cy="373.95132"
+     inkscape:cx="30.426485"
+     inkscape:cy="377.87731"
      inkscape:window-width="2560"
      inkscape:window-height="1351"
      inkscape:window-x="1491"
      inkscape:window-y="585"
      inkscape:window-maximized="1"
-     inkscape:current-layer="YOUR_ARTWORK_HERE" />
+     inkscape:current-layer="foregroundColor" />
 <pattern
      x="9"
      y="27"
@@ -564,11 +564,11 @@
 	<path
      fill="none"
      stroke="#00ADEE"
-     stroke-width="1.0913"
-     stroke-dasharray="2.4035"
+     stroke-width="0"
+     stroke-dasharray="0"
      d="m 90.013,235.488 c -4.958,0 -11.039,-3.517 -13.511,-7.813 L 22.496,133.816 c -2.473,-4.298 -2.473,-11.33 0,-15.628 L 76.502,24.327 c 2.473,-4.298 8.553,-7.814 13.511,-7.814 h 107.975 c 4.958,0 11.038,3.516 13.511,7.814 l 54.005,93.861 c 2.473,4.298 2.473,11.33 0,15.628 l -54.005,93.859 c -2.473,4.297 -8.553,7.813 -13.511,7.813 z"
-     id="path1580"
-     style="fill:#767676;fill-opacity:1;stroke:none;stroke-width:1.00008;stroke-dasharray:none" />
+     id="foreground"
+     style="fill:#767676;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1" />
 </g><text
      xml:space="preserve"
      style="font-weight:bold;font-size:127.66px;line-height:1.1;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:none;stroke:#ec1c24;stroke-width:10.6383;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"

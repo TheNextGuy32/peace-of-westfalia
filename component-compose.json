@@ -188,5 +188,76 @@
         "type": "STOCK_StoutBoxBlankLarge",
         "quantity": 1,
         "disabled": false
+    },
+    {
+        "name": "foreignFrance",
+        "type": "LargeHexTile",
+        "quantity": 1,
+        "piecesGamedataFilename": "foreignPower",
+        "componentGamedataFilename": "foreignFrance",
+        "artdataFilename": "foreignPowerFront",
+        "backArtdataFilename": "foreignPowerBack",
+        "disabled": false
+    },
+    {
+        "name": "foreignDenmark",
+        "type": "LargeHexTile",
+        "quantity": 1,
+        "piecesGamedataFilename": "foreignPower",
+        "componentGamedataFilename": "foreignDenmark",
+        "artdataFilename": "foreignPowerFront",
+        "backArtdataFilename": "foreignPowerBack",
+        "disabled": false
+    },
+    {
+        "name": "foreignBritain",
+        "type": "LargeHexTile",
+        "quantity": 1,
+        "piecesGamedataFilename": "foreignPower",
+        "componentGamedataFilename": "foreignBritain",
+        "artdataFilename": "foreignPowerFront",
+        "backArtdataFilename": "foreignPowerBack",
+        "disabled": false
+    },
+    {
+        "name": "foreignSweden",
+        "type": "LargeHexTile",
+        "quantity": 1,
+        "piecesGamedataFilename": "foreignPower",
+        "componentGamedataFilename": "foreignSweden",
+        "artdataFilename": "foreignPowerFront",
+        "backArtdataFilename": "foreignPowerBack",
+        "disabled": false
+    },
+    {
+        "name": "foreignPoland",
+        "type": "LargeHexTile",
+        "quantity": 1,
+        "piecesGamedataFilename": "foreignPower",
+        "componentGamedataFilename": "foreignPoland",
+        "artdataFilename": "foreignPowerFront",
+        "backArtdataFilename": "foreignPowerBack",
+        "disabled": false
+    },
+    {
+        "name": "foreignSpain",
+        "type": "LargeHexTile",
+        "quantity": 1,
+        "piecesGamedataFilename": "foreignPower",
+        "componentGamedataFilename": "foreignSpain",
+        "artdataFilename": "foreignPowerFront",
+        "backArtdataFilename": "foreignPowerBack",
+        "disabled": false
+    },
+    {
+        "name": "foreignSweden",
+        "type": "LargeHexTile",
+        "quantity": 1,
+        "piecesGamedataFilename": "foreignPower",
+        "componentGamedataFilename": "foreignSweden",
+        "artdataFilename": "foreignPowerFront",
+        "backArtdataFilename": "foreignPowerBack",
+        "disabled": false
+    },
     }
 ]

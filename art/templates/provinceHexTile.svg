@@ -32,8 +32,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.71319446"
-     inkscape:cx="606.42647"
-     inkscape:cy="285.33592"
+     inkscape:cx="463.40797"
+     inkscape:cy="286.73807"
      inkscape:window-width="2560"
      inkscape:window-height="1351"
      inkscape:window-x="1491"
@@ -65,12 +65,12 @@
      style="fill:#4b4b4b;fill-opacity:1">
 </g><polygon
      fill="none"
-     stroke="#2da6de"
-     stroke-dasharray="1.3324"
-     points="58.527,19.899 139.473,19.899 179.946,90 139.473,160.101 58.527,160.101 18.054,90 "
+     stroke="#00000000"
+     stroke-dasharray="0"
      id="foregroundColor"
-     style="fill:#7d7d7d;fill-opacity:1;stroke:none"
-     transform="matrix(3.4866075,0,0,3.4866075,67.325864,61.205331)" /><text
+     style="fill:#7d7d7d;fill-opacity:1;stroke:none;stroke-opacity:1"
+     transform="matrix(3.4866075,0,0,3.4866075,67.325864,61.205331)"
+     points="58.527,19.899 139.473,19.899 179.946,90 139.473,160.101 58.527,160.101 18.054,90 " /><text
      xml:space="preserve"
      style="font-weight:bold;font-size:49.8078px;line-height:1.1;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:none;stroke:#ec1c24;stroke-width:4.15065;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
      x="412.59726"
