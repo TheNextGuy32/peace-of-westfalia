@@ -188,15 +188,5 @@
         "type": "STOCK_StoutBoxBlankLarge",
         "quantity": 1,
         "disabled": false
-    },
-    {
-        "name": "control",
-        "type": "MediumCircleChit",
-        "quantity": 1,
-        "piecesGamedataFilename": "control",
-        "componentGamedataFilename": "control",
-        "artdataFilename": "controlFront",
-        "backArtdataFilename": "controlBack",
-        "disabled": false
     }
 ]
