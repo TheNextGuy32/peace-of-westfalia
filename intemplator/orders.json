@@ -1,17 +1,26 @@
 [
     {
-        "name": "germanArtdata",
+        "name": "germanPrinceGamedata",
         "specFilePath": "./specs/princes.json",
-        "templateDirectoryPath": "./templates/germanPrinceArtdata",
+        "templateDirectoryPath": "./templates/germanPrinceGamedata",
         "outputDirectoryPath": "../gamedata/component",
         "disabled": false,
         "dumpContents": true,
         "isBom": false
     },
     {
-        "name": "foreignPowerArtdata",
+        "name": "germanPrinceInsert",
+        "specFilePath": "./specs/princes.json",
+        "templateDirectoryPath": "./templates/princeInsert",
+        "outputDirectoryPath": "../art/graphicalInserts",
+        "disabled": false,
+        "dumpContents": true,
+        "isBom": false
+    },
+    {
+        "name": "foreignPowerGamedata",
         "specFilePath": "./specs/foreignPowers.json",
-        "templateDirectoryPath": "./templates/foreignPowerArtdata",
+        "templateDirectoryPath": "./templates/foreignPowerGamedata",
         "outputDirectoryPath": "../gamedata/component",
         "disabled": false,
         "dumpContents": true,

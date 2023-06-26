@@ -8,5 +8,7 @@
         { "id": "backgroundColor", "cssValue": "fill", "scope": "game", "source": "catholicColor" },
         { "id": "foregroundColor", "cssValue": "fill", "scope": "game", "source": "foreignPowerColor" }
     ],
-    "overlays": []
+    "overlays": [
+        { "scope": "component", "source": "displayName" }
+    ]
 }
