@@ -1,0 +1,186 @@
+[
+    {
+        "varname": "aachen",
+        "displayName": "Aachen"
+    },
+    {
+        "varname": "alsace",
+        "displayName": "Alsace"
+    },
+    {
+        "varname": "anhalt",
+        "displayName": "Anhalt"
+    },
+    {
+        "varname": "augsburg",
+        "displayName": "Augsburg"
+    },
+    {
+        "varname": "austria",
+        "displayName": "Austria"
+    },
+    {
+        "varname": "ansbach",
+        "displayName": "Ansbach"
+    },
+    {
+        "varname": "baden",
+        "displayName": "Baden"
+    },
+    {
+        "varname": "bamberg",
+        "displayName": "Bamberg"
+    },
+    {
+        "varname": "basel",
+        "displayName": "Basel"
+    },
+    {
+        "varname": "bavaria",
+        "displayName": "Bavaria"
+    },
+    {
+        "varname": "bohemia",
+        "displayName": "Bohemia"
+    },
+    {
+        "varname": "brandenburg",
+        "displayName": "Brandenburg"
+    },
+    {
+        "varname": "brabant",
+        "displayName": "Brabant"
+    },
+    {
+        "varname": "bremen",
+        "displayName": "Bremen"
+    },
+    {
+        "varname": "brunswick",
+        "displayName": "Brunswick"
+    },
+    {
+        "varname": "cilli",
+        "displayName": "Cilli"
+    },
+    {
+        "varname": "cleves",
+        "displayName": "Cleves"
+    },
+    {
+        "varname": "cologne",
+        "displayName": "Cologne"
+    },
+    {
+        "varname": "flanders",
+        "displayName": "Flanders"
+    },
+    {
+        "varname": "frankfurt",
+        "displayName": "Frankfurt"
+    },
+    {
+        "varname": "hesse",
+        "displayName": "Hesse"
+    },
+    {
+        "varname": "lubeck",
+        "displayName": "Lubeck"
+    },
+    {
+        "varname": "luxembourg",
+        "displayName": "Luxembourg"
+    },
+    {
+        "varname": "magdeburg",
+        "displayName": "Magdeburg"
+    },
+    {
+        "varname": "mainz",
+        "displayName": "Mainz"
+    },
+    {
+        "varname": "mecklenburg",
+        "displayName": "Mecklenburg"
+    },
+    {
+        "varname": "nassua",
+        "displayName": "Nassua"
+    },
+    {
+        "varname": "netherlands",
+        "displayName": "Netherlands"
+    },
+    {
+        "varname": "nuremburg",
+        "displayName": "Nuremburg"
+    },
+    {
+        "varname": "palatinate",
+        "displayName": "Palatinate"
+    },
+    {
+        "varname": "pomerania",
+        "displayName": "Pomerania"
+    },
+    {
+        "varname": "provence",
+        "displayName": "Provence"
+    },
+    {
+        "varname": "prussia",
+        "displayName": "Prussia"
+    },
+    {
+        "varname": "ravensburg",
+        "displayName": "Ravensburg"
+    },
+    {
+        "varname": "saxony",
+        "displayName": "Saxony"
+    },
+    {
+        "varname": "salzburg",
+        "displayName": "Salzburg"
+    },
+    {
+        "varname": "savoy",
+        "displayName": "Savoy"
+    },
+    {
+        "varname": "thuringia",
+        "displayName": "Thuringia"
+    },
+    {
+        "varname": "trent",
+        "displayName": "Trent"
+    },
+    {
+        "varname": "trier",
+        "displayName": "Trier"
+    },
+    {
+        "varname": "ulm",
+        "displayName": "Ulm"
+    },
+    {
+        "varname": "utrecht",
+        "displayName": "Utrecht"
+    },
+    {
+        "varname": "westphalia",
+        "displayName": "Westphalia"
+    },
+    {
+        "varname": "wurttemberg",
+        "displayName": "Wurttemberg"
+    },
+    {
+        "varname": "wurzburg",
+        "displayName": "Wurzburg"
+    },
+    {
+        "varname": "zeeland",
+        "displayName": "Zeeland"
+    }
+]

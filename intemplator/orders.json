@@ -1,0 +1,20 @@
+[
+    {
+        "name": "germanArtdata",
+        "specFilePath": "./specs/princes.json",
+        "templateDirectoryPath": "./templates/germanPrinceArtdata",
+        "outputDirectoryPath": "../gamedata/component",
+        "disabled": false,
+        "dumpContents": true,
+        "isBom": false
+    },
+    {
+        "name": "foreignPowerArtdata",
+        "specFilePath": "./specs/foreignPowers.json",
+        "templateDirectoryPath": "./templates/foreignPowerArtdata",
+        "outputDirectoryPath": "../gamedata/component",
+        "disabled": false,
+        "dumpContents": true,
+        "isBom": false
+    }
+]
