@@ -1,0 +1,11 @@
+{
+    "name": "foreignPowerHexTiles",
+    "templateFilename": "foreignPowerHexTile",
+    "textReplacements": [
+        { "scope": "component", "key": "value", "source": "value" }
+    ],
+    "styleUpdates": [
+        { "id": "backgroundColor", "cssValue": "fill", "scope": "game", "source": "catholicColor" }
+    ],
+    "overlays": []
+}

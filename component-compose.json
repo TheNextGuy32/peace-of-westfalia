@@ -1,0 +1,202 @@
+[
+    {
+        "name": "foreignPowerHexTiles",
+        "type": "LargeHexTile",
+        "quantity": 1,
+        "piecesGamedataFilename": "foreignPowerHexTiles",
+        "componentGamedataFilename": "foreignPowerHexTiles",
+        "artdataFilename": "foreignPowerHexTilesFront",
+        "backArtdataFilename": "foreignPowerHexTilesBack",
+        "disabled": false
+    },
+    {
+        "name": "religionHexTiles",
+        "type": "MediumHexTile",
+        "quantity": 1,
+        "piecesGamedataFilename": "religionProvinceHexTiles",
+        "componentGamedataFilename": "religionProvinceHexTiles",
+        "artdataFilename": "religionProvinceHexTilesFront",
+        "backArtdataFilename": "religionProvinceHexTilesBack",
+        "disabled": false
+    },
+    {
+        "name": "militaryPokerCards",
+        "type": "PokerDeck",
+        "quantity": 1,
+        "piecesGamedataFilename": "militaryPokerCards",
+        "componentGamedataFilename": "militaryPokerCards",
+        "artdataFilename": "militaryPokerCardsFront",
+        "backArtdataFilename": "militaryPokerCardsBack",
+        "disabled": false
+    },
+    {
+        "name": "turnChoiceCards",
+        "type": "PokerDeck",
+        "quantity": 1,
+        "piecesGamedataFilename": "turnChoiceCards",
+        "componentGamedataFilename": "turnChoiceCards",
+        "artdataFilename": "turnChoiceCardsFront",
+        "backArtdataFilename": "turnChoiceCardsBack",
+        "disabled": false
+    },
+    {
+        "name": "dilemmaCards",
+        "type": "PokerDeck",
+        "quantity": 1,
+        "piecesGamedataFilename": "dilemmaCards",
+        "componentGamedataFilename": "dilemmaCards",
+        "artdataFilename": "dilemmaCardsFront",
+        "backArtdataFilename": "dilemmaCardsBack",
+        "disabled": false
+    },
+    {
+        "name": "roleCards",
+        "type": "PokerDeck",
+        "quantity": 1,
+        "piecesGamedataFilename": "roleCards",
+        "componentGamedataFilename": "roleCards",
+        "artdataFilename": "roleCardsFront",
+        "backArtdataFilename": "roleCardsBack",
+        "disabled": false
+    },
+    {
+        "name": "councilChoiceCards",
+        "type": "PokerDeck",
+        "quantity": 1,
+        "piecesGamedataFilename": "councilChoiceCards",
+        "componentGamedataFilename": "councilChoiceCards",
+        "artdataFilename": "councilChoiceCardsFront",
+        "backArtdataFilename": "councilChoiceCardsBack",
+        "disabled": false
+    },
+    {
+        "name": "principalityTowns",
+        "type": "STOCK_HouseSilver",
+        "quantity": 10,
+        "disabled": false
+    },
+    {
+        "name": "principalityElectors",
+        "type": "STOCK_ChurchSilver",
+        "quantity": 7,
+        "disabled": false
+    },
+    {
+        "name": "religiousUpheavalBag",
+        "type": "STOCK_BagSmallBlack",
+        "quantity": 1,
+        "disabled": false
+    },
+    {
+        "name": "coins",
+        "type": "STOCK_Dubloon",
+        "quantity": 40,
+        "disabled": false
+    },
+    {
+        "name": "townsBlack",
+        "type": "STOCK_HouseWoodBlack",
+        "quantity": 5,
+        "disabled": false
+    },
+    {
+        "name": "townsBlue",
+        "type": "STOCK_HouseWoodBlue",
+        "quantity": 5,
+        "disabled": false
+    },
+    {
+        "name": "townsGreen",
+        "type": "STOCK_HouseWoodGreen",
+        "quantity": 5,
+        "disabled": false
+    },
+    {
+        "name": "townsOrange",
+        "type": "STOCK_HouseWoodOrange",
+        "quantity": 5,
+        "disabled": false
+    },
+    {
+        "name": "townsWhite",
+        "type": "STOCK_HouseWoodWhite",
+        "quantity": 5,
+        "disabled": false
+    },
+    {
+        "name": "townsRed",
+        "type": "STOCK_HouseWoodRed",
+        "quantity": 5,
+        "disabled": false
+    },
+    {
+        "name": "townsPurple",
+        "type": "STOCK_HouseWoodPurple",
+        "quantity": 5,
+        "disabled": false
+    },
+    {
+        "name": "cubes8mmPurple",
+        "type": "STOCK_Cube8mmPurple",
+        "quantity": 40,
+        "disabled": false
+    },
+    {
+        "name": "cubes8mmRed",
+        "type": "STOCK_Cube8mmRed",
+        "quantity": 40,
+        "disabled": false
+    },
+    {
+        "name": "cubes8mmGreen",
+        "type": "STOCK_Cube8mmGreen",
+        "quantity": 40,
+        "disabled": false
+    },
+    {
+        "name": "cubes8mmOrange",
+        "type": "STOCK_Cube8mmOrange",
+        "quantity": 40,
+        "disabled": false
+    },
+    {
+        "name": "cubes8mmBlack",
+        "type": "STOCK_Cube8mmBlack",
+        "quantity": 40,
+        "disabled": false
+    },
+    {
+        "name": "cubes8mmBlue",
+        "type": "STOCK_Cube8mmBlue",
+        "quantity": 40,
+        "disabled": false
+    },
+    {
+        "name": "cubes8mmWhite",
+        "type": "STOCK_Cube8mmWhite",
+        "quantity": 40,
+        "disabled": false
+    },
+    {
+        "name": "standardD6",
+        "type": "STOCK_D612mmClear",
+        "quantity": 20,
+        "disabled": false
+    },
+    {
+        "name": "container",
+        "type": "STOCK_StoutBoxBlankLarge",
+        "quantity": 1,
+        "disabled": false
+    },
+    {
+        "name": "control",
+        "type": "MediumCircleChit",
+        "quantity": 1,
+        "piecesGamedataFilename": "control",
+        "componentGamedataFilename": "control",
+        "artdataFilename": "controlFront",
+        "backArtdataFilename": "controlBack",
+        "disabled": false
+    }
+]

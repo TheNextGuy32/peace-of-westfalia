@@ -1,0 +1,11 @@
+{
+    "name": "militaryPokerCards",
+    "templateFilename": "militaryPokerCardsBack",
+    "textReplacements": [
+        { "scope": "component", "key": "name", "source": "pieceDisplayName" }
+    ],
+    "styleUpdates": [
+        { "id": "backgroundColor", "cssValue": "fill", "scope": "component", "source": "colorRGB" }
+    ],
+    "overlays": []
+}

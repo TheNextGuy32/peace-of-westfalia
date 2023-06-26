@@ -1,0 +1,9 @@
+{
+    "name": "westphalia",
+    "displayName": "westphalia",
+    "version": "0.0.0",
+    "versionName": "giftVersion",
+
+    "catholicColor": "#ffff00",
+    "protestantColor": "#0000ff"
+}
