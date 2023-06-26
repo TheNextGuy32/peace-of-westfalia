@@ -2,7 +2,7 @@
     {
         "name": "militaryPokerCards",
         "type": "PokerDeck",
-        "quantity": 1,
+        "quantity": 4,
         "piecesGamedataFilename": "militaryPokerCards",
         "componentGamedataFilename": "militaryPokerCards",
         "artdataFilename": "militaryPokerCardsFront",
