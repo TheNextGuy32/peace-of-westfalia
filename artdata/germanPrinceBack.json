@@ -9,6 +9,7 @@
         { "id": "foregroundColor", "cssValue": "fill", "scope": "game", "source": "foreignPowerColor" }
     ],
     "overlays": [
-        { "scope": "component", "source": "displayName" }
+        { "scope": "component", "source": "displayName" },
+        { "scope": "global", "source": "province" }
     ]
 }

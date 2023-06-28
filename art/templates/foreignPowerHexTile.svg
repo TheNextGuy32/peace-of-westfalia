@@ -569,14 +569,4 @@
      d="m 90.013,235.488 c -4.958,0 -11.039,-3.517 -13.511,-7.813 L 22.496,133.816 c -2.473,-4.298 -2.473,-11.33 0,-15.628 L 76.502,24.327 c 2.473,-4.298 8.553,-7.814 13.511,-7.814 h 107.975 c 4.958,0 11.038,3.516 13.511,7.814 l 54.005,93.861 c 2.473,4.298 2.473,11.33 0,15.628 l -54.005,93.859 c -2.473,4.297 -8.553,7.813 -13.511,7.813 z"
      id="foreground"
      style="fill:#767676;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1" />
-</g><text
-     xml:space="preserve"
-     style="font-weight:bold;font-size:127.66px;line-height:1.1;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:none;stroke:#ec1c24;stroke-width:10.6383;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
-     x="594.38702"
-     y="556.73969"
-     id="text898"><tspan
-         sodipodi:role="line"
-         id="tspan896"
-         x="594.38702"
-         y="556.73969"
-         style="text-align:center;text-anchor:middle;fill:white;fill-opacity:1;stroke:black;stroke-width:10.6383;stroke-dasharray:none;stroke-opacity:1">{value}</tspan></text></svg>
+</g></svg>

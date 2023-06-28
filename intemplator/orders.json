@@ -25,5 +25,14 @@
         "disabled": false,
         "dumpContents": true,
         "isBom": false
+    },
+    {
+        "name": "foreignPowerInsert",
+        "specFilePath": "./specs/foreignPowers.json",
+        "templateDirectoryPath": "./templates/princeInsert",
+        "outputDirectoryPath": "../art/graphicalInserts",
+        "disabled": false,
+        "dumpContents": true,
+        "isBom": false
     }
 ]
