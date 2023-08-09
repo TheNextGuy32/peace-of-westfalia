@@ -10,6 +10,7 @@
     ],
     "overlays": [
         { "scope": "piece", "source": "displayName" },
-        { "scope": "global", "source": "foreignPower" }
+        { "scope": "global", "source": "foreignPower" },
+        { "scope": "global", "source": "chitHexLargeBoundaries", "isComplex": true, "isDebugInfo": true }
     ]
 }
