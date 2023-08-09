@@ -2,14 +2,14 @@
     "name": "foreignFrance",
     "templateFilename": "foreignPowerHexTile",
     "textReplacements": [
-        { "scope": "component", "key": "value", "source": "displayName" }
+        { "scope": "piece", "key": "value", "source": "displayName" }
     ],
     "styleUpdates": [
         { "id": "backgroundColor", "cssValue": "fill", "scope": "game", "source": "catholicColor" },
         { "id": "foreground", "cssValue": "fill", "scope": "game", "source": "foreignPowerColor" }
     ],
     "overlays": [
-        { "scope": "component", "source": "displayName" },
+        { "scope": "piece", "source": "displayName" },
         { "scope": "global", "source": "foreignPower" }
     ]
 }
