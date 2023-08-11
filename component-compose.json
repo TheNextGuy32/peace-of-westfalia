@@ -188,5 +188,15 @@
         "artdataFilename": "germanPrinceFront",
         "backArtdataFilename": "germanPrinceBack",
         "disabled": false
+    },
+    {
+        "name": "packaging",
+        "type": "LargeStoutBox",
+        "quantity": 1,
+        "piecesGamedataFilename": "packaging",
+        "componentGamedataFilename": "packaging",
+        "artdataFilename": "packagingFront",
+        "backArtdataFilename": "packagingBack",
+        "disabled": false
     }
 ]
