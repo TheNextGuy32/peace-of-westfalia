@@ -198,5 +198,45 @@
         "artdataFilename": "packagingFront",
         "backArtdataFilename": "packagingBack",
         "disabled": false
+    },
+    {
+        "name": "playerBoard",
+        "type": "BoardDomino",
+        "quantity": 1,
+        "piecesGamedataFilename": "playerBoard",
+        "componentGamedataFilename": "playerBoard",
+        "artdataFilename": "playerBoardFront",
+        "backArtdataFilename": "playerBoardBack",
+        "disabled": false
+    },
+    {
+        "name": "doctrineChoice",
+        "type": "SmallCircleChit",
+        "quantity": 1,
+        "piecesGamedataFilename": "doctrineChoice",
+        "componentGamedataFilename": "doctrineChoice",
+        "artdataFilename": "doctrineChoiceFront",
+        "backArtdataFilename": "doctrineChoiceBack",
+        "disabled": false
+    },
+    {
+        "name": "religionChoice",
+        "type": "SmallCircleChit",
+        "quantity": 1,
+        "piecesGamedataFilename": "religionChoice",
+        "componentGamedataFilename": "religionChoice",
+        "artdataFilename": "religionChoiceFront",
+        "backArtdataFilename": "religionChoiceBack",
+        "disabled": false
+    },
+    {
+        "name": "scoreMarker",
+        "type": "SmallSquareChit",
+        "quantity": 1,
+        "piecesGamedataFilename": "scoreMarker",
+        "componentGamedataFilename": "scoreMarker",
+        "artdataFilename": "scoreMarkerFront",
+        "backArtdataFilename": "scoreMarkerBack",
+        "disabled": false
     }
 ]

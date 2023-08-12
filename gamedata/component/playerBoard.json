@@ -1,0 +1,11 @@
+{
+    "displayName": "playerBoard",
+    "pieceDisplayName": "playerBoard",
+    "doctrineOne": "Aristocratic",
+    "doctrineTwo": "Infantry",
+    "doctrineThree": "Traditional",
+    "doctrineFour": "Innovative",
+    "doctrineFive": "Defensive",
+    "doctrineSix": "Offensive",
+    "doctrineSeven": "Balanced"
+}

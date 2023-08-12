@@ -1,0 +1,16 @@
+{
+    "name": "playerBoard",
+    "templateFilename": "playerBoardFront",
+    "textReplacements": [
+        { "scope": "component", "key": "doctrineOne", "source": "doctrineOne" },
+        { "scope": "component", "key": "doctrineTwo", "source": "doctrineTwo" },
+        { "scope": "component", "key": "doctrineThree", "source": "doctrineThree" },
+        { "scope": "component", "key": "doctrineFour", "source": "doctrineFour" },
+        { "scope": "component", "key": "doctrineFive", "source": "doctrineFive" },
+        { "scope": "component", "key": "doctrineSix", "source": "doctrineSix" },
+        { "scope": "component", "key": "doctrineSeven", "source": "doctrineSeven" },
+        { "scope": "piece", "key": "playerTitle", "source": "displayName" }
+    ],
+    "styleUpdates": [],
+    "overlays": []
+}
