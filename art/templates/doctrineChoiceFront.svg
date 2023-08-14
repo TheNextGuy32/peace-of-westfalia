@@ -11,7 +11,7 @@
      viewBox="0 0 225 225"
      enable-background="new 0 0 54 54"
      xml:space="preserve"
-     sodipodi:docname="SmallCircleChit.svg"
+     sodipodi:docname="doctrineChoiceFront.svg"
      inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
      xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
      xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -28,8 +28,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="2.3773149"
-     inkscape:cx="157.95131"
-     inkscape:cy="64.989287"
+     inkscape:cx="119.67283"
+     inkscape:cy="65.409929"
      inkscape:window-width="2560"
      inkscape:window-height="1351"
      inkscape:window-x="1491"
@@ -502,27 +502,26 @@
 
 
 
-<g
-     id="g409"
-     transform="matrix(4.1666667,0,0,4.1666667,-0.00833333,-0.06666667)"><polygon
-         fill="#929497"
-         points="54.002,0.016 0.002,0.016 0.002,54.016 54.002,54.016 "
-         id="polygon235" /><circle
-         fill="#FFFFFF"
-         stroke="#EC1C24"
-         stroke-width="0.5"
-         cx="27"
-         cy="27.000999"
-         r="18"
-         id="circle237"
-         style="fill:#ffc334;fill-opacity:1;stroke:none" /><circle
-         fill="none"
-         stroke="#00ADEE"
-         stroke-width="0.625"
-         stroke-dasharray="0.2498"
-         cx="27"
-         cy="27"
-         r="9"
-         id="circle629"
-         style="fill:#e6e7e8;fill-opacity:1;stroke:none" /></g>
+<polygon
+     fill="#929497"
+     points="0.002,54.016 54.002,54.016 54.002,0.016 0.002,0.016 "
+     id="polygon235"
+     transform="matrix(4.1666667,0,0,4.1666667,-0.00833333,-0.06666667)" /><circle
+     fill="#FFFFFF"
+     stroke="#EC1C24"
+     stroke-width="2.08333"
+     cx="112.49167"
+     cy="112.4375"
+     r="75"
+     id="circle237"
+     style="fill:#ffc334;fill-opacity:1;stroke:none" /><circle
+     fill="none"
+     stroke="#00ADEE"
+     stroke-width="2.60417"
+     stroke-dasharray="0.2498"
+     cx="112.49167"
+     cy="112.43333"
+     r="37.5"
+     id="circle629"
+     style="fill:#e6e7e8;fill-opacity:1;stroke:none" />
 </svg>
