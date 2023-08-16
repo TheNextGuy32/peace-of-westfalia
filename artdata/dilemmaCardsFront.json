@@ -2,10 +2,13 @@
     "name": "dilemmaCards",
     "templateFilename": "dilemmaCardsFront",
     "textReplacements": [
-        { "scope": "piece", "key": "value", "source": "displayName" }
+        { "scope": "piece", "key": "name", "source": "displayName" },
+        { "scope": "piece", "key": "rules", "source": "rules" }
     ],
     "styleUpdates": [
-        { "id": "backgroundColor", "cssValue": "fill", "scope": "component", "source": "colorRGB" }
     ],
-    "overlays": []
+    "overlays": [
+        { "scope": "piece", "source": "graphic" },
+        { "scope": "global", "source": "dilemma/overlayDilemma" }
+    ]
 }

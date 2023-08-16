@@ -1,4 +1,4 @@
-name,displayName,quantity
-soldier,Soldier,10
-pikemen,Pikemen,10
-calvary,Calvary,10
+name,displayName,quantity,graphic,rules
+musketeer,Musketeer,10,units/infantry,"Beats Infantry but dies. If Muskets are unlocked and you beat Infantry, pick another unit type to kill."
+pikemen,Pikemen,10,units/pikeman,"Beats Calvary without dying. If you beat Calvary, your opponent cannot play Calvary next hand."
+calvary,Calvary,10,units/calvary,"Beats Musketeers without dying. If you beat a Musketeer, defeat two more Infantry. If you only have Calvary, you lose the battle."

@@ -11,7 +11,7 @@
      enable-background="new 0 0 198 180"
      xml:space="preserve"
      id="svg2576"
-     sodipodi:docname="mediumHexTileBoundaries.svg"
+     sodipodi:docname="chitHexMediumBoundaries.svg"
      inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
      xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
      xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -36,12 +36,12 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.71319446"
-     inkscape:cx="354.04089"
-     inkscape:cy="239.06523"
-     inkscape:window-width="2560"
-     inkscape:window-height="1351"
-     inkscape:window-x="1491"
-     inkscape:window-y="585"
+     inkscape:cx="170.36027"
+     inkscape:cy="240.46738"
+     inkscape:window-width="1500"
+     inkscape:window-height="2311"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2576" />
 
@@ -63,26 +63,17 @@
      id="Your_Artwork_Here"
      transform="scale(4.1666667)"
      style="fill:#4b4b4b;fill-opacity:1">
-</g><g
-     id="g4032"
-     transform="matrix(4.1666667,0,0,4.1666667,1808.7999,-1769.1091)"><polygon
-         fill="#929497"
-         points="198,180 198,0 0,0 0,180 "
-         id="polygon2682"
-         transform="translate(-434.11197,424.58617)"
-         style="fill:none" /><path
-         fill="white"
-         stroke="#eb242b"
-         d="m -383.06397,589.73217 -41.103,-71.191 c -1.261,-2.185 -1.261,-5.726 0,-7.91 l 41.103,-71.19 c 1.261,-2.185 4.328,-3.955 6.85,-3.955 h 82.205 c 2.521,0 5.589,1.771 6.85,3.955 l 41.103,71.19 c 1.261,2.185 1.261,5.726 0,7.91 l -41.103,71.19 c -1.261,2.186 -4.328,3.955 -6.85,3.955 h -82.206 c -2.521,0.001 -5.588,-1.769 -6.849,-3.954 z"
-         id="path2684"
-         style="fill:none" /><polygon
-         fill="none"
-         stroke="#2da6de"
-         stroke-dasharray="1.3324"
-         points="179.946,90 139.473,160.101 58.527,160.101 18.054,90 58.527,19.899 139.473,19.899 "
-         id="polygon2686"
-         transform="translate(-434.11197,424.58617)"
-         style="fill:none" /></g><g
+</g><polygon
+     fill="#929497"
+     points="0,0 0,180 198,180 198,0 "
+     id="polygon2682"
+     transform="matrix(4.1666667,0,0,4.1666667,1.0529601e-5,-4.4180461e-5)"
+     style="fill:none" /><path
+     fill="white"
+     stroke="#eb242b"
+     d="M 212.70001,688.10829 41.437511,391.47913 c -5.254167,-9.10417 -5.254167,-23.85834 0,-32.95834 L 212.70001,61.89579 c 5.25417,-9.104167 18.03334,-16.479167 28.54167,-16.479167 h 342.52084 c 10.50416,0 23.2875,7.379167 28.54166,16.479167 l 171.2625,296.625 c 5.25417,9.10417 5.25417,23.85834 0,32.95834 l -171.2625,296.625 c -5.25416,9.10833 -18.03333,16.47916 -28.54166,16.47916 H 241.23751 c -10.50416,0.004 -23.28333,-7.37083 -28.5375,-16.475 z"
+     id="path2684"
+     style="fill:none;stroke-width:4.16667;stroke:black;stroke-opacity:1" /><g
      id="Your_Artwork_Here-5"
      transform="translate(-560.30476,519.93183)">
 </g></svg>

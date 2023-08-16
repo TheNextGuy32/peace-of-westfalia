@@ -1,4 +1,4 @@
-name,displayName,quantity
-religious,Fight Heresy,7
-diplomacy,Conduct Diplomacy,7
-military,Wage War,7
+name,displayName,quantity,graphic,rules
+religious,Fight Heresy,7,turnChoice/religion,Convert stuff.
+diplomacy,Do Diplomacy,7,turnChoice/diplomacy,Gain Influence.
+military,Wage War,7,turnChoice/war,Go forth and conquer.

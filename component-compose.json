@@ -170,7 +170,7 @@
         "disabled": false
     },
     {
-        "name": "foreignPower",
+        "name": "foreignPowers",
         "type": "LargeHexTile",
         "quantity": 1,
         "piecesGamedataFilename": "foreignPower",
@@ -180,7 +180,7 @@
         "disabled": false
     },
     {
-        "name": "prince",
+        "name": "princes",
         "type": "MediumHexTile",
         "quantity": 1,
         "piecesGamedataFilename": "germanPrince",
