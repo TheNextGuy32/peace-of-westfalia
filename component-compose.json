@@ -167,7 +167,7 @@
         "name": "container",
         "type": "STOCK_StoutBoxBlankLarge",
         "quantity": 1,
-        "disabled": false
+        "disabled": true
     },
     {
         "name": "foreignPowers",
