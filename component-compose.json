@@ -180,7 +180,7 @@
         "disabled": true
     },
     {
-        "name": "playerBoard",
+        "name": "playerBoards",
         "type": "BoardDomino",
         "quantity": 1,
         "piecesGamedataFilename": "playerBoard",
