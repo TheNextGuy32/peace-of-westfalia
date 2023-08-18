@@ -147,7 +147,7 @@
         "name": "container",
         "type": "STOCK_StoutBoxBlankLarge",
         "quantity": 1,
-        "disabled": true
+        "disabled": false
     },
     {
         "name": "foreignPowers",
@@ -177,7 +177,7 @@
         "componentGamedataFilename": "packaging",
         "artdataFilename": "packagingFront",
         "backArtdataFilename": "packagingBack",
-        "disabled": false
+        "disabled": true
     },
     {
         "name": "playerBoard",
