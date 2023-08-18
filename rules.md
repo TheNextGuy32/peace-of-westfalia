@@ -137,13 +137,11 @@ Bohemia – 4 provinces
 
 After all starting Electors are placed, continuing in clockwise order, each Player rolls a D6. On a roll of a:
 
-1: Place a 1 Province Principality
 
-2-3: Place a 2 Province Principality
+1-4: 	Place a 2 Province Principality
 
-4-5: Place a 3 Province Principality
+5-6: 	Place a 3 Province Principality
 
-6: Place a 4 Province Principality
 
 Pick a province where there is space on the board for a contiguous Principality of the rolled size and place the Principality’s town; this is its capital, and the rest of its provinces must border its capital if possible. If not possible, the Principality’s provinces simply need to be contiguous. If there is no space on the board for a contiguous Principality of the rolled size, place the largest Principality that can be placed. When only disconnected single provinces remain, fill in the remaining provinces with 1 province Principalities. Save Austria and Bavaria for if a Principality grows to more than 5 provinces.
 
