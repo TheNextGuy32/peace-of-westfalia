@@ -1,6 +1,6 @@
 [
     {
-        "name": "militaryPokerCards",
+        "name": "units",
         "type": "PokerDeck",
         "quantity": 4,
         "piecesGamedataFilename": "militaryPokerCards",
@@ -10,7 +10,7 @@
         "disabled": false
     },
     {
-        "name": "turnChoiceCards",
+        "name": "turnChoices",
         "type": "PokerDeck",
         "quantity": 1,
         "piecesGamedataFilename": "turnChoiceCards",
@@ -20,7 +20,7 @@
         "disabled": false
     },
     {
-        "name": "dilemmaCards",
+        "name": "dilemmaChoices",
         "type": "PokerDeck",
         "quantity": 1,
         "piecesGamedataFilename": "dilemmaCards",
