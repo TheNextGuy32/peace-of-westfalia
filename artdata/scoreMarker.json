@@ -1,6 +1,6 @@
 {
     "name": "scoreMarker",
-    "templateFilename": "scoreMarkerFront",
+    "templateFilename": "scoreMarker",
     "textReplacements": [],
     "styleUpdates": [],
     "overlays": []

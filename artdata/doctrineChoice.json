@@ -1,6 +1,6 @@
 {
     "name": "doctrineChoice",
-    "templateFilename": "doctrineChoiceFront",
+    "templateFilename": "doctrineChoice",
     "textReplacements": [],
     "styleUpdates": [],
     "overlays": []

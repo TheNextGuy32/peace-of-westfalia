@@ -195,8 +195,8 @@
         "quantity": 1,
         "piecesGamedataFilename": "doctrineChoice",
         "componentGamedataFilename": "doctrineChoice",
-        "artdataFilename": "doctrineChoiceFront",
-        "backArtdataFilename": "doctrineChoiceBack",
+        "artdataFilename": "doctrineChoice",
+        "backArtdataFilename": "doctrineChoice",
         "disabled": false
     },
     {
@@ -205,8 +205,8 @@
         "quantity": 1,
         "piecesGamedataFilename": "scoreMarker",
         "componentGamedataFilename": "scoreMarker",
-        "artdataFilename": "scoreMarkerFront",
-        "backArtdataFilename": "scoreMarkerBack",
+        "artdataFilename": "scoreMarker",
+        "backArtdataFilename": "scoreMarker",
         "disabled": false
     },
     {
