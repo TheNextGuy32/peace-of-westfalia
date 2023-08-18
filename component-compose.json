@@ -228,5 +228,25 @@
         "artdataFilename": "emperorMarker",
         "backArtdataFilename": "emperorMarker",
         "disabled": false
+    },
+    {
+        "name": "commonBoard",
+        "type": "BoardDomino",
+        "quantity": 1,
+        "piecesGamedataFilename": "commonBoard",
+        "componentGamedataFilename": "commonBoard",
+        "artdataFilename": "commonBoardFront",
+        "backArtdataFilename": "commonBoardBack",
+        "disabled": false
+    },
+    {
+        "name": "yearChoice",
+        "type": "SmallSquareChit",
+        "quantity": 1,
+        "piecesGamedataFilename": "yearChoice",
+        "componentGamedataFilename": "yearChoice",
+        "artdataFilename": "yearChoice",
+        "backArtdataFilename": "yearChoice",
+        "disabled": false
     }
 ]
