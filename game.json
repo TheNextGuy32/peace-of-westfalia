@@ -4,7 +4,10 @@
     "version": "0.0.0",
     "versionName": "giftVersion",
 
-    "catholicColor": "#ffff00",
-    "protestantColor": "#0000ff",
+    "catholicColor": "#e6c059",
+    "protestantColor": "#674e38",
+
+    "oldCatholicColor": "#ffff00",
+    "oldProtestantColor": "#0000ff",
     "foreignPowerColor": "#ffffff"
 }
