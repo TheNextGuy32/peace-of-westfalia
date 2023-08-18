@@ -218,5 +218,15 @@
         "artdataFilename": "doctrineChoicesFront",
         "backArtdataFilename": "doctrineChoicesBack",
         "disabled": false
+    },
+    {
+        "name": "emperorMarker",
+        "type": "SmallCircleChit",
+        "quantity": 1,
+        "piecesGamedataFilename": "emperorMarker",
+        "componentGamedataFilename": "emperorMarker",
+        "artdataFilename": "emperorMarker",
+        "backArtdataFilename": "emperorMarker",
+        "disabled": false
     }
 ]
