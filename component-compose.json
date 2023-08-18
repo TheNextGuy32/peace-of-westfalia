@@ -30,26 +30,6 @@
         "disabled": false
     },
     {
-        "name": "roleCards",
-        "type": "PokerDeck",
-        "quantity": 1,
-        "piecesGamedataFilename": "roleCards",
-        "componentGamedataFilename": "roleCards",
-        "artdataFilename": "roleCardsFront",
-        "backArtdataFilename": "roleCardsBack",
-        "disabled": false
-    },
-    {
-        "name": "councilChoiceCards",
-        "type": "PokerDeck",
-        "quantity": 1,
-        "piecesGamedataFilename": "councilChoiceCards",
-        "componentGamedataFilename": "councilChoiceCards",
-        "artdataFilename": "councilChoiceCardsFront",
-        "backArtdataFilename": "councilChoiceCardsBack",
-        "disabled": false
-    },
-    {
         "name": "principalityTowns",
         "type": "STOCK_HouseSilver",
         "quantity": 1,
