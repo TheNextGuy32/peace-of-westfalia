@@ -200,16 +200,6 @@
         "disabled": false
     },
     {
-        "name": "religionChoice",
-        "type": "SmallCircleChit",
-        "quantity": 1,
-        "piecesGamedataFilename": "religionChoice",
-        "componentGamedataFilename": "religionChoice",
-        "artdataFilename": "religionChoiceFront",
-        "backArtdataFilename": "religionChoiceBack",
-        "disabled": false
-    },
-    {
         "name": "scoreMarker",
         "type": "SmallSquareChit",
         "quantity": 1,
