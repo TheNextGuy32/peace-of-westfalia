@@ -218,5 +218,15 @@
         "artdataFilename": "scoreMarkerFront",
         "backArtdataFilename": "scoreMarkerBack",
         "disabled": false
+    },
+    {
+        "name": "doctrineChoices",
+        "type": "PokerDeck",
+        "quantity": 1,
+        "piecesGamedataFilename": "doctrineChoices",
+        "componentGamedataFilename": "doctrineChoices",
+        "artdataFilename": "doctrineChoicesFront",
+        "backArtdataFilename": "doctrineChoicesBack",
+        "disabled": false
     }
 ]
