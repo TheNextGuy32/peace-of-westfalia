@@ -8,7 +8,7 @@
      version="1.1"
      id="svg3190"
      inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
-     sodipodi:docname="overlayDilemma.svg"
+     sodipodi:docname="overlayPokerNameRules.svg"
      xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
      xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
      xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -26,8 +26,8 @@
          inkscape:document-units="mm"
          showgrid="false"
          inkscape:zoom="0.457453"
-         inkscape:cx="256.85699"
-         inkscape:cy="1013.2188"
+         inkscape:cx="-31.697245"
+         inkscape:cy="1015.4049"
          inkscape:window-width="1500"
          inkscape:window-height="2311"
          inkscape:window-x="-9"
@@ -84,14 +84,14 @@
         <text
              xml:space="preserve"
              id="text3311"
-             style="font-weight:bold;font-size:42.6667px;line-height:1;font-family:Corbel;-inkscape-font-specification:'Corbel Bold';white-space:pre;shape-inside:url(#rect3313);display:inline;fill:white;stroke:#130311;stroke-width:1.37953;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+             style="font-weight:bold;font-size:42.6667px;line-height:1;font-family:Corbel;-inkscape-font-specification:'Corbel Bold';white-space:pre;shape-inside:url(#rect3313);display:inline;fill:white;stroke:#130311;stroke-width:3.77952756;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stroke-dasharray:none"
              transform="translate(-124.60296,298.41695)"><tspan
                  x="212.04297"
                  y="549.81513"
-                 id="tspan7307">{rules}</tspan></text>
+                 id="tspan919">{rules}</tspan></text>
         <text
              xml:space="preserve"
-             style="font-weight:bold;font-size:79.4822px;line-height:1;font-family:Corbel;-inkscape-font-specification:'Corbel Bold';fill:white;stroke:#130311;stroke-width:2.28433;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+             style="font-weight:bold;font-size:79.4822px;line-height:1;font-family:Corbel;-inkscape-font-specification:'Corbel Bold';fill:white;stroke:#130311;stroke-width:7.55905512;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stroke-dasharray:none"
              x="86.454308"
              y="785.19727"
              id="text3361"><tspan
@@ -99,6 +99,6 @@
                  id="tspan3359"
                  x="86.454308"
                  y="785.19727"
-                 style="font-size:79.4822px;stroke-width:2.28433">{name}</tspan></text>
+                 style="font-size:79.4822px;stroke-width:7.55905512;stroke-dasharray:none">{name}</tspan></text>
     </g>
 </svg>

@@ -10,6 +10,6 @@
     ],
     "overlays": [
         { "scope": "piece", "source": "graphic" },
-        { "scope": "global", "source": "turnChoice/overlayTurnChoice" }
+        { "scope": "global", "source": "overlayPokerNameRules" }
     ]
 }

@@ -9,6 +9,6 @@
     ],
     "overlays": [
         { "scope": "piece", "source": "graphic" },
-        { "scope": "global", "source": "dilemma/overlayDilemma" }
+        { "scope": "global", "source": "overlayPokerNameRules" }
     ]
 }
