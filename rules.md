@@ -137,13 +137,11 @@ Bohemia – 4 provinces
 
 After all starting Electors are placed, continuing in clockwise order, each Player rolls a D6. On a roll of a:
 
-1: Place a 1 Province Principality
 
-2-3: Place a 2 Province Principality
+1-4: 	Place a 2 Province Principality
 
-4-5: Place a 3 Province Principality
+5-6: 	Place a 3 Province Principality
 
-6: Place a 4 Province Principality
 
 Pick a province where there is space on the board for a contiguous Principality of the rolled size and place the Principality’s town; this is its capital, and the rest of its provinces must border its capital if possible. If not possible, the Principality’s provinces simply need to be contiguous. If there is no space on the board for a contiguous Principality of the rolled size, place the largest Principality that can be placed. When only disconnected single provinces remain, fill in the remaining provinces with 1 province Principalities. Save Austria and Bavaria for if a Principality grows to more than 5 provinces.
 
@@ -159,19 +157,20 @@ Elect the Emperor according to the Imperial Election rules. Then place the Emper
 
 Each Player chooses a Military Doctrine in Setup Order, placing his cube there. The 7 available Military Doctrines are:
 
-Aristocratic – an emphasis on cavalry
-
 Flexible – an emphasis on flexibility
 
 Defensive – an emphasis on pikemen
 
+Offensive – an emphasis on musketeers and cavalry
+
+Aristocratic – an emphasis on cavalry
+
 Infantry – an emphasis on pikemen and musketeers
+
+Traditional – an emphasis on pikemen and cavalry
 
 Innovative – an emphasis on musketeers
 
-Offensive – an emphasis on musketeers and cavalry
-
-Traditional – an emphasis on pikemen and cavalry
 
 ### SET UP THE HOLY ROMAN EMPIRE SHEET
 
@@ -241,7 +240,7 @@ First, all Catholic players, whether or not they chose to Combat Heresy, secretl
 If at least half are Council of Trent tokens, including the Emperor’s if he participates in the Council, then the Council meets but does not necessarily conclude. Roll the Ottoman Empire die; if it lands on an Ottoman Crescent (1-2), the Ottoman Empire threatens to disrupt the council, which disperses without concluding – better luck next round!
 
 If the Ottoman Empire does not disrupt the Council, then The Council of Trent concludes and The Catholic Reformation begins; Church Abuses end, and the Sale of Indulgences is prohibited.
-Saint Pius V & Victory at Lepanto – If the Council has not concluded by the end of Round 3, St. Pius V holds the Council outside the Empire, defeats the Ottoman Empire at Lepanto, and the Catholic Reformation begins anyways.
+Saint Pius V & Victory at Lepanto – If the Council has not concluded by the end of Round 3, St. Pius V holds the Council outside the Empire, defeats the Ottoman Empire at Lepanto, and The Catholic Reformation begins anyway.
 
 ##### Spread the Faith
 
@@ -380,23 +379,24 @@ Complete all battles in the First Battle Phase, then sign Peace Treaties in the 
 
 When battling an unaligned Principality, the first Player after you in Initiative Order not participating in a battle at the moment leads them in battle. No collusion to battle poorly is allowed. Players pair off separately into their respective battles and fight simultaneously during the Battle Phase.
 
-Before drawing Military Cards, if a Player would draw twice as many Military Cards as an opponent, he wins the battle automatically without drawing. Players then randomly draw cards from the deck according to their Imperial Power.
+If a Player’s Army Size + Reserves is twice as large as an opponent’s, he wins the battle automatically without drawing Military Cards.
 
-After drawing Military Cards, Players may pay Gold to draw extra Military Cards of their choice at a rate of 1:1. In addition, Players may discard up to 2 cards (or 3 if 30 Imperial Power or more) faceup and draw replacements according to their Military Doctrines. Do these simultaneously unless a Player requests it be done in Initiative Order.
+If not, Players randomly draw cards from the deck according to their Imperial Power – up to a max of 12 cards, with the rest of their Imperial Power going towards Reserves. After drawing Military Cards, Players may pay Gold to draw extra Military Cards of their choice at a rate of 1:1. In addition, Players may discard up to 2 cards faceup and draw replacements according to their Military Doctrines. Do these simultaneously unless a Player requests it be done in Initiative Order.
 
-Aristocratic – May discard 1 pikeman/musketeer for 2 cavalry
-
-Defensive – May discard 1 musketeer/cavalry for 2 pikemen
-
+Military Doctrines:
 Flexible – May discard any unit for any other unit
 
-Infantry – May discard 1 cavalry for 1 pikeman and 1 musketeer
-
-Innovative – May discard 1 pikeman/cavalry for 2 musketeers
+Defensive – May discard 1 musketeer or cavalry for 2 pikemen
 
 Offensive – May discard 1 pikeman for 1 musketeer and 1 cavalry
 
+Aristocratic – May discard 1 pikeman or musketeer for 2 cavalry
+
+Infantry – May discard 1 cavalry for 1 pikeman and 1 musketeer
+
 Traditional – May discard 1 musketeer for 1 pikeman and 1 cavalry
+
+Innovative – May discard 1 pikeman or cavalry for 2 musketeers
 
 During battle Players play cards face-down, then flip them face-up. If the cards are the same, both are discarded. If the cards pit:
 
@@ -405,9 +405,11 @@ Pikemen vs. Cavalry – Discard the Cavalry and return the Pikeman to its owner�
 Musketeers vs. Pikemen – Discard the Pike and return the Musket to its owner’s hand.
 Advanced Rifling – Rounds 5-6 in addition, the Player who played the Pikeman must discard an additional card of his opponent’s choice. If he does not have any more of that type of unit, he must say so. The Player who played Musketeers then chooses another unit type for his opponent to discard instead.
 
-Cavalry vs. Musketeers – Discard the Musket and return the Cavalry to its owner’s hand. The Player who played Musketeers discards an additional 2 infantry cards of his choice from his hand. If he does not have 2 infantry cards to discard, he routes. If the Player who played Cavalry has 2x his opponent’s strength, his opponent routes.
+Cavalry vs. Musketeers – Discard the Musket and return the Cavalry to its owner’s hand. The Player who played Musketeers discards an additional Pikeman and Musketeer from his hand. If he lacks one of the unit types he must say so and discard 2 of the infantry he does have instead. If he does not have 2 infantry cards to discard, he routes. In addition, if the Player who played Cavalry has 2x his opponent’s cards, his opponent routes.
 
-If a Player runs out of cards or routes, he loses the battle. If both Players run out of cards, the battle is Inconclusive and the Players sign a White Peace; neither Player conquers provinces from the other or loses influence with allies.
+Call for Reinforcements – After any round of battle a Player may Call for Reinforcements. He also may be forced to Call for Reinforcements by a route, or running out of cards. When Calling for Reinforcements, he draws from his battle discard pile as many Military Cards as his Imperial Power says he has reinforcements. The cards he draws are of his choice, but he may not draw more than he has cards in the discard pile, even if his Imperial Power says he gets more reinforcements. A Player may only Call for Reinforcements once during a battle.
+
+If a Player runs out of cards or routes, he discards the rest of his cards and must call for his reinforcements. If he does not have reinforcements or has already called for reinforcements, he loses the battle. If both Players run out of cards and reinforcements, the battle is Inconclusive and the Players sign a White Peace; neither Player conquers provinces from the other or loses influence with allies
 
 ###### Peace Treaties
 
