@@ -1,4 +1,4 @@
 name,displayName,quantity,graphic,rules
-religious,Fight Heresy,7,turnChoice/religion,Convert stuff.
-diplomacy,Do Diplomacy,7,turnChoice/diplomacy,Gain Influence.
-military,Wage War,7,turnChoice/war,Go forth and conquer.
+religious,Fight Heresy,7,turnChoice/religion,Convert to Catholic or Protestant. Participate in the Council of Trent as a Catholic. Convert provinces.
+diplomacy,Do Diplomacy,7,turnChoice/diplomacy,Gain Influence through the Diplomacy Game. Place your Influence. Convert Gold into Influence. Join a League. Release a Vassal. Gift a province.
+military,Wage War,7,turnChoice/war,Change your military doctrine. Declare war on a player or a principality. Join a League. Declare a Religious War.
