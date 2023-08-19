@@ -1,8 +1,4 @@
-name,displayName,quantity,rules,type
-infantry,Infantry,1,1x Calvary -> 1x Musketeer AND 1x Pikeman
-traditional,Traditional,1,1x Musketeer -> 1x Pikeman AND 1x Calvary
-offensive,Offensive,1,1x Pikeman -> 1x Musketeer AND 1x Calvary
-innovative,Innovative,1,1x Pikeman OR 1x Calvary -> 2x Musketeers
-defensive,Defensive,1,1x Musketeer OR 1x Calvary -> 2x Pikeman
-aristocratic,Aristocratic,1,1x Pikeman OR 1x Musketeer -> 2x Calvary
-flexible,Flexible,1,"1x Any -> 1x Any"
+name,displayName,quantity,rules
+depth,Depth,1,Convert one unit into two units of another type.
+breadth,Breadth,1,Convert one unit into the two other unit types.
+flexibility,Flexibility,1,Convert one unit into a different unit type.
