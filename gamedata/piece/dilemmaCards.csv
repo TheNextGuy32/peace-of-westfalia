@@ -1,3 +1,3 @@
 name,displayName,quantity,graphic,rules
-cooperate,Cooperate,7,dilemma/cooperate,Don't gain Influence.
-compete,Compete,7,dilemma/compete,Gain Influence.
+cooperate,Cooperate,7,dilemma/cooperate,"If you are leading and your opponent throws Cooperate, gain 2 Influence. If you are following and your opponent throws Cooperate, gain 1 Influence."
+compete,Compete,7,dilemma/compete,"If your opponent throws Cooperate, gain 3 Influence."
