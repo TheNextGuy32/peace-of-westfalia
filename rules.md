@@ -137,11 +137,9 @@ Bohemia – 4 provinces
 
 After all starting Electors are placed, continuing in clockwise order, each Player rolls a D6. On a roll of a:
 
-
 1-4: 	Place a 2 Province Principality
 
 5-6: 	Place a 3 Province Principality
-
 
 Pick a province where there is space on the board for a contiguous Principality of the rolled size and place the Principality’s town; this is its capital, and the rest of its provinces must border its capital if possible. If not possible, the Principality’s provinces simply need to be contiguous. If there is no space on the board for a contiguous Principality of the rolled size, place the largest Principality that can be placed. When only disconnected single provinces remain, fill in the remaining provinces with 1 province Principalities. Save Austria and Bavaria for if a Principality grows to more than 5 provinces.
 
@@ -293,10 +291,7 @@ At the beginning of Engage in Diplomacy, all Players that Combatted Heresy secre
 
 ##### Play the Diplomacy Game
 
-First, in Initiative Order, all Players Engaging in Diplomacy play the Diplomacy Game with the Player after you in Initiative Order (or the first Player if you are last). Counting down from 3, 2, 1, until "Go," both Players simultaneously either form a thumbs up or a finger gun.
-If both Players formed a thumbs up, the Player whose Initiative it is gets 2 Diplomatic Influence, while the other Player gets 1 Diplomatic Influence.
-If one Player formed a thumbs up, while the other formed a finger gun, the Player with the finger gun gets 3 Diplomatic Influence, while the other Player gets 0.
-If both Players formed a finger gun, both Players get 0 Diplomatic Influence.
+First, in Initiative Order, all Players Engaging in Diplomacy play the Diplomacy Game with the Player after you in Initiative Order (or the first Player if you are last). Take your Dilemma cards. Counting down from 3, 2, 1, until "Go," show either a Cooperate or Compete card and take the Influence listed on the card.
 
 Unplaced Diplomatic Influence is stored on your capital. You may not move Diplomatic Influence between Principalities once placed. You may remove all (never only some) of your Diplomatic Influence at any time to prevent yourself from joining an allied Principality in war, or for any reason whatsoever. This influence goes back to the supply.
 
