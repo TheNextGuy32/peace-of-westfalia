@@ -93,8 +93,6 @@ If: After Round 6, there was neither a Catholic nor a Protestant Victory:
 
 Subtract all Imperial Power contributed by Foreign Power Home Provinces. Then each player adds 3 Imperial Power for each orthodox town they own. The player with the most Imperial Power wins. In cases of ties, the winner is chosen from among the tied players by the Emperor. 
 
-
-
 ## Terminology
 
 Principality(ies) always refers to non-Player principalities unless stated.
@@ -173,6 +171,10 @@ Innovative – an emphasis on musketeers
 ### SET UP THE HOLY ROMAN EMPIRE SHEET
 
 Place a cube from all Players in the Saved by Faith and Works box. Put a cube for all Players at 0 Saints. Place the Catholic marker at 7 Catholic Electors, and the Emperor’s religion at Catholic. Now let the games begin – proceed to Round 1.
+
+### FUND THE MONASTERIES
+
+Take a Monastery card and place two coins on it.
 
 ## How to Play
 

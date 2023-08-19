@@ -248,5 +248,15 @@
         "artdataFilename": "yearChoice",
         "backArtdataFilename": "yearChoice",
         "disabled": false
+    },
+    {
+        "name": "monasteries",
+        "type": "PokerDeck",
+        "quantity": 1,
+        "piecesGamedataFilename": "monasteries",
+        "componentGamedataFilename": "monasteries",
+        "artdataFilename": "monasteries",
+        "backArtdataFilename": "monasteries",
+        "disabled": false
     }
 ]

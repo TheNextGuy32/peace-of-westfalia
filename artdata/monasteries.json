@@ -1,0 +1,12 @@
+{
+    "name": "monasteries",
+    "templateFilename": "monasteries",
+    "textReplacements": [
+        { "scope": "component", "key": "name", "source": "pieceDisplayName" },
+        { "scope": "component", "key": "rules", "source": "rules" }
+    ],
+    "styleUpdates": [],
+    "overlays": [
+        { "scope": "global", "source": "overlayPokerNameRules" }
+    ]
+}
