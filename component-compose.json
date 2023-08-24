@@ -258,5 +258,25 @@
         "artdataFilename": "monasteries",
         "backArtdataFilename": "monasteries",
         "disabled": false
+    },
+    {
+        "name": "electorBoard",
+        "type": "BoardDomino",
+        "quantity": 1,
+        "piecesGamedataFilename": "electorBoard",
+        "componentGamedataFilename": "electorBoard",
+        "artdataFilename": "electorBoardFront",
+        "backArtdataFilename": "electorBoardBack",
+        "disabled": false
+    },
+    {
+        "name": "princeMarkers",
+        "type": "SmallHexTile",
+        "quantity": 1,
+        "piecesGamedataFilename": "princeMarkers",
+        "componentGamedataFilename": "princeMarkers",
+        "artdataFilename": "princeMarkersFront",
+        "backArtdataFilename": "princeMarkersBack",
+        "disabled": false
     }
 ]
