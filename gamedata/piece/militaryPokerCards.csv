@@ -1,4 +1,4 @@
 name,displayName,quantity,graphic,rules
-musketeer,Musketeer,10,units/infantry,"Discard the Pike and return the Musket to its owner's hand Enemy Pike but dies. Advanced Rifling: Rounds 5-6 in addition, the Player who played the Pikeman must discard an additional card of his opponent's choice."
-pikemen,Pikemen,10,units/pikeman,"Beats Calvary without dying. If you beat Calvary, your opponent cannot play Calvary next hand."
-calvary,Calvary,10,units/calvary,"Beats Musketeers without dying. If you beat a Musketeer, defeat two more Infantry. If you only have Calvary, you lose the battle."
+musketeer,Musketeer,3,units/infantry,"Discard the Pike and return the Musket to its owner's hand Enemy Pike but dies. Advanced Rifling: Rounds 5-6 in addition, the Player who played the Pikeman must discard an additional card of his opponent's choice."
+pikemen,Pikemen,3,units/pikeman,"Beats Calvary without dying. If you beat Calvary, your opponent cannot play Calvary next hand."
+calvary,Calvary,3,units/calvary,"Beats Musketeers without dying. If you beat a Musketeer, defeat two more Infantry. If you only have Calvary, you lose the battle."

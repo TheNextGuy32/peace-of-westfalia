@@ -6,7 +6,7 @@
     ],
     "styleUpdates": [
         { "id": "backgroundColor", "cssValue": "fill", "scope": "game", "source": "catholicColor" },
-        { "id": "foregroundColor", "cssValue": "fill", "scope": "game", "source": "#fff" }
+        { "id": "foregroundColor", "cssValue": "fill", "scope": "global", "source": "#fff" }
     ],
     "overlays": [
         { "scope": "piece", "source": "displayName" },

@@ -2,7 +2,7 @@
     {
         "name": "units",
         "type": "PokerDeck",
-        "quantity": 4,
+        "quantity": 6,
         "piecesGamedataFilename": "militaryPokerCards",
         "componentGamedataFilename": "militaryPokerCards",
         "artdataFilename": "militaryPokerCardsFront",
@@ -12,7 +12,7 @@
     {
         "name": "turnChoices",
         "type": "PokerDeck",
-        "quantity": 1,
+        "quantity": 6,
         "piecesGamedataFilename": "turnChoiceCards",
         "componentGamedataFilename": "turnChoiceCards",
         "artdataFilename": "turnChoiceCardsFront",
@@ -22,7 +22,7 @@
     {
         "name": "dilemmaChoices",
         "type": "PokerDeck",
-        "quantity": 1,
+        "quantity": 6,
         "piecesGamedataFilename": "dilemmaCards",
         "componentGamedataFilename": "dilemmaCards",
         "artdataFilename": "dilemmaCardsFront",
@@ -139,8 +139,8 @@
     },
     {
         "name": "standardD6",
-        "type": "STOCK_D612mmClear",
-        "quantity": 80,
+        "type": "STOCK_D68mmWhite",
+        "quantity": 36,
         "disabled": false
     },
     {
@@ -181,8 +181,8 @@
     },
     {
         "name": "playerBoards",
-        "type": "BoardDomino",
-        "quantity": 1,
+        "type": "DominoBoard",
+        "quantity": 6,
         "piecesGamedataFilename": "playerBoard",
         "componentGamedataFilename": "playerBoard",
         "artdataFilename": "playerBoard",
@@ -192,7 +192,7 @@
     {
         "name": "doctrineChoice",
         "type": "SmallCircleChit",
-        "quantity": 1,
+        "quantity": 6,
         "piecesGamedataFilename": "doctrineChoice",
         "componentGamedataFilename": "doctrineChoice",
         "artdataFilename": "doctrineChoice",
@@ -202,7 +202,7 @@
     {
         "name": "scoreMarker",
         "type": "SmallSquareChit",
-        "quantity": 1,
+        "quantity": 6,
         "piecesGamedataFilename": "scoreMarker",
         "componentGamedataFilename": "scoreMarker",
         "artdataFilename": "scoreMarker",
@@ -212,7 +212,7 @@
     {
         "name": "doctrineChoices",
         "type": "PokerDeck",
-        "quantity": 1,
+        "quantity": 6,
         "piecesGamedataFilename": "doctrineChoices",
         "componentGamedataFilename": "doctrineChoices",
         "artdataFilename": "doctrineChoicesFront",
@@ -231,7 +231,7 @@
     },
     {
         "name": "commonBoard",
-        "type": "BoardDomino",
+        "type": "DominoBoard",
         "quantity": 1,
         "piecesGamedataFilename": "commonBoard",
         "componentGamedataFilename": "commonBoard",
@@ -252,7 +252,7 @@
     {
         "name": "monasteries",
         "type": "PokerDeck",
-        "quantity": 1,
+        "quantity": 6,
         "piecesGamedataFilename": "monasteries",
         "componentGamedataFilename": "monasteries",
         "artdataFilename": "monasteries",
@@ -261,7 +261,7 @@
     },
     {
         "name": "electorBoard",
-        "type": "BoardDomino",
+        "type": "DominoBoard",
         "quantity": 1,
         "piecesGamedataFilename": "electorBoard",
         "componentGamedataFilename": "electorBoard",
@@ -297,7 +297,7 @@
     },
     {
         "name": "emperorBoard",
-        "type": "BoardDomino",
+        "type": "DominoBoard",
         "quantity": 1,
         "piecesGamedataFilename": "emperorBoard",
         "componentGamedataFilename": "emperorBoard",
