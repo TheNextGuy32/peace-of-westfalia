@@ -17,51 +17,45 @@ Lead your principality through this turbulent time period. As Europe’s religio
 
 Map of Catholic provinces
 
-Foreign Power Provinces for France, Spain, Sweden, Poland, Denmark, Netherlands, Transylvania, and England – savoy bonus, Ottoman Empire, Papal States, Russia, Venice, portugal
+Foreign Power Provinces for France, Spain, Sweden, Poland, Denmark, Netherlands, Transylvania, and England - savoy bonus, Ottoman Empire, Papal States, Russia, Venice, portugal
 
-20 Player Control Markers – Red Phoenix, Blue Kraken, Green Serpent, Yellow Elephant, Orange Stag, Purple Unicorn, White Wolf, Black Dragon
+20 Player Control Markers - Red Phoenix, Blue Kraken, Green Serpent, Yellow Elephant, Orange Stag, Purple Unicorn, White Wolf, Black Dragon
 
-5 Principality hexes each for the 7 Electors – Cologne, Mainz, Trier, Saxony, The Palatinate, Brandenburg, & Bohemia
+5 Principality hexes each for the 7 Electors - Cologne, Mainz, Trier, Saxony, The Palatinate, Brandenburg, & Bohemia
 
-5 Principality hexes each for the 27 Principalities – Augsburg, Austria, Bavaria, Dithmarschen, Goslar, Hesse, Konstanz, Lübeck, Magdeburg, Memmingen, Munster, Nuremberg, Passau, Regensburg, Rothenburg, Salzburg, Strasbourg, Thuringia, Trent, Ulm, Verden, Württemberg – Bremen, hamburg, Holstein, Mecklenburg, anhalt
+5 Principality hexes each for the 27 Principalities - Augsburg, Austria, Bavaria, Dithmarschen, Goslar, Hesse, Konstanz, Lübeck, Magdeburg, Memmingen, Munster, Nuremberg, Passau, Regensburg, Rothenburg, Salzburg, Strasbourg, Thuringia, Trent, Ulm, Verden, Württemberg - Bremen, hamburg, Holstein, Mecklenburg, anhalt
 
 10 for Austria, 6 for bohemia, and Bavaria and Brandenburg and 1 more protestant nonelector. 4 for 17 and 4 for 5 electors. 2 for 14
 
-7 of these – Cleves, Pommerania, Wurzburg, Ansbach, Nassau, Frankfurt, Berg, Saxe-Lauenburg, Brunswick-Lüneburg, Baden, Three Leagues, East Frisia, Liège, Aachen, Switzerland, Lorraine, Oldenburg. Rest are bonus. Maybe have fantasy art competition for extra need for 8-14 expansion, or history lookup. Prize of free copy of game, some money, reward, etc.
-
-Ownership chits – brown monk in prayer, grey castle, cyan angel (masculine, wings, sword), pink green wreath of flowers (purple, blue, red, white, yellow) light green farm, teal mermaid – 20 each
+7 of these - Cleves, Pommerania, Wurzburg, Ansbach, Nassau, Frankfurt, Berg, Saxe-Lauenburg, Brunswick-Lüneburg, Baden, Three Leagues, East Frisia, Liège, Aachen, Switzerland, Lorraine, Oldenburg. Rest are bonus. Maybe have fantasy art competition for extra need for 8-14 expansion, or history lookup. Prize of free copy of game, some money, reward, etc.
 
 40 cubes per player
 
 Holy Roman Empire Sheet
 
-120 military cards
+30 Military Unit poker cards
 
 5 Towns for each player
 
-27 Principality Towns
+20 Silver Principality Capitals
 
-Protestant Dice – 40
+7 Silver Elector Principality Capitals
 
-Catholic Dice – 40
+D20 - 3
 
-D20 – 3
+Dubloons - 40
 
-Gold – 40 pennies
+Ottoman Die - 1
 
-Ottoman Die – 1
+Protestant Dice - 40
 
-8 Council of Trent Tokens
-
-8 French Interference Tokens
+Catholic Dice - 40
 
 Religious Upheaval Bag
 
-Flags – to represent allies
+Flags - to represent allies
 
-Protestants orange and catholics brown or catholics gold and protestants brown?
-
-9-14 players – light green, light brown, grey, pink, cyan, teal
+9-14 players - light green, light brown, grey, pink, cyan, teal
 
 ## How to Win
 
@@ -123,13 +117,13 @@ Each Player submits a cube of their color. Randomly draw cubes for Setup Order. 
 
 The First Player places an Elector of his choice anywhere on the map, and placing a town on the Elector’s capital province. The Elector’s provinces must be contiguous, unless impossible, but may be shaped however the Player desires. Other Players follow, in Setup Order, going back to the First Player at the end. The following starting Electors must be placed:
 
-Trier, Mainz, and Cologne – 1 province
+Trier, Mainz, and Cologne - 1 province
 
-The Palatinate and Saxony – 2 provinces
+The Palatinate and Saxony - 2 provinces
 
-Brandenburg – 3 provinces
+Brandenburg - 3 provinces
 
-Bohemia – 4 provinces
+Bohemia - 4 provinces
 
 ### Place other Principalities
 
@@ -153,24 +147,24 @@ Elect the Emperor according to the Imperial Election rules. Then place the Emper
 
 Each Player chooses a Military Doctrine in Setup Order, placing his cube there. The 7 available Military Doctrines are:
 
-Flexible – an emphasis on flexibility
+Flexible - an emphasis on flexibility
 
-Defensive – an emphasis on pikemen
+Defensive - an emphasis on pikemen
 
-Offensive – an emphasis on musketeers and cavalry
+Offensive - an emphasis on musketeers and cavalry
 
-Aristocratic – an emphasis on cavalry
+Aristocratic - an emphasis on cavalry
 
-Infantry – an emphasis on pikemen and musketeers
+Infantry - an emphasis on pikemen and musketeers
 
-Traditional – an emphasis on pikemen and cavalry
+Traditional - an emphasis on pikemen and cavalry
 
-Innovative – an emphasis on musketeers
+Innovative - an emphasis on musketeers
 
 
 ### SET UP THE HOLY ROMAN EMPIRE SHEET
 
-Place a cube from all Players in the Saved by Faith and Works box. Put a cube for all Players at 0 Saints. Place the Catholic marker at 7 Catholic Electors, and the Emperor’s religion at Catholic. Now let the games begin – proceed to Round 1.
+Place a cube from all Players in the Saved by Faith and Works box. Put a cube for all Players at 0 Saints. Place the Catholic marker at 7 Catholic Electors, and the Emperor’s religion at Catholic. Now let the games begin - proceed to Round 1.
 
 ### FUND THE MONASTERIES
 
@@ -225,11 +219,11 @@ Players convert in Initiative Order, and upon conversion:
 Lose all Faith, Saints, and/or Reformation Points of the opposing religion.
 Change the religion of your capital to your new religion. The is the only way your capital ever converts.
 
-Ransack the Monasteries – When you convert to Protestantism for the first time, gain 2 Gold.
+Ransack the Monasteries - When you convert to Protestantism for the first time, gain 2 Gold.
 
-Blood of the Martyrs – Except for Martin Luther and St. Francis de Sales, when you convert you gain however many Saints or Reformation Points the Player with the least has who is still saved, -2. May not go negative.
+Blood of the Martyrs - Except for Martin Luther and St. Francis de Sales, when you convert you gain however many Saints or Reformation Points the Player with the least has who is still saved, -2. May not go negative.
 
-Martin Luther/St. Francis de Sales – The first Player to convert to Protestantism gains 6 Reformation Points. If no Catholics remain, the first Player to return to Catholicism gains 6 Saints.
+Martin Luther/St. Francis de Sales - The first Player to convert to Protestantism gains 6 Reformation Points. If no Catholics remain, the first Player to return to Catholicism gains 6 Saints.
 
 ##### Call The Council of Trent
 
@@ -237,10 +231,10 @@ Until The Catholic Reformation begins, Catholic Players decide whether or not to
 
 First, all Catholic players, whether or not they chose to Combat Heresy, secretly place a Council of Trent token or a French Interference token in their hands. Players reveal simultaneously. All Players who submitted a Council of Trent token store up treasure in heaven and gain 1 Saint. All Players who submitted a French Interference token gain 1 Diplomatic Influence as their worldly reward. If a majority are French Interference tokens, or the Emperor submits a French Interference token, the French interfere and the Council is delayed.
 
-If at least half are Council of Trent tokens, including the Emperor’s if he participates in the Council, then the Council meets but does not necessarily conclude. Roll the Ottoman Empire die; if it lands on an Ottoman Crescent (1-2), the Ottoman Empire threatens to disrupt the council, which disperses without concluding – better luck next round!
+If at least half are Council of Trent tokens, including the Emperor’s if he participates in the Council, then the Council meets but does not necessarily conclude. Roll the Ottoman Empire die; if it lands on an Ottoman Crescent (1-2), the Ottoman Empire threatens to disrupt the council, which disperses without concluding - better luck next round!
 
 If the Ottoman Empire does not disrupt the Council, then The Council of Trent concludes and The Catholic Reformation begins; Church Abuses end, and the Sale of Indulgences is prohibited.
-Saint Pius V & Victory at Lepanto – If the Council has not concluded by the end of Round 3, St. Pius V holds the Council outside the Empire, defeats the Ottoman Empire at Lepanto, and The Catholic Reformation begins anyway.
+Saint Pius V & Victory at Lepanto - If the Council has not concluded by the end of Round 3, St. Pius V holds the Council outside the Empire, defeats the Ottoman Empire at Lepanto, and The Catholic Reformation begins anyway.
 
 ##### Spread the Faith
 
@@ -262,11 +256,11 @@ The Jesuits Strike Back: 1 Faith Rounds 4-6
 
 Catholics and Protestants:
 
-Zeal: +4 Faith for those saved by Faith and Works or Faith Alone. These are the Players with the most Saints/Reformation Points – 2 in a 5-6 Player game, 3 in a 7-8 Player game.
+Zeal: +4 Faith for those saved by Faith and Works or Faith Alone. These are the Players with the most Saints/Reformation Points - 2 in a 5-6 Player game, 3 in a 7-8 Player game.
 
 Imperial Sanction: +1 Faith for adherents of the Emperor’s Religion
 
-Church Patronage – Gold may be turned into Faith at a rate of 1 Gold:2 Faith
+Church Patronage - Gold may be turned into Faith at a rate of 1 Gold:2 Faith
 
 After Players have earned their Faith/Gold and decided whether to use Church Patronage (Initiative Order if requested), Players Spread the Faith. Roll all of your Faith dice. You earn 1 Saint or Reformation Point for each Cross or Crucifix (1-3) you roll. Move your control marker up on the Holy Roman Empire Sheet.
 
@@ -281,11 +275,11 @@ In a neighboring (adjacent) Player-controlled non-capital province
 On a neighboring or allied Principality (but not a neighbor of an ally)
 
 Whenever a Player places a dice on a province with a dice of the opposing Faith, both dice are removed. Once all Players have placed their dice, provinces/Principalities convert:
-Within their own territory – Dice of your religion placed on heretical provinces you control convert the province they’re on, and an additional heretical province of your choice that you control that does not have a heretical dice on it.
+Within their own territory - Dice of your religion placed on heretical provinces you control convert the province they’re on, and an additional heretical province of your choice that you control that does not have a heretical dice on it.
 
-In a neighboring Player-controlled province – Dice placed on heretical provinces of opposing Players convert the province they were placed on.
+In a neighboring Player-controlled province - Dice placed on heretical provinces of opposing Players convert the province they were placed on.
 
-On a neighboring or allied Principality – Dice placed on Principalities convert the entire Principality if as many are on it as the Principality has provinces.
+On a neighboring or allied Principality - Dice placed on Principalities convert the entire Principality if as many are on it as the Principality has provinces.
 
 #### Engage in Diplomacy
 
@@ -378,33 +372,33 @@ When battling an unaligned Principality, the first Player after you in Initiativ
 
 If a Player’s Army Size + Reserves is twice as large as an opponent’s, he wins the battle automatically without drawing Military Cards.
 
-If not, Players randomly draw cards from the deck according to their Imperial Power – up to a max of 12 cards, with the rest of their Imperial Power going towards Reserves. After drawing Military Cards, Players may pay Gold to draw extra Military Cards of their choice at a rate of 1:1. In addition, Players may discard up to 2 cards faceup and draw replacements according to their Military Doctrines. Do these simultaneously unless a Player requests it be done in Initiative Order.
+If not, Players randomly draw cards from the deck according to their Imperial Power - up to a max of 12 cards, with the rest of their Imperial Power going towards Reserves. After drawing Military Cards, Players may pay Gold to draw extra Military Cards of their choice at a rate of 1:1. In addition, Players may discard up to 2 cards faceup and draw replacements according to their Military Doctrines. Do these simultaneously unless a Player requests it be done in Initiative Order.
 
 Military Doctrines:
-Flexible – May discard any unit for any other unit
+Flexible - May discard any unit for any other unit
 
-Defensive – May discard 1 musketeer or cavalry for 2 pikemen
+Defensive - May discard 1 musketeer or cavalry for 2 pikemen
 
-Offensive – May discard 1 pikeman for 1 musketeer and 1 cavalry
+Offensive - May discard 1 pikeman for 1 musketeer and 1 cavalry
 
-Aristocratic – May discard 1 pikeman or musketeer for 2 cavalry
+Aristocratic - May discard 1 pikeman or musketeer for 2 cavalry
 
-Infantry – May discard 1 cavalry for 1 pikeman and 1 musketeer
+Infantry - May discard 1 cavalry for 1 pikeman and 1 musketeer
 
-Traditional – May discard 1 musketeer for 1 pikeman and 1 cavalry
+Traditional - May discard 1 musketeer for 1 pikeman and 1 cavalry
 
-Innovative – May discard 1 pikeman or cavalry for 2 musketeers
+Innovative - May discard 1 pikeman or cavalry for 2 musketeers
 
 During battle Players play cards face-down, then flip them face-up. If the cards are the same, both are discarded. If the cards pit:
 
-Pikemen vs. Cavalry – Discard the Cavalry and return the Pikeman to its owner’s hand. The player who played Cavalry may not play Cavalry again next round. If he only has Cavalry, he routes.
+Pikemen vs. Cavalry - Discard the Cavalry and return the Pikeman to its owner’s hand. The player who played Cavalry may not play Cavalry again next round. If he only has Cavalry, he routes.
 
-Musketeers vs. Pikemen – Discard the Pike and return the Musket to its owner’s hand.
-Advanced Rifling – Rounds 5-6 in addition, the Player who played the Pikeman must discard an additional card of his opponent’s choice. If he does not have any more of that type of unit, he must say so. The Player who played Musketeers then chooses another unit type for his opponent to discard instead.
+Musketeers vs. Pikemen - Discard the Pike and return the Musket to its owner’s hand.
+Advanced Rifling - Rounds 5-6 in addition, the Player who played the Pikeman must discard an additional card of his opponent’s choice. If he does not have any more of that type of unit, he must say so. The Player who played Musketeers then chooses another unit type for his opponent to discard instead.
 
-Cavalry vs. Musketeers – Discard the Musket and return the Cavalry to its owner’s hand. The Player who played Musketeers discards an additional Pikeman and Musketeer from his hand. If he lacks one of the unit types he must say so and discard 2 of the infantry he does have instead. If he does not have 2 infantry cards to discard, he routes. In addition, if the Player who played Cavalry has 2x his opponent’s cards, his opponent routes.
+Cavalry vs. Musketeers - Discard the Musket and return the Cavalry to its owner’s hand. The Player who played Musketeers discards an additional Pikeman and Musketeer from his hand. If he lacks one of the unit types he must say so and discard 2 of the infantry he does have instead. If he does not have 2 infantry cards to discard, he routes. In addition, if the Player who played Cavalry has 2x his opponent’s cards, his opponent routes.
 
-Call for Reinforcements – After any round of battle a Player may Call for Reinforcements. He also may be forced to Call for Reinforcements by a route, or running out of cards. When Calling for Reinforcements, he draws from his battle discard pile as many Military Cards as his Imperial Power says he has reinforcements. The cards he draws are of his choice, but he may not draw more than he has cards in the discard pile, even if his Imperial Power says he gets more reinforcements. A Player may only Call for Reinforcements once during a battle.
+Call for Reinforcements - After any round of battle a Player may Call for Reinforcements. He also may be forced to Call for Reinforcements by a route, or running out of cards. When Calling for Reinforcements, he draws from his battle discard pile as many Military Cards as his Imperial Power says he has reinforcements. The cards he draws are of his choice, but he may not draw more than he has cards in the discard pile, even if his Imperial Power says he gets more reinforcements. A Player may only Call for Reinforcements once during a battle.
 
 If a Player runs out of cards or routes, he discards the rest of his cards and must call for his reinforcements. If he does not have reinforcements or has already called for reinforcements, he loses the battle. If both Players run out of cards and reinforcements, the battle is Inconclusive and the Players sign a White Peace; neither Player conquers provinces from the other or loses influence with allies
 
@@ -475,7 +469,7 @@ Next, if the Emperor was in the League of his religion and he:
 Won, then he may remove any number of heretical Electors who fought in the Defeated League from the Electorate, replacing them with Electors of his choice of his own religion.
 Lost, then the Player(s) of the opposing League with the most Imperial Power may remove any number of Electors of the Emperor’s religion who fought in the Defeated League from the Electorate, replacing them with Electors of his (their) choice of the opposing Religion. Initiative Order in the case of ties.
 Finally, members of the Victorious League, in Initiative Order, may conquer provinces from the Defeated League. Players do not lose Diplomatic Influence for taking towns and non-adjacent provinces. Otherwise, the rules for Peace Treaties in Religious Wars are exactly the same as those during Player Turns
-The Leagues reset – No one starts in either League heading into the next round.
+The Leagues reset - No one starts in either League heading into the next round.
 
 ###### Tradeoffs
 
@@ -503,7 +497,7 @@ Every Round each Foreign Power rolls 2D6 for "Internal Troubles and Wars Abroad.
 
 If the Emperor has been Emperor for one round only, roll a D6; he dies on a 3 or less. He dies automatically if he has been Emperor for two rounds, or left the Empire to become a Foreign Power. Hold an Imperial Election any round in which the Emperor dies.
 
-The Emperor is elected by the 7 Electors of the Holy Roman Empire. These start as the 7 historical Electors of this time period – Trier, Mainz, Cologne, Saxony, The Palatinate, Brandenburg, and Bohemia. Throughout the game different Principalities may become Electors, but a Player may never become an Elector.
+The Emperor is elected by the 7 Electors of the Holy Roman Empire. These start as the 7 historical Electors of this time period - Trier, Mainz, Cologne, Saxony, The Palatinate, Brandenburg, and Bohemia. Throughout the game different Principalities may become Electors, but a Player may never become an Elector.
 
 Players allied to Electors control their votes.
 
