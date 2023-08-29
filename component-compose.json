@@ -278,5 +278,15 @@
         "artdataFilename": "princeMarkersFront",
         "backArtdataFilename": "princeMarkersBack",
         "disabled": false
+    },
+    {
+        "name": "playerProvinces",
+        "type": "MediumHexTile",
+        "quantity": 1,
+        "piecesGamedataFilename": "playerProvinces",
+        "componentGamedataFilename": "playerProvinces",
+        "artdataFilename": "playerProvincesFront",
+        "backArtdataFilename": "playerProvincesBack",
+        "disabled": false
     }
 ]

@@ -1,0 +1,15 @@
+{
+    "name": "playerProvinceBack",
+    "templateFilename": "provinceHexTile",
+    "textReplacements": [
+        { "scope": "piece", "key": "global", "source": "" }
+    ],
+    "styleUpdates": [
+        { "id": "backgroundColor", "cssValue": "fill", "scope": "game", "source": "catholicColor" },
+        { "id": "foregroundColor", "cssValue": "fill", "scope": "piece", "source": "color" }
+    ],
+    "overlays": [
+        { "scope": "global", "source": "province" },
+        { "scope": "global", "source": "chitHexMediumBoundaries", "isComplex": true, "isDebugInfo": true }
+    ]
+}
