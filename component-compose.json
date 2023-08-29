@@ -288,5 +288,11 @@
         "artdataFilename": "playerProvincesFront",
         "backArtdataFilename": "playerProvincesBack",
         "disabled": false
+    },
+    {
+        "name": "d20",
+        "type": "STOCK_D20White",
+        "quantity": 3,
+        "disabled": false
     }
 ]
