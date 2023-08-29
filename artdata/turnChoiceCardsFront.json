@@ -3,13 +3,14 @@
     "templateFilename": "turnChoiceCardsFront",
     "textReplacements": [
         { "scope": "piece", "key": "name", "source": "displayName" },
-        { "scope": "piece", "key": "rules", "source": "rules" }
+        { "scope": "piece", "key": "rules", "source": "rules" },
+        { "scope": "piece", "key": "emperorRules", "source": "emperorRules" }
     ],
     "styleUpdates": [
         { "id": "backgroundColor", "cssValue": "fill", "scope": "component", "source": "colorRGB" }
     ],
     "overlays": [
         { "scope": "piece", "source": "graphic" },
-        { "scope": "global", "source": "overlayPokerNameRules" }
+        { "scope": "global", "source": "turnChoice/overlayTurnChoicePokerNameRules" }
     ]
 }

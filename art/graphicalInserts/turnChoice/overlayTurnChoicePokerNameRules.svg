@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+     width="825"
+     height="1125"
+     viewBox="0 0 825 1125"
+     version="1.1"
+     id="svg3190"
+     inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+     sodipodi:docname="overlayTurnChoicePokerNameRules.svg"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:svg="http://www.w3.org/2000/svg">
+    <sodipodi:namedview
+         id="namedview3192"
+         pagecolor="#ffffff"
+         bordercolor="#999999"
+         borderopacity="1"
+         inkscape:showpageshadow="0"
+         inkscape:pageopacity="0"
+         inkscape:pagecheckerboard="0"
+         inkscape:deskcolor="#d1d1d1"
+         inkscape:document-units="mm"
+         showgrid="false"
+         inkscape:zoom="0.64693624"
+         inkscape:cx="58.738401"
+         inkscape:cy="461.4056"
+         inkscape:window-width="2400"
+         inkscape:window-height="1261"
+         inkscape:window-x="4691"
+         inkscape:window-y="1025"
+         inkscape:window-maximized="1"
+         inkscape:current-layer="layer1" />
+    <defs
+         id="defs3187">
+        <rect
+             x="94.290591"
+             y="644.57666"
+             width="622.9362"
+             height="400.34857"
+             id="rect18216" />
+        <rect
+             x="89.626694"
+             y="238.27584"
+             width="625.5759"
+             height="385.44683"
+             id="rect13560" />
+        <linearGradient
+             inkscape:collect="always"
+             id="linearGradient357">
+            <stop
+                 style="stop-color:black;stop-opacity:1;"
+                 offset="0"
+                 id="stop353" />
+            <stop
+                 style="stop-color:black;stop-opacity:0;"
+                 offset="1"
+                 id="stop355" />
+        </linearGradient>
+        <rect
+             x="212.04364"
+             y="518.08601"
+             width="632.85189"
+             height="836.15146"
+             id="rect3313" />
+        <rect
+             x="212.04364"
+             y="518.086"
+             width="641.59595"
+             height="398.94809"
+             id="rect3313-3" />
+        <linearGradient
+             inkscape:collect="always"
+             xlink:href="#linearGradient357"
+             id="linearGradient359"
+             x1="400.04108"
+             y1="983.70746"
+             x2="408.78516"
+             y2="-187.99739"
+             gradientUnits="userSpaceOnUse" />
+        <rect
+             x="89.626694"
+             y="238.27583"
+             width="645.67065"
+             height="563.20779"
+             id="rect13560-0" />
+    </defs>
+    <g
+         inkscape:label="Layer 1"
+         inkscape:groupmode="layer"
+         id="layer1">
+        <rect
+             style="fill:url(#linearGradient359);stroke:#130311;stroke-width:1.19276;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;fill-opacity:1"
+             id="rect291"
+             width="823.80725"
+             height="1123.8073"
+             x="0.59637451"
+             y="0.59637451" />
+        <text
+             xml:space="preserve"
+             style="font-weight:bold;font-size:79.4822px;line-height:1;font-family:Corbel;-inkscape-font-specification:'Corbel Bold';fill:white;stroke:#130311;stroke-width:7.55906;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+             x="86.454308"
+             y="157.19727"
+             id="text3361"><tspan
+                 sodipodi:role="line"
+                 id="tspan3359"
+                 x="86.454308"
+                 y="157.19727"
+                 style="font-size:79.4822px;stroke-width:7.55906;stroke-dasharray:none">{name}</tspan></text>
+        <text
+             xml:space="preserve"
+             id="text13558"
+             style="font-style:italic;font-stretch:condensed;font-size:42.6667px;line-height:1;font-family:'IBM Plex Sans Condensed';-inkscape-font-specification:'IBM Plex Sans Condensed,  Italic Condensed';text-align:justify;white-space:pre;shape-inside:url(#rect13560);display:inline;fill:white;fill-opacity:1;stroke:#130311;stroke-width:4.08567;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+             transform="translate(0,-40)"
+             x="0"
+             y="0"><tspan
+                 x="89.626953"
+                 y="271.55542"
+                 id="tspan20770"><tspan
+                     style="font-style:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:start"
+                     id="tspan20768">{rules}</tspan></tspan></text>
+        <text
+             xml:space="preserve"
+             id="text13558-7"
+             style="font-style:italic;font-stretch:condensed;font-size:37.3333px;line-height:1;font-family:'IBM Plex Sans Condensed';-inkscape-font-specification:'IBM Plex Sans Condensed,  Italic Condensed';text-align:justify;white-space:pre;shape-inside:url(#rect13560-0);display:inline;fill:white;fill-opacity:1;stroke:#130311;stroke-width:4.08567;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+             x="0"
+             y="0"
+             transform="translate(0,475.23625)"><tspan
+                 x="89.626953"
+                 y="267.39537"
+                 id="tspan20774"><tspan
+                     style="font-style:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:start"
+                     id="tspan20772">{emperorRules}</tspan></tspan></text>
+        <text
+             xml:space="preserve"
+             id="text18214"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;line-height:1;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;white-space:pre;shape-inside:url(#rect18216);display:inline;fill:white;fill-opacity:1;stroke:#130311;stroke-width:4.08567;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+    </g>
+</svg>

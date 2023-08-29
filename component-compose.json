@@ -294,5 +294,15 @@
         "type": "STOCK_D20White",
         "quantity": 3,
         "disabled": false
+    },
+    {
+        "name": "emperorBoard",
+        "type": "BoardDomino",
+        "quantity": 1,
+        "piecesGamedataFilename": "emperorBoard",
+        "componentGamedataFilename": "emperorBoard",
+        "artdataFilename": "emperorBoard",
+        "backArtdataFilename": "emperorBoard",
+        "disabled": false
     }
 ]

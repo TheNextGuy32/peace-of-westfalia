@@ -482,22 +482,6 @@ The Leagues reset – No one starts in either League heading into the next round
 Players experience Tradeoffs depending on the choices made on their turns. Do simultaneously, unless a Player requests it be done in Initiative Order.
 All remaining Gold turns into Diplomatic Influence at a rate of 1:1 (may be lost during Tradeoffs).
 
-The Emperor:
-
-Gains 1 Diplomatic Influence, which he may place or save, if Foreign Powers (other than himself) owned zero provinces in the Empire throughout the entire Round.
-
-Gains 2 Diplomatic Influence, which he may place or save, if he or his allies conquered at least one province from a Foreign Power during the Round.
-
-Loses 3 Diplomatic Influence (saved or placed) if Foreign Powers (other than himself) own provinces in the Empire and he did not fight in a war (Private or Religious) against a Foreign Power.
-
-If you did not Combat Heresy and are not a Foreign Power, roll a D6. On a 1-3, one of your orthodox provinces of your choice converts to the religion you consider heretical. Remember, Player capitals never convert this way.
-
-If you did not Combat Heresy and are a Foreign Power, add 1 to your roll for Internal Troubles and Wars Abroad next phase.
-
-If you did not Engage in Diplomacy, lose 1 Diplomatic Influence (saved or placed).
-
-If you did not fight in a war (Private or Religious), lose 2 DI (saved or placed).
-
 ###### Foreign Powers
 
 Any Player may become a Foreign Power if he owns no non-capital towns and: Rounds 1-3 has 5 Imperial Power or less, or Rounds 4-6 has 15 Imperial Power or less.
