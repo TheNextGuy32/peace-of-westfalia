@@ -227,7 +227,7 @@
         "componentGamedataFilename": "emperorMarker",
         "artdataFilename": "emperorMarker",
         "backArtdataFilename": "emperorMarker",
-        "disabled": false
+        "disabled": true
     },
     {
         "name": "commonBoard",
@@ -267,7 +267,7 @@
         "componentGamedataFilename": "electorBoard",
         "artdataFilename": "electorBoard",
         "backArtdataFilename": "electorBoard",
-        "disabled": false
+        "disabled": true
     },
     {
         "name": "princeMarkers",
@@ -277,7 +277,7 @@
         "componentGamedataFilename": "princeMarkers",
         "artdataFilename": "princeMarkersFront",
         "backArtdataFilename": "princeMarkersBack",
-        "disabled": false
+        "disabled": true
     },
     {
         "name": "playerProvinces",
@@ -303,6 +303,16 @@
         "componentGamedataFilename": "emperorBoard",
         "artdataFilename": "emperorBoard",
         "backArtdataFilename": "emperorBoard",
+        "disabled": false
+    },
+    {
+        "name": "leagueWarBoard",
+        "type": "DominoBoard",
+        "quantity": 1,
+        "piecesGamedataFilename": "leagueWarBoard",
+        "componentGamedataFilename": "leagueWarBoard",
+        "artdataFilename": "leagueWarBoard",
+        "backArtdataFilename": "leagueWarBoard",
         "disabled": false
     }
 ]
