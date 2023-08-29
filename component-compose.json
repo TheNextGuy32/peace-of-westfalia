@@ -49,7 +49,7 @@
     },
     {
         "name": "coins",
-        "type": "STOCK_Dubloon",
+        "type": "STOCK_CoinTimelessOne",
         "quantity": 40,
         "disabled": false
     },
