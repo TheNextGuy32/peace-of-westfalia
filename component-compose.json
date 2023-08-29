@@ -185,8 +185,8 @@
         "quantity": 1,
         "piecesGamedataFilename": "playerBoard",
         "componentGamedataFilename": "playerBoard",
-        "artdataFilename": "playerBoardFront",
-        "backArtdataFilename": "playerBoardBack",
+        "artdataFilename": "playerBoard",
+        "backArtdataFilename": "playerBoard",
         "disabled": false
     },
     {
@@ -235,8 +235,8 @@
         "quantity": 1,
         "piecesGamedataFilename": "commonBoard",
         "componentGamedataFilename": "commonBoard",
-        "artdataFilename": "commonBoardFront",
-        "backArtdataFilename": "commonBoardBack",
+        "artdataFilename": "commonBoard",
+        "backArtdataFilename": "commonBoard",
         "disabled": false
     },
     {
@@ -265,8 +265,8 @@
         "quantity": 1,
         "piecesGamedataFilename": "electorBoard",
         "componentGamedataFilename": "electorBoard",
-        "artdataFilename": "electorBoardFront",
-        "backArtdataFilename": "electorBoardBack",
+        "artdataFilename": "electorBoard",
+        "backArtdataFilename": "electorBoard",
         "disabled": false
     },
     {

@@ -1,6 +1,6 @@
 {
-    "name": "playerBoard",
-    "templateFilename": "playerBoardBack",
+    "name": "commonBoard",
+    "templateFilename": "commonBoard",
     "textReplacements": [],
     "styleUpdates": [],
     "overlays": []

@@ -1,6 +1,6 @@
 {
-    "name": "commonBoard",
-    "templateFilename": "commonBoardBack",
+    "name": "electorBoard",
+    "templateFilename": "electorBoard",
     "textReplacements": [],
     "styleUpdates": [],
     "overlays": []

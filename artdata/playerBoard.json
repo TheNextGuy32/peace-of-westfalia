@@ -1,6 +1,6 @@
 {
     "name": "playerBoard",
-    "templateFilename": "playerBoardFront",
+    "templateFilename": "playerBoard",
     "textReplacements": [
         { "scope": "component", "key": "doctrineOne", "source": "doctrineOne" },
         { "scope": "component", "key": "doctrineTwo", "source": "doctrineTwo" },
