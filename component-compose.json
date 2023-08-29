@@ -32,7 +32,7 @@
     {
         "name": "principalityTowns",
         "type": "STOCK_HouseSilver",
-        "quantity": 1,
+        "quantity": 20,
         "disabled": false
     },
     {
