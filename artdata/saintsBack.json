@@ -1,0 +1,9 @@
+{
+    "name": "saints",
+    "templateFilename": "saintsBack",
+    "textReplacements": [],
+    "styleUpdates": [],
+    "overlays": [
+        { "scope": "global", "source": "saint" }
+    ]
+}

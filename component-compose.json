@@ -314,5 +314,15 @@
         "artdataFilename": "leagueWarBoard",
         "backArtdataFilename": "leagueWarBoard",
         "disabled": false
+    },
+    {
+        "name": "saints",
+        "type": "PokerDeck",
+        "quantity": 1,
+        "piecesGamedataFilename": "saints",
+        "componentGamedataFilename": "saints",
+        "artdataFilename": "saintsFront",
+        "backArtdataFilename": "saintsBack",
+        "disabled": false
     }
 ]
