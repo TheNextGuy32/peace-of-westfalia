@@ -324,6 +324,7 @@
         "artdataFilename": "saintsFront",
         "backArtdataFilename": "saintsBack",
         "disabled": false
+    },
     {
         "name": "abilities",
         "type": "PokerDeck",
@@ -332,6 +333,16 @@
         "componentGamedataFilename": "abilities",
         "artdataFilename": "abilitiesFront",
         "backArtdataFilename": "abilitiesBack",
+        "disabled": false
+    },
+    {
+        "name": "councilOfTrent",
+        "type": "DominoBoard",
+        "quantity": 1,
+        "piecesGamedataFilename": "councilOfTrent",
+        "componentGamedataFilename": "councilOfTrent",
+        "artdataFilename": "councilOfTrentFront",
+        "backArtdataFilename": "councilOfTrentBack",
         "disabled": false
     },
     }
