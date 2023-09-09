@@ -324,5 +324,15 @@
         "artdataFilename": "saintsFront",
         "backArtdataFilename": "saintsBack",
         "disabled": false
+    {
+        "name": "abilities",
+        "type": "PokerDeck",
+        "quantity": 1,
+        "piecesGamedataFilename": "abilities",
+        "componentGamedataFilename": "abilities",
+        "artdataFilename": "abilitiesFront",
+        "backArtdataFilename": "abilitiesBack",
+        "disabled": false
+    },
     }
 ]

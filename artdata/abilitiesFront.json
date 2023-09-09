@@ -1,0 +1,13 @@
+{
+    "name": "abilitiesFront",
+    "templateFilename": "turnChoiceCardsFront",
+    "textReplacements": [
+        { "scope": "piece", "key": "name", "source": "displayName" },
+        { "scope": "piece", "key": "rules", "source": "rules" }
+    ],
+    "styleUpdates": [
+    ],
+    "overlays": [
+        { "scope": "global", "source": "overlayPokerNameRules" }
+    ]
+}
