@@ -345,5 +345,14 @@
         "backArtdataFilename": "councilOfTrentBack",
         "disabled": false
     },
+    {
+        "name": "roundOrder",
+        "type": "DominoBoard",
+        "quantity": 1,
+        "piecesGamedataFilename": "roundOrder",
+        "componentGamedataFilename": "roundOrder",
+        "artdataFilename": "roundOrderFront",
+        "backArtdataFilename": "roundOrderBack",
+        "disabled": false
     }
 ]
