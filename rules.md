@@ -161,7 +161,6 @@ Traditional - an emphasis on pikemen and cavalry
 
 Innovative - an emphasis on musketeers
 
-
 ### SET UP THE HOLY ROMAN EMPIRE SHEET
 
 Place a cube from all Players in the Saved by Faith and Works box. Put a cube for all Players at 0 Saints. Place the Catholic marker at 7 Catholic Electors, and the Emperor’s religion at Catholic. Now let the games begin - proceed to Round 1.
@@ -216,65 +215,18 @@ All Players begin the game Catholic. All Non-Foreign Power Players Combatting He
 
 Players convert in Initiative Order, and upon conversion:
 
-Lose all Faith, Saints, and/or Reformation Points of the opposing religion.
-Change the religion of your capital to your new religion. The is the only way your capital ever converts.
-
-Ransack the Monasteries - When you convert to Protestantism for the first time, gain 2 Gold.
-
 Blood of the Martyrs - Except for Martin Luther and St. Francis de Sales, when you convert you gain however many Saints or Reformation Points the Player with the least has who is still saved, -2. May not go negative.
 
 Martin Luther/St. Francis de Sales - The first Player to convert to Protestantism gains 6 Reformation Points. If no Catholics remain, the first Player to return to Catholicism gains 6 Saints.
 
 ##### Call The Council of Trent
 
-Until The Catholic Reformation begins, Catholic Players decide whether or not to call The Council of Trent and attempt to begin The Catholic Reformation:
-
-First, all Catholic players, whether or not they chose to Combat Heresy, secretly place a Council of Trent token or a French Interference token in their hands. Players reveal simultaneously. All Players who submitted a Council of Trent token store up treasure in heaven and gain 1 Saint. All Players who submitted a French Interference token gain 1 Diplomatic Influence as their worldly reward. If a majority are French Interference tokens, or the Emperor submits a French Interference token, the French interfere and the Council is delayed.
-
-If at least half are Council of Trent tokens, including the Emperor’s if he participates in the Council, then the Council meets but does not necessarily conclude. Roll the Ottoman Empire die; if it lands on an Ottoman Crescent (1-2), the Ottoman Empire threatens to disrupt the council, which disperses without concluding - better luck next round!
-
-If the Ottoman Empire does not disrupt the Council, then The Council of Trent concludes and The Catholic Reformation begins; Church Abuses end, and the Sale of Indulgences is prohibited.
-Saint Pius V & Victory at Lepanto - If the Council has not concluded by the end of Round 3, St. Pius V holds the Council outside the Empire, defeats the Ottoman Empire at Lepanto, and The Catholic Reformation begins anyway.
+If the Catholic Reformation has not begun, attempt to Call the Council of Trent.
 
 ##### Spread the Faith
 
-All Players Combatting Heresy now Earn Faith dice of their Respective Faith (and Gold if Catholic before the Catholic Reformation) based on the Round # and their total Saints.
-
-Catholics:
-
-The Catholic Reformation: Gain 2 Faith during The Catholic Reformation.
-
-The Intercession of the Saints: +1 Faith per 5 Saints.
-
-Sale of Indulgences: Gain 1 Gold before The Catholic Reformation
-
-Protestants:
-
-Down with The Whore of Babylon: 3 Faith Rounds 1-3
-
-The Jesuits Strike Back: 1 Faith Rounds 4-6
-
-Catholics and Protestants:
-
-Zeal: +4 Faith for those saved by Faith and Works or Faith Alone. These are the Players with the most Saints/Reformation Points - 2 in a 5-6 Player game, 3 in a 7-8 Player game.
-
-Imperial Sanction: +1 Faith for adherents of the Emperor’s Religion
-
-Church Patronage - Gold may be turned into Faith at a rate of 1 Gold:2 Faith
-
-After Players have earned their Faith/Gold and decided whether to use Church Patronage (Initiative Order if requested), Players Spread the Faith. Roll all of your Faith dice. You earn 1 Saint or Reformation Point for each Cross or Crucifix (1-3) you roll. Move your control marker up on the Holy Roman Empire Sheet.
-
-Church Abuses: Before the Council of Trent concludes, Catholics do not Spread the Faith. Instead of rolling their Faith dice, they convert their Faith into Saints a rate of 2 Faith:1 Saint. Extra Faith is lost.
-
-Players then, in Initiative Order, place all of their successful dice on provinces of their choice, defensively or offensively:
-
-Within their own territory
-
-In a neighboring (adjacent) Player-controlled non-capital province
-
-On a neighboring or allied Principality (but not a neighbor of an ally)
-
 Whenever a Player places a dice on a province with a dice of the opposing Faith, both dice are removed. Once all Players have placed their dice, provinces/Principalities convert:
+
 Within their own territory - Dice of your religion placed on heretical provinces you control convert the province they’re on, and an additional heretical province of your choice that you control that does not have a heretical dice on it.
 
 In a neighboring Player-controlled province - Dice placed on heretical provinces of opposing Players convert the province they were placed on.
@@ -293,56 +245,27 @@ Unplaced Diplomatic Influence is stored on your capital. You may not move Diplom
 
 ##### Diplomatic Actions
 
-After all Players Engaging in Diplomacy have played the Diplomacy Game, in Initiative Order Players may do as many of the following as they like:
-
-Place Diplomatic Influence:
-
-You may place Diplomatic Influence on any Principalities of your choice.
-
-To ally a Principality, you must have at least as much Diplomatic Influence as the Principality has provinces, and more Diplomatic Influence than any other Player.
-
-You may ally a Principality regardless of the religion it follows.
-
-Provide Assistance
-
-Players may pay Gold (to the bank) for Diplomatic Influence at a rate of 1:1
-
-Join a League
-
-Players saved by Faith and Works may join the Catholic League. They lose 1 Diplomatic Influence from each Protestant Principality they have influence with.
-Players saved by Faith Alone may join the Evangelical League. They lose 1 Diplomatic Influence from each Catholic Principality they have influence with.
-Players not saved by Faith Alone or by Faith and Works may join either League and lose no Diplomatic Influence upon Joining a League.
-Players cannot change or leave Leagues.
-
-Release Vassal
-
-If you have a Province with a town on it, you may release a Principality as your "vassal"; replace your control marker with a Principality one. Place 2 influence on this Principality; you start its ally. Other Players may influence this Principality, and you may not retake this Principality except through war.
-
-Gift Province
-
-You may gift non-town provinces to Principalities if the provinces are adjacent to the Principality and the same religion as the Principality. Gain 1 Diplomatic Influence per gifted province with that Principality.
+After all Players Engaging in Diplomacy have played the Diplomacy Game, in Initiative Order Players may do any number of the Diplomatic Action cards.
 
 #### Wage War
 
-##### Declare Wars & Change Military Doctrines
+##### Setting the Warfare Stage
 
-In Initiative Order, each Player Waging War may do any or all of the following 3 things:
+In Initiative Order, each Player Waging War may do any or all of the following things.
+
+When all Players Waging War have had an opportunity to Declare Wars and change their Military Doctrines, proceed to Battles & Peace Treaties. The Religious War, if any, will be waged in the next phase.
 
 ###### Declare War on either an eligible Player or an unaligned Principality.
 
 If you do not want to Declare War, you may pass.
 
-Before Declaring War on an unaligned Principality you must first remove all of your Diplomatic Influence from that Principality.
-
-You may not Declare War on a Player or an unaligned Principality who has already been Declared War on.
-
-Foreign Powers may not Declare War or be Declared War upon unless they have at least one province or ally in the Empire.
-
 When a war is declared, place both Players, or the Player and the unaligned Principality in the First Battle Phase, in the order the war was declared. If either the Player or the Principality is already in the First Battle Phase, place them in the Second Battle Phase, in the order the war was declared. Likewise for the Third Battle Phase.
 
-###### Join a League and/or Declare a Religious War
+###### Join a League
 
 Players may Join a League, as in Engaging in Diplomacy.
+
+##### Declare a Religious War
 
 If a Religious War has not yet been Declared, a Player in a League saved by Faith Alone or Faith and Works (including Foreign Powers, even if they have no provinces or allies in the Empire) may Declare a Religious War against a heretical Target Principality.
 
@@ -355,12 +278,6 @@ Are its ally, or;
 Are within 2 Diplomatic Influence of being its ally (no ties).
 
 When a Religious War is Declared, the Declarer becomes the Restorer of The Faith (ROTF). Place his control marker in the corresponding slot. Do not remove any of his influence from the Target Principality.
-
-###### Change Military Doctrine
-
-Players may change their Military Doctrine by moving their cube.
-
-When all Players Waging War have had an opportunity to Declare Wars and change their Military Doctrines, proceed to Battles & Peace Treaties. The Religious War, if any, will be waged in the next phase.
 
 ##### Battles & Peace Treaties
 
@@ -465,9 +382,12 @@ When a Player routes, he exits the melee. The victorious Player’s army does no
 After the battle, if the ROTF’s League:
 Won, then the Target Principality is forcibly converted. All Players in the DOTF’s League immediately lose all Diplomatic Influence with the Target Principality. The ROTF then gains 2 Diplomatic Influence with the Target Principality. The Target Principality may neither take provinces nor have its provinces taken in the Peace Treaty. Its ally, if any, therefore will not lose any influence with the Target Principality.
 Lost, then the Target Principality retains its religion. All Players in the ROTF’s League immediately lose all Diplomatic Influence with the Target Principality. The DOTF then gains 2 Diplomatic Influence with the Target Principality. The Target Principality may take provinces in the Peace Treaty as normal.
+
 Next, if the Emperor was in the League of his religion and he:
+
 Won, then he may remove any number of heretical Electors who fought in the Defeated League from the Electorate, replacing them with Electors of his choice of his own religion.
 Lost, then the Player(s) of the opposing League with the most Imperial Power may remove any number of Electors of the Emperor’s religion who fought in the Defeated League from the Electorate, replacing them with Electors of his (their) choice of the opposing Religion. Initiative Order in the case of ties.
+
 Finally, members of the Victorious League, in Initiative Order, may conquer provinces from the Defeated League. Players do not lose Diplomatic Influence for taking towns and non-adjacent provinces. Otherwise, the rules for Peace Treaties in Religious Wars are exactly the same as those during Player Turns
 The Leagues reset - No one starts in either League heading into the next round.
 
@@ -489,6 +409,7 @@ Turn all Gold into Diplomatic Influence at a rate of 1:1.
 Count the Diplomatic Influence you have saved and on Principalities. Remove it all and give yourself back ½, rounding down.
 
 Your Foreign Power is same Religion you were in the Empire, and you may not convert. Keep your Saints/Reformation Points. Faith dice may not be placed on your Home Province to convert it.
+
 Choose a Foreign Power Home Province and place it next to one of the 6 edges of the map of your choice. You are not limited by the placement of other Foreign Power Home Provinces. Your Foreign Power Home Province is now adjacent to all provinces on that edge of the map for purposes of conversion and Peace Treaties. Your Foreign Power Home Province cannot be conquered. This province starts with a city and is your capital. It grants you 4 Imperial Power per Round #, - a roll of 2D6, rolled every Round.
 
 Every Round each Foreign Power rolls 2D6 for "Internal Troubles and Wars Abroad." Subtract the result from the Imperial Power your Foreign Power Home Province provides next Round (it may not provide negative). Your provinces inside the HRE still provide Imperial Power.
