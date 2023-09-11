@@ -5,8 +5,8 @@
         "quantity": 6,
         "piecesGamedataFilename": "militaryPokerCards",
         "componentGamedataFilename": "militaryPokerCards",
-        "artdataFilename": "militaryPokerCardsFront",
-        "backArtdataFilename": "militaryPokerCardsBack",
+        "artdataFrontFilename": "militaryPokerCardsFront",
+        "artdataBackFilename": "militaryPokerCardsBack",
         "disabled": false
     },
     {
@@ -15,8 +15,8 @@
         "quantity": 6,
         "piecesGamedataFilename": "turnChoiceCards",
         "componentGamedataFilename": "turnChoiceCards",
-        "artdataFilename": "turnChoiceCardsFront",
-        "backArtdataFilename": "turnChoiceCardsBack",
+        "artdataFrontFilename": "turnChoiceCardsFront",
+        "artdataBackFilename": "turnChoiceCardsBack",
         "disabled": false
     },
     {
@@ -25,8 +25,8 @@
         "quantity": 6,
         "piecesGamedataFilename": "dilemmaCards",
         "componentGamedataFilename": "dilemmaCards",
-        "artdataFilename": "dilemmaCardsFront",
-        "backArtdataFilename": "dilemmaCardsBack",
+        "artdataFrontFilename": "dilemmaCardsFront",
+        "artdataBackFilename": "dilemmaCardsBack",
         "disabled": false
     },
     {
@@ -155,8 +155,8 @@
         "quantity": 1,
         "piecesGamedataFilename": "foreignPower",
         "componentGamedataFilename": "foreignPower",
-        "artdataFilename": "foreignPowerFront",
-        "backArtdataFilename": "foreignPowerBack",
+        "artdataFrontFilename": "foreignPowerFront",
+        "artdataBackFilename": "foreignPowerBack",
         "disabled": false
     },
     {
@@ -165,8 +165,8 @@
         "quantity": 1,
         "piecesGamedataFilename": "germanPrince",
         "componentGamedataFilename": "germanPrince",
-        "artdataFilename": "germanPrinceFront",
-        "backArtdataFilename": "germanPrinceBack",
+        "artdataFrontFilename": "germanPrinceFront",
+        "artdataBackFilename": "germanPrinceBack",
         "disabled": false
     },
     {
@@ -175,8 +175,8 @@
         "quantity": 1,
         "piecesGamedataFilename": "packaging",
         "componentGamedataFilename": "packaging",
-        "artdataFilename": "packagingFront",
-        "backArtdataFilename": "packagingBack",
+        "artdataFrontFilename": "packagingFront",
+        "artdataBackFilename": "packagingBack",
         "disabled": true
     },
     {
@@ -185,8 +185,8 @@
         "quantity": 6,
         "piecesGamedataFilename": "playerBoard",
         "componentGamedataFilename": "playerBoard",
-        "artdataFilename": "playerBoard",
-        "backArtdataFilename": "playerBoard",
+        "artdataFrontFilename": "playerBoard",
+        "artdataBackFilename": "playerBoard",
         "disabled": false
     },
     {
@@ -195,8 +195,8 @@
         "quantity": 6,
         "piecesGamedataFilename": "doctrineChoice",
         "componentGamedataFilename": "doctrineChoice",
-        "artdataFilename": "doctrineChoice",
-        "backArtdataFilename": "doctrineChoice",
+        "artdataFrontFilename": "doctrineChoice",
+        "artdataBackFilename": "doctrineChoice",
         "disabled": false
     },
     {
@@ -205,8 +205,8 @@
         "quantity": 6,
         "piecesGamedataFilename": "scoreMarker",
         "componentGamedataFilename": "scoreMarker",
-        "artdataFilename": "scoreMarker",
-        "backArtdataFilename": "scoreMarker",
+        "artdataFrontFilename": "scoreMarker",
+        "artdataBackFilename": "scoreMarker",
         "disabled": false
     },
     {
@@ -215,8 +215,8 @@
         "quantity": 6,
         "piecesGamedataFilename": "doctrineChoices",
         "componentGamedataFilename": "doctrineChoices",
-        "artdataFilename": "doctrineChoicesFront",
-        "backArtdataFilename": "doctrineChoicesBack",
+        "artdataFrontFilename": "doctrineChoicesFront",
+        "artdataBackFilename": "doctrineChoicesBack",
         "disabled": false
     },
     {
@@ -225,8 +225,8 @@
         "quantity": 1,
         "piecesGamedataFilename": "emperorMarker",
         "componentGamedataFilename": "emperorMarker",
-        "artdataFilename": "emperorMarker",
-        "backArtdataFilename": "emperorMarker",
+        "artdataFrontFilename": "emperorMarker",
+        "artdataBackFilename": "emperorMarker",
         "disabled": true
     },
     {
@@ -235,8 +235,8 @@
         "quantity": 1,
         "piecesGamedataFilename": "commonBoard",
         "componentGamedataFilename": "commonBoard",
-        "artdataFilename": "commonBoard",
-        "backArtdataFilename": "commonBoard",
+        "artdataFrontFilename": "commonBoard",
+        "artdataBackFilename": "commonBoard",
         "disabled": false
     },
     {
@@ -245,8 +245,8 @@
         "quantity": 1,
         "piecesGamedataFilename": "yearChoice",
         "componentGamedataFilename": "yearChoice",
-        "artdataFilename": "yearChoice",
-        "backArtdataFilename": "yearChoice",
+        "artdataFrontFilename": "yearChoice",
+        "artdataBackFilename": "yearChoice",
         "disabled": false
     },
     {
@@ -255,8 +255,8 @@
         "quantity": 6,
         "piecesGamedataFilename": "monasteries",
         "componentGamedataFilename": "monasteries",
-        "artdataFilename": "monasteries",
-        "backArtdataFilename": "monasteries",
+        "artdataFrontFilename": "monasteries",
+        "artdataBackFilename": "monasteries",
         "disabled": false
     },
     {
@@ -265,8 +265,8 @@
         "quantity": 1,
         "piecesGamedataFilename": "electorBoard",
         "componentGamedataFilename": "electorBoard",
-        "artdataFilename": "electorBoard",
-        "backArtdataFilename": "electorBoard",
+        "artdataFrontFilename": "electorBoard",
+        "artdataBackFilename": "electorBoard",
         "disabled": true
     },
     {
@@ -275,8 +275,8 @@
         "quantity": 1,
         "piecesGamedataFilename": "princeMarkers",
         "componentGamedataFilename": "princeMarkers",
-        "artdataFilename": "princeMarkersFront",
-        "backArtdataFilename": "princeMarkersBack",
+        "artdataFrontFilename": "princeMarkersFront",
+        "artdataBackFilename": "princeMarkersBack",
         "disabled": true
     },
     {
@@ -285,8 +285,8 @@
         "quantity": 1,
         "piecesGamedataFilename": "playerProvinces",
         "componentGamedataFilename": "playerProvinces",
-        "artdataFilename": "playerProvincesFront",
-        "backArtdataFilename": "playerProvincesBack",
+        "artdataFrontFilename": "playerProvincesFront",
+        "artdataBackFilename": "playerProvincesBack",
         "disabled": false
     },
     {
@@ -301,8 +301,8 @@
         "quantity": 1,
         "piecesGamedataFilename": "emperorBoard",
         "componentGamedataFilename": "emperorBoard",
-        "artdataFilename": "emperorBoard",
-        "backArtdataFilename": "emperorBoard",
+        "artdataFrontFilename": "emperorBoard",
+        "artdataBackFilename": "emperorBoard",
         "disabled": false
     },
     {
@@ -311,8 +311,8 @@
         "quantity": 1,
         "piecesGamedataFilename": "leagueWarBoard",
         "componentGamedataFilename": "leagueWarBoard",
-        "artdataFilename": "leagueWarBoard",
-        "backArtdataFilename": "leagueWarBoard",
+        "artdataFrontFilename": "leagueWarBoard",
+        "artdataBackFilename": "leagueWarBoard",
         "disabled": false
     },
     {
@@ -321,8 +321,8 @@
         "quantity": 1,
         "piecesGamedataFilename": "saints",
         "componentGamedataFilename": "saints",
-        "artdataFilename": "saintsFront",
-        "backArtdataFilename": "saintsBack",
+        "artdataFrontFilename": "saintsFront",
+        "artdataBackFilename": "saintsBack",
         "disabled": false
     },
     {
@@ -331,8 +331,8 @@
         "quantity": 1,
         "piecesGamedataFilename": "abilities",
         "componentGamedataFilename": "abilities",
-        "artdataFilename": "abilitiesFront",
-        "backArtdataFilename": "abilitiesBack",
+        "artdataFrontFilename": "abilitiesFront",
+        "artdataBackFilename": "abilitiesBack",
         "disabled": false
     },
     {
@@ -341,8 +341,8 @@
         "quantity": 1,
         "piecesGamedataFilename": "councilOfTrent",
         "componentGamedataFilename": "councilOfTrent",
-        "artdataFilename": "councilOfTrentFront",
-        "backArtdataFilename": "councilOfTrentBack",
+        "artdataFrontFilename": "councilOfTrentFront",
+        "artdataBackFilename": "councilOfTrentBack",
         "disabled": false
     },
     {
@@ -351,8 +351,8 @@
         "quantity": 1,
         "piecesGamedataFilename": "roundOrder",
         "componentGamedataFilename": "roundOrder",
-        "artdataFilename": "roundOrderFront",
-        "backArtdataFilename": "roundOrderBack",
+        "artdataFrontFilename": "roundOrderFront",
+        "artdataBackFilename": "roundOrderBack",
         "disabled": false
     }
 ]
