@@ -10,14 +10,24 @@
         "disabled": false
     },
     {
-        "name": "turnChoices",
-        "type": "PokerDeck",
-        "quantity": 6,
-        "piecesGamedataFilename": "turnChoiceCards",
-        "componentGamedataFilename": "turnChoiceCards",
-        "artdataFrontFilename": "turnChoiceCardsFront",
-        "artdataBackFilename": "turnChoiceCardsBack",
-        "disabled": false
+        "name": "provincePlayerHexDeck",
+        "type": "HexDeck",
+        "quantity": 1,
+        "componentGamedataFilename": "provincePlayerHexDeck",
+        "disabled": false,
+        "piecesGamedataFilename": "provincePlayerHexDeck",
+        "artdataFrontFilename": "provincePlayerHexDeck",
+        "artdataBackFilename": "provincePlayerHexDeck"
+    },
+    {
+        "name": "provinceHexDeck",
+        "type": "HexDeck",
+        "quantity": 1,
+        "componentGamedataFilename": "provinceHexDeck",
+        "disabled": false,
+        "piecesGamedataFilename": "provinceHexDeck",
+        "artdataFrontFilename": "provinceHexDeckFront",
+        "artdataBackFilename": "provinceHexDeckBack"
     },
     {
         "name": "dilemmaChoices",
@@ -27,72 +37,6 @@
         "componentGamedataFilename": "dilemmaCards",
         "artdataFrontFilename": "dilemmaCardsFront",
         "artdataBackFilename": "dilemmaCardsBack",
-        "disabled": false
-    },
-    {
-        "name": "principalityTowns",
-        "type": "STOCK_HouseSilver",
-        "quantity": 20,
-        "disabled": false
-    },
-    {
-        "name": "principalityElectors",
-        "type": "STOCK_ChurchSilver",
-        "quantity": 7,
-        "disabled": false
-    },
-    {
-        "name": "religiousUpheavalBag",
-        "type": "STOCK_BagSmallBlack",
-        "quantity": 1,
-        "disabled": false
-    },
-    {
-        "name": "coins",
-        "type": "STOCK_CoinTimelessOne",
-        "quantity": 40,
-        "disabled": false
-    },
-    {
-        "name": "townsBlack",
-        "type": "STOCK_HouseWoodBlack",
-        "quantity": 5,
-        "disabled": false
-    },
-    {
-        "name": "townsBlue",
-        "type": "STOCK_HouseWoodBlue",
-        "quantity": 5,
-        "disabled": false
-    },
-    {
-        "name": "townsGreen",
-        "type": "STOCK_HouseWoodGreen",
-        "quantity": 5,
-        "disabled": false
-    },
-    {
-        "name": "townsOrange",
-        "type": "STOCK_HouseWoodOrange",
-        "quantity": 5,
-        "disabled": false
-    },
-    {
-        "name": "townsWhite",
-        "type": "STOCK_HouseWoodWhite",
-        "quantity": 5,
-        "disabled": false
-    },
-    {
-        "name": "townsRed",
-        "type": "STOCK_HouseWoodRed",
-        "quantity": 5,
-        "disabled": false
-    },
-    {
-        "name": "townsPurple",
-        "type": "STOCK_HouseWoodPurple",
-        "quantity": 5,
         "disabled": false
     },
     {
@@ -126,77 +70,61 @@
         "disabled": false
     },
     {
-        "name": "cubes8mmBlue",
-        "type": "STOCK_Cube8mmBlue",
-        "quantity": 40,
-        "disabled": false
-    },
-    {
         "name": "cubes8mmWhite",
         "type": "STOCK_Cube8mmWhite",
         "quantity": 40,
         "disabled": false
     },
     {
-        "name": "standardD6",
-        "type": "STOCK_D68mmWhite",
-        "quantity": 36,
-        "disabled": false
-    },
-    {
         "name": "container",
-        "type": "STOCK_StoutBoxBlankLarge",
+        "type": "STOCK_RetailBoxBlankLarge",
         "quantity": 1,
         "disabled": false
     },
     {
-        "name": "foreignPowers",
-        "type": "LargeHexTile",
-        "quantity": 1,
-        "piecesGamedataFilename": "foreignPower",
-        "componentGamedataFilename": "foreignPower",
-        "artdataFrontFilename": "foreignPowerFront",
-        "artdataBackFilename": "foreignPowerBack",
-        "disabled": false
-    },
-    {
-        "name": "princes",
-        "type": "MediumHexTile",
-        "quantity": 1,
-        "piecesGamedataFilename": "germanPrince",
-        "componentGamedataFilename": "germanPrince",
-        "artdataFrontFilename": "germanPrinceFront",
-        "artdataBackFilename": "germanPrinceBack",
-        "disabled": false
-    },
-    {
-        "name": "packaging",
-        "type": "LargeStoutBox",
-        "quantity": 1,
-        "piecesGamedataFilename": "packaging",
-        "componentGamedataFilename": "packaging",
-        "artdataFrontFilename": "packagingFront",
-        "artdataBackFilename": "packagingBack",
-        "disabled": true
-    },
-    {
-        "name": "playerBoards",
-        "type": "DominoBoard",
+        "name": "imperialPowerDie",
+        "type": "STOCK_D20White",
         "quantity": 6,
-        "piecesGamedataFilename": "playerBoard",
-        "componentGamedataFilename": "playerBoard",
-        "artdataFrontFilename": "playerBoard",
-        "artdataBackFilename": "playerBoard",
         "disabled": false
     },
     {
-        "name": "doctrineChoice",
-        "type": "SmallCircleChit",
+        "name": "faithDie",
+        "type": "STOCK_D20Black",
         "quantity": 6,
-        "piecesGamedataFilename": "doctrineChoice",
-        "componentGamedataFilename": "doctrineChoice",
-        "artdataFrontFilename": "doctrineChoice",
-        "artdataBackFilename": "doctrineChoice",
+        "disabled": false
+    },
+    {
+        "name": "protestantProvinceDice",
+        "type": "STOCK_D616mmYellow",
+        "quantity": 25,
+        "disabled": false
+    },
+    {
+        "name": "catholicProvinceDice",
+        "type": "STOCK_D616mmBlue",
+        "quantity": 25,
+        "disabled": false
+    },
+    {
+        "name": "catholicConversionCubes",
+        "type": "STOCK_Cube12mmTransparentYellow",
+        "quantity": 30,
+        "disabled": false
+    },
+    {
+        "name": "protestantConversionCubes",
+        "type": "STOCK_Cube12mmTransparentBlue",
+        "quantity": 30,
+        "disabled": false
+    },
+    {
+        "name": "abilities",
+        "type": "PokerDeck",
+        "quantity": 1,
+        "piecesGamedataFilename": "abilities",
+        "componentGamedataFilename": "abilities",
+        "artdataFrontFilename": "abilitiesFront",
+        "artdataBackFilename": "abilitiesBack",
         "disabled": false
     },
     {
@@ -207,7 +135,88 @@
         "componentGamedataFilename": "scoreMarker",
         "artdataFrontFilename": "scoreMarker",
         "artdataBackFilename": "scoreMarker",
-        "disabled": false
+        "disabled": true
+    },
+    {
+        "name": "electorBoard",
+        "type": "DominoBoard",
+        "quantity": 1,
+        "piecesGamedataFilename": "electorBoard",
+        "componentGamedataFilename": "electorBoard",
+        "artdataFrontFilename": "electorBoard",
+        "artdataBackFilename": "electorBoard",
+        "disabled": true
+    },
+    {
+        "name": "cubes8mmBlue",
+        "type": "STOCK_Cube8mmBlue",
+        "quantity": 40,
+        "disabled": true
+    },
+    {
+        "name": "standardD6",
+        "type": "STOCK_D68mmWhite",
+        "quantity": 36,
+        "disabled": true
+    },
+    {
+        "name": "princeMarkers",
+        "type": "SmallHexTile",
+        "quantity": 1,
+        "piecesGamedataFilename": "princeMarkers",
+        "componentGamedataFilename": "princeMarkers",
+        "artdataFrontFilename": "princeMarkersFront",
+        "artdataBackFilename": "princeMarkersBack",
+        "disabled": true
+    },
+    {
+        "name": "leagueWarBoard",
+        "type": "DominoBoard",
+        "quantity": 1,
+        "piecesGamedataFilename": "leagueWarBoard",
+        "componentGamedataFilename": "leagueWarBoard",
+        "artdataFrontFilename": "leagueWarBoard",
+        "artdataBackFilename": "leagueWarBoard",
+        "disabled": true
+    },
+    {
+        "name": "saints",
+        "type": "PokerDeck",
+        "quantity": 1,
+        "piecesGamedataFilename": "saints",
+        "componentGamedataFilename": "saints",
+        "artdataFrontFilename": "saintsFront",
+        "artdataBackFilename": "saintsBack",
+        "disabled": true
+    },
+    {
+        "name": "councilOfTrent",
+        "type": "DominoBoard",
+        "quantity": 1,
+        "piecesGamedataFilename": "councilOfTrent",
+        "componentGamedataFilename": "councilOfTrent",
+        "artdataFrontFilename": "councilOfTrentFront",
+        "artdataBackFilename": "councilOfTrentBack",
+        "disabled": true
+    },
+    {
+        "name": "roundOrder",
+        "type": "DominoBoard",
+        "quantity": 1,
+        "piecesGamedataFilename": "roundOrder",
+        "componentGamedataFilename": "roundOrder",
+        "artdataFrontFilename": "roundOrderFront",
+        "artdataBackFilename": "roundOrderBack",
+        "disabled": true
+    },
+    {
+        "name": "ottomanDie",
+        "type": "D6Plastic",
+        "quantity": 1,
+        "componentGamedataFilename": "ottomanDie",
+        "disabled": true,
+        "piecesGamedataFilename": "ottomanDie",
+        "artdataFrontFilename": "ottomanDieFront"
     },
     {
         "name": "doctrineChoices",
@@ -217,7 +226,7 @@
         "componentGamedataFilename": "doctrineChoices",
         "artdataFrontFilename": "doctrineChoicesFront",
         "artdataBackFilename": "doctrineChoicesBack",
-        "disabled": false
+        "disabled": true
     },
     {
         "name": "emperorMarker",
@@ -237,7 +246,7 @@
         "componentGamedataFilename": "commonBoard",
         "artdataFrontFilename": "commonBoard",
         "artdataBackFilename": "commonBoard",
-        "disabled": false
+        "disabled": true
     },
     {
         "name": "yearChoice",
@@ -247,7 +256,7 @@
         "componentGamedataFilename": "yearChoice",
         "artdataFrontFilename": "yearChoice",
         "artdataBackFilename": "yearChoice",
-        "disabled": false
+        "disabled": true
     },
     {
         "name": "monasteries",
@@ -257,26 +266,152 @@
         "componentGamedataFilename": "monasteries",
         "artdataFrontFilename": "monasteries",
         "artdataBackFilename": "monasteries",
-        "disabled": false
-    },
-    {
-        "name": "electorBoard",
-        "type": "DominoBoard",
-        "quantity": 1,
-        "piecesGamedataFilename": "electorBoard",
-        "componentGamedataFilename": "electorBoard",
-        "artdataFrontFilename": "electorBoard",
-        "artdataBackFilename": "electorBoard",
         "disabled": true
     },
     {
-        "name": "princeMarkers",
-        "type": "SmallHexTile",
+        "name": "emperorBoard",
+        "type": "DominoBoard",
         "quantity": 1,
-        "piecesGamedataFilename": "princeMarkers",
-        "componentGamedataFilename": "princeMarkers",
-        "artdataFrontFilename": "princeMarkersFront",
-        "artdataBackFilename": "princeMarkersBack",
+        "piecesGamedataFilename": "emperorBoard",
+        "componentGamedataFilename": "emperorBoard",
+        "artdataFrontFilename": "emperorBoard",
+        "artdataBackFilename": "emperorBoard",
+        "disabled": true
+    },
+    {
+        "name": "packaging",
+        "type": "LargeStoutBox",
+        "quantity": 1,
+        "piecesGamedataFilename": "packaging",
+        "componentGamedataFilename": "packaging",
+        "artdataFrontFilename": "packagingFront",
+        "artdataBackFilename": "packagingBack",
+        "disabled": true
+    },
+    {
+        "name": "playerBoards",
+        "type": "DominoBoard",
+        "quantity": 6,
+        "piecesGamedataFilename": "playerBoard",
+        "componentGamedataFilename": "playerBoard",
+        "artdataFrontFilename": "playerBoard",
+        "artdataBackFilename": "playerBoard",
+        "disabled": true
+    },
+    {
+        "name": "doctrineChoice",
+        "type": "SmallCircleChit",
+        "quantity": 6,
+        "piecesGamedataFilename": "doctrineChoice",
+        "componentGamedataFilename": "doctrineChoice",
+        "artdataFrontFilename": "doctrineChoice",
+        "artdataBackFilename": "doctrineChoice",
+        "disabled": true
+    },
+    {
+        "name": "turnChoices",
+        "type": "PokerDeck",
+        "quantity": 6,
+        "piecesGamedataFilename": "turnChoiceCards",
+        "componentGamedataFilename": "turnChoiceCards",
+        "artdataFrontFilename": "turnChoiceCardsFront",
+        "artdataBackFilename": "turnChoiceCardsBack",
+        "disabled": true
+    },
+    {
+        "name": "principalityTowns",
+        "type": "STOCK_HouseSilver",
+        "quantity": 20,
+        "disabled": true
+    },
+    {
+        "name": "principalityElectors",
+        "type": "STOCK_ChurchSilver",
+        "quantity": 7,
+        "disabled": true
+    },
+    {
+        "name": "religiousUpheavalBag",
+        "type": "STOCK_BagSmallBlack",
+        "quantity": 1,
+        "disabled": true
+    },
+    {
+        "name": "coins",
+        "type": "STOCK_CoinTimelessOne",
+        "quantity": 40,
+        "disabled": true
+    },
+    {
+        "name": "townsBlack",
+        "type": "STOCK_HouseWoodBlack",
+        "quantity": 5,
+        "disabled": true
+    },
+    {
+        "name": "townsBlue",
+        "type": "STOCK_HouseWoodBlue",
+        "quantity": 5,
+        "disabled": true
+    },
+    {
+        "name": "townsGreen",
+        "type": "STOCK_HouseWoodGreen",
+        "quantity": 5,
+        "disabled": true
+    },
+    {
+        "name": "townsOrange",
+        "type": "STOCK_HouseWoodOrange",
+        "quantity": 5,
+        "disabled": true
+    },
+    {
+        "name": "townsWhite",
+        "type": "STOCK_HouseWoodWhite",
+        "quantity": 5,
+        "disabled": true
+    },
+    {
+        "name": "townsRed",
+        "type": "STOCK_HouseWoodRed",
+        "quantity": 5,
+        "disabled": true
+    },
+    {
+        "name": "townsPurple",
+        "type": "STOCK_HouseWoodPurple",
+        "quantity": 5,
+        "disabled": true
+    },
+    {
+        "name": "emperorDeck",
+        "type": "JumboDeck",
+        "quantity": 1,
+        "componentGamedataFilename": "emperorDeck",
+        "disabled": false,
+        "piecesGamedataFilename": "emperorDeck",
+        "artdataFrontFilename": "emperorDeck",
+        "artdataBackFilename": "emperorDeck"
+    },
+    {
+        "name": "foreignPowerProvinces",
+        "type": "LargeHexTile",
+        "quantity": 1,
+        "piecesGamedataFilename": "foreignPower",
+        "componentGamedataFilename": "foreignPower",
+        "artdataFrontFilename": "foreignPowerFront",
+        "artdataBackFilename": "foreignPowerBack",
+        "disabled": true
+    },
+    {
+        "name": "princeProvinces",
+        "type": "MediumHexTile",
+        "quantity": 1,
+        "piecesGamedataFilename": "germanPrince",
+        "componentGamedataFilename": "germanPrince",
+        "artdataFrontFilename": "germanPrinceFront",
+        "artdataBackFilename": "germanPrinceBack",
         "disabled": true
     },
     {
@@ -287,72 +422,6 @@
         "componentGamedataFilename": "playerProvinces",
         "artdataFrontFilename": "playerProvincesFront",
         "artdataBackFilename": "playerProvincesBack",
-        "disabled": false
-    },
-    {
-        "name": "d20",
-        "type": "STOCK_D20White",
-        "quantity": 3,
-        "disabled": false
-    },
-    {
-        "name": "emperorBoard",
-        "type": "DominoBoard",
-        "quantity": 1,
-        "piecesGamedataFilename": "emperorBoard",
-        "componentGamedataFilename": "emperorBoard",
-        "artdataFrontFilename": "emperorBoard",
-        "artdataBackFilename": "emperorBoard",
-        "disabled": false
-    },
-    {
-        "name": "leagueWarBoard",
-        "type": "DominoBoard",
-        "quantity": 1,
-        "piecesGamedataFilename": "leagueWarBoard",
-        "componentGamedataFilename": "leagueWarBoard",
-        "artdataFrontFilename": "leagueWarBoard",
-        "artdataBackFilename": "leagueWarBoard",
-        "disabled": false
-    },
-    {
-        "name": "saints",
-        "type": "PokerDeck",
-        "quantity": 1,
-        "piecesGamedataFilename": "saints",
-        "componentGamedataFilename": "saints",
-        "artdataFrontFilename": "saintsFront",
-        "artdataBackFilename": "saintsBack",
-        "disabled": false
-    },
-    {
-        "name": "abilities",
-        "type": "PokerDeck",
-        "quantity": 1,
-        "piecesGamedataFilename": "abilities",
-        "componentGamedataFilename": "abilities",
-        "artdataFrontFilename": "abilitiesFront",
-        "artdataBackFilename": "abilitiesBack",
-        "disabled": false
-    },
-    {
-        "name": "councilOfTrent",
-        "type": "DominoBoard",
-        "quantity": 1,
-        "piecesGamedataFilename": "councilOfTrent",
-        "componentGamedataFilename": "councilOfTrent",
-        "artdataFrontFilename": "councilOfTrentFront",
-        "artdataBackFilename": "councilOfTrentBack",
-        "disabled": false
-    },
-    {
-        "name": "roundOrder",
-        "type": "DominoBoard",
-        "quantity": 1,
-        "piecesGamedataFilename": "roundOrder",
-        "componentGamedataFilename": "roundOrder",
-        "artdataFrontFilename": "roundOrderFront",
-        "artdataBackFilename": "roundOrderBack",
-        "disabled": false
+        "disabled": true
     }
 ]

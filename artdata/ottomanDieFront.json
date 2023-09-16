@@ -1,0 +1,9 @@
+{
+    "name": "ottomanDie",
+    "templateFilename": "ottomanDieFront",
+    "textReplacements": [],
+    "styleUpdates": [],
+    "overlays": [
+        { "scope": "piece", "source": "graphic" }
+    ]
+}

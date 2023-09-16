@@ -1,0 +1,14 @@
+{
+    "name": "provinceHexDeck",
+    "templateFilename": "provinceHexDeck",
+    "textReplacements": [
+        { "scope": "piece", "key": "name", "source": "displayName" },
+        { "scope": "piece", "key": "type", "source": "type" }
+    ],
+    "styleUpdates": [
+    ],
+    "overlays": [
+        { "scope": "piece", "source": "displayName" },
+        { "scope": "global", "source": "overlayProvinceHexDeck" }
+    ]
+}

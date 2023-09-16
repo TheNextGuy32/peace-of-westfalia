@@ -1,6 +1,6 @@
 {
     "name": "abilitiesFront",
-    "templateFilename": "turnChoiceCardsFront",
+    "templateFilename": "abilitiesFront",
     "textReplacements": [
         { "scope": "piece", "key": "name", "source": "displayName" },
         { "scope": "piece", "key": "rules", "source": "rules" }
@@ -8,6 +8,7 @@
     "styleUpdates": [
     ],
     "overlays": [
-        { "scope": "global", "source": "overlayPokerNameRules" }
+        { "scope": "global", "source": "overlayPokerNameRulesTop" },
+        { "scope": "piece", "source": "type" }
     ]
 }

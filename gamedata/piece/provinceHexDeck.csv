@@ -1,0 +1,32 @@
+name,displayName,quantity,type
+bohemia,Bohemia,1,Elector
+brandenburg,Brandenburg,1,Elector
+cologne,Cologne,1,Elector
+mainz,Mainz,1,Elector
+trier,Trier,1,Elector
+saxony,Saxony,1,Elector
+palatinate,Palatinate,1,Elector
+alsace,Alsace,1,Prince
+anhalt,Anhalt,1,Prince
+austria,Austria,1,Prince
+ansbach,Ansbach,1,Prince
+baden,Baden,1,Prince
+bavaria,Bavaria,1,Prince
+frankfurt,Frankfurt,1,Prince
+hesse,Hesse,1,Prince
+nuremburg,Nuremburg,1,Prince
+provence,Provence,1,Prince
+prussia,Prussia,1,Prince
+salzburg,Salzburg,1,Prince
+thuringia,Thuringia,1,Prince
+trent,Trent,1,Prince
+ulm,Ulm,1,Prince
+wurttemberg,Wurttemberg,1,Prince
+wurzburg,Wurzburg,1,Prince
+spain,Spain,1,Foreign Power
+britain,Britain,1,Foreign Power
+france,France,1,Foreign Power
+milan,Milan,1,Foreign Power
+poland,Poland,1,Foreign Power
+sweden,Sweden,1,Foreign Power
+denmark,Denmark,1,Foreign Power
