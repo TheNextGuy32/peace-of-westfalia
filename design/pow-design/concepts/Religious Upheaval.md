@@ -1,0 +1,5 @@
+[[Heretical Provinces]]
+[[Orthodox Provinces]]
+[[Elector Religion]]
+[[Prince Religion]]
+[[League War]]

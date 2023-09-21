@@ -1,0 +1,3 @@
+[[Influence]]
+[[Faith]]
+[[Troop Count]]
