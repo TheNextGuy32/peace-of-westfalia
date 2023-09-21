@@ -8,7 +8,9 @@
     "styleUpdates": [
     ],
     "overlays": [
-        { "scope": "piece", "source": "displayName" },
-        { "scope": "global", "source": "overlayProvinceHexDeck" }
+        { "scope": "piece", "source": "graphic" },
+        { "scope": "global", "source": "overlayProvinceHexDeck" },
+        { "scope": "piece", "source": "capitalGraphic" },
+        { "scope": "global", "source": "chitHexLargeBoundaries", "isDebugInfo": true }
     ]
 }

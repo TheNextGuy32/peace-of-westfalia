@@ -1,32 +1,32 @@
-name,displayName,quantity,type
-bohemia,Bohemia,1,Elector
-brandenburg,Brandenburg,1,Elector
-cologne,Cologne,1,Elector
-mainz,Mainz,1,Elector
-trier,Trier,1,Elector
-saxony,Saxony,1,Elector
-palatinate,Palatinate,1,Elector
-alsace,Alsace,1,Prince
-anhalt,Anhalt,1,Prince
-austria,Austria,1,Prince
-ansbach,Ansbach,1,Prince
-baden,Baden,1,Prince
-bavaria,Bavaria,1,Prince
-frankfurt,Frankfurt,1,Prince
-hesse,Hesse,1,Prince
-nuremburg,Nuremburg,1,Prince
-provence,Provence,1,Prince
-prussia,Prussia,1,Prince
-salzburg,Salzburg,1,Prince
-thuringia,Thuringia,1,Prince
-trent,Trent,1,Prince
-ulm,Ulm,1,Prince
-wurttemberg,Wurttemberg,1,Prince
-wurzburg,Wurzburg,1,Prince
-spain,Spain,1,Foreign Power
-britain,Britain,1,Foreign Power
-france,France,1,Foreign Power
-milan,Milan,1,Foreign Power
-poland,Poland,1,Foreign Power
-sweden,Sweden,1,Foreign Power
-denmark,Denmark,1,Foreign Power
+name,displayName,graphic,quantity,type,capitalGraphic
+bohemia,Bohemia,princes/Bohemia,1,Elector,provinceNonCapital
+brandenburg,Brandenburg,princes/Brandenburg,1,Elector,provinceNonCapital
+cologne,Cologne,princes/Cologne,1,Elector,provinceNonCapital
+mainz,Mainz,princes/Mainz,1,Elector,provinceNonCapital
+trier,Trier,princes/Trier,1,Elector,provinceNonCapital
+saxony,Saxony,princes/Saxony,1,Elector,provinceNonCapital
+palatinate,The Palatinate,princes/Palatinate,1,Elector,provinceNonCapital
+alsace,Alsace,princes/Alsace,1,Prince,provinceNonCapital
+anhalt,Anhalt,princes/Anhalt,1,Prince,provinceNonCapital
+austria,Austria,princes/Austria,1,Prince,provinceNonCapital
+ansbach,Ansbach,princes/Ansbach,1,Prince,provinceNonCapital
+baden,Baden,princes/Baden,1,Prince,provinceNonCapital
+bavaria,Bavaria,princes/Bavaria,1,Prince,provinceNonCapital
+frankfurt,Frankfurt,princes/Frankfurt,1,Prince,provinceNonCapital
+hesse,Hesse,princes/Hesse,1,Prince,provinceNonCapital
+nuremburg,Nuremburg,princes/Nuremburg,1,Prince,provinceNonCapital
+provence,Provence,princes/Provence,1,Prince,provinceNonCapital
+prussia,Prussia,princes/Prussia,1,Prince,provinceNonCapital
+salzburg,Salzburg,princes/Salzburg,1,Prince,provinceNonCapital
+thuringia,Thuringia,princes/Thuringia,1,Prince,provinceNonCapital
+trent,Trent,princes/Trent,1,Prince,provinceNonCapital
+ulm,Ulm,princes/Ulm,1,Prince,provinceNonCapital
+wurttemberg,Wurttemberg,princes/Wurttemberg,1,Prince,provinceNonCapital
+wurzburg,Wurzburg,princes/Wurzburg,1,Prince,provinceNonCapital
+spain,Spain,princes/Spain,1,Foreign Power,provinceNonCapital
+britain,Britain,princes/Britain,1,Foreign Power,provinceNonCapital
+france,France,princes/France,1,Foreign Power,provinceNonCapital
+milan,Milan,princes/Milan,1,Foreign Power,provinceNonCapital
+poland,Poland,princes/Poland,1,Foreign Power,provinceNonCapital
+sweden,Sweden,princes/Sweden,1,Foreign Power,provinceNonCapital
+denmark,Denmark,princes/Denmark,1,Foreign Power,provinceNonCapital
