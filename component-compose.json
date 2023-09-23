@@ -415,6 +415,26 @@
         "disabled": true
     },
     {
+        "name": "peaceTreaty",
+        "type": "JumboDeck",
+        "quantity": 1,
+        "componentGamedataFilename": "peaceTreaty",
+        "disabled": false,
+        "piecesGamedataFilename": "peaceTreaty",
+        "artdataFrontFilename": "peaceTreaty",
+        "artdataBackFilename": "peaceTreaty"
+    },
+    {
+        "name": "battleRules",
+        "type": "JumboDeck",
+        "quantity": 1,
+        "componentGamedataFilename": "battleRules",
+        "disabled": false,
+        "piecesGamedataFilename": "battleRules",
+        "artdataFrontFilename": "battleRules",
+        "artdataBackFilename": "battleRules"
+    },
+    {
         "name": "playerProvinces",
         "type": "MediumHexTile",
         "quantity": 1,
