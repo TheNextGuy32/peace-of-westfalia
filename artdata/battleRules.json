@@ -1,6 +1,6 @@
 {
     "name": "battleRules",
-    "templateFilename": "battleRulesFront",
+    "templateFilename": "battleRules",
     "textReplacements": [],
     "styleUpdates": [],
     "overlays": []
