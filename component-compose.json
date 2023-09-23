@@ -435,6 +435,26 @@
         "artdataBackFilename": "battleRules"
     },
     {
+        "name": "playerBoardDeck",
+        "type": "JumboDeck",
+        "quantity": 1,
+        "componentGamedataFilename": "playerBoardDeck",
+        "disabled": false,
+        "piecesGamedataFilename": "playerBoardDeck",
+        "artdataFrontFilename": "playerBoardDeckFront",
+        "artdataBackFilename": "playerBoardDeckBack"
+    },
+    {
+        "name": "goodWorksAndSaintsChit",
+        "type": "SmallSquareChit",
+        "quantity": 1,
+        "componentGamedataFilename": "goodWorksAndSaintsChit",
+        "disabled": false,
+        "piecesGamedataFilename": "goodWorksAndSaintsChit",
+        "artdataFrontFilename": "goodWorksAndSaintsChitFront",
+        "artdataBackFilename": "goodWorksAndSaintsChitBack"
+    },
+    {
         "name": "playerProvinces",
         "type": "MediumHexTile",
         "quantity": 1,
