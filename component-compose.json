@@ -16,8 +16,8 @@
         "componentGamedataFilename": "provincePlayerHexDeck",
         "disabled": false,
         "piecesGamedataFilename": "provincePlayerHexDeck",
-        "artdataFrontFilename": "provincePlayerHexDeck",
-        "artdataBackFilename": "provincePlayerHexDeck"
+        "artdataFrontFilename": "provincePlayerHexDeckFront",
+        "artdataBackFilename": "provincePlayerHexDeckBack"
     },
     {
         "name": "provinceHexDeck",
