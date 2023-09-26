@@ -1,9 +1,0 @@
-{
-    "name": "provincePlayerHexDeck",
-    "templateFilename": "provincePlayerHexDeck",
-    "textReplacements": [],
-    "styleUpdates": [
-        { "id": "playerColor", "cssValue": "fill", "scope": "piece", "source": "color" }
-    ],
-    "overlays": []
-}

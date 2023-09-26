@@ -1,8 +1,7 @@
-name,displayName,quantity,color
-purple,Purple,1,#431E42
-red,Red,1,#B40813
-green,Green,1,#0D674A
-orange,Orange,1,#B73720
-black,Black,1,#2D3131
-blue,Blue,0,#074F90
-white,White,1,#D0CDC8
+name,displayName,quantity,color,graphic
+purple,Purple,1,#431E42,playerEmblems/purple
+green,Green,1,#0D674A,playerEmblems/green
+orange,Orange,1,#B73720,playerEmblems/orange
+gray,gray,1,#aaa,playerEmblems/gray
+pink,Pink,1,#ffbbaa,playerEmblems/pink
+white,White,1,#fff,playerEmblems/white
