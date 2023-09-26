@@ -1,14 +1,13 @@
 {
     "name": "saintsFront",
-    "templateFilename": "turnChoiceCardsFront",
+    "templateFilename": "saints",
     "textReplacements": [
         { "scope": "piece", "key": "name", "source": "displayName" },
-        { "scope": "piece", "key": "rules", "source": "rules" }
+        { "scope": "piece", "key": "religion", "source": "religion" },
+        { "scope": "piece", "key": "fate", "source": "fate" }
     ],
     "styleUpdates": [
     ],
     "overlays": [
-        { "scope": "global", "source": "saint" },
-        { "scope": "global", "source": "overlayPokerNameRules" }
     ]
 }

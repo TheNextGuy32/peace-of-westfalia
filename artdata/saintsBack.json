@@ -1,9 +1,13 @@
 {
-    "name": "saints",
-    "templateFilename": "saintsBack",
-    "textReplacements": [],
-    "styleUpdates": [],
+    "name": "saintsFront",
+    "templateFilename": "saints",
+    "textReplacements": [
+        { "scope": "piece", "key": "name", "source": "displayName" },
+        { "scope": "piece", "key": "religion", "source": "religion" },
+        { "scope": "piece", "key": "fate", "source": "fateBack" }
+    ],
+    "styleUpdates": [
+    ],
     "overlays": [
-        { "scope": "global", "source": "saint" }
     ]
 }

@@ -1,2 +1,5 @@
-name,displayName,quantity,rules
-martinLuther,Martin Luther,1,Gain 6 Reformation Points.
+name,displayName,quantity,religion,fate,religionBack,fateBack
+catholicSaved,Catholic Saved,3,Catholic,Saved by Faith and Works,Protestant,Damned
+protestantSaved,Protestant Saved,3,Protestant,Saved by Faith Alone,Catholic,Damned
+cathPerdition,Catholic Perdition,1,Catholic,Damned,Catholic,Damned
+protPerdition,Protestant Perdition,1,Protestant,Damned,Protestant,Damned
