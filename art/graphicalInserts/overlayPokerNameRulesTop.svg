@@ -26,8 +26,8 @@
          inkscape:document-units="mm"
          showgrid="false"
          inkscape:zoom="1.2938725"
-         inkscape:cx="398.02995"
-         inkscape:cy="420.82973"
+         inkscape:cx="297.55637"
+         inkscape:cy="421.60259"
          inkscape:window-width="2560"
          inkscape:window-height="1351"
          inkscape:window-x="1491"
@@ -128,11 +128,31 @@
         <text
              xml:space="preserve"
              id="text3311"
-             style="font-weight:bold;font-size:42.6667px;line-height:1.2;font-family:Corbel;-inkscape-font-specification:'Corbel Bold';white-space:pre;shape-inside:url(#rect3313);display:inline;fill:white;stroke:#130311;stroke-width:3.77953;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill;filter:url(#filter8968)"
-             transform="translate(-124.60296,-257.91546)"><tspan
+             style="font-weight:bold;font-size:34.6667px;line-height:1.2;font-family:Corbel;-inkscape-font-specification:'Corbel Bold';white-space:pre;shape-inside:url(#rect3313);display:inline;fill:white;stroke:#130311;stroke-width:3.77953;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill;filter:url(#filter8968)"
+             transform="translate(-124.60296,-247.91546)"><tspan
                  x="212.04297"
-                 y="554.0818"
-                 id="tspan13065">{rules}</tspan></text>
+                 y="547.33258"
+                 id="tspan9333">{rulesOne}
+</tspan><tspan
+                 x="212.04297"
+                 y="588.93262"
+                 id="tspan9337"><tspan
+     style="fill:none;stroke:none"
+     id="tspan9335">s</tspan>
+</tspan><tspan
+                 x="212.04297"
+                 y="630.53265"
+                 id="tspan9339">{rulesTwo}
+</tspan><tspan
+                 x="212.04297"
+                 y="672.13269"
+                 id="tspan9343"><tspan
+     style="fill:none;stroke:none"
+     id="tspan9341">s</tspan>
+</tspan><tspan
+                 x="212.04297"
+                 y="713.73273"
+                 id="tspan9345">{rulesThree}</tspan></text>
         <text
              xml:space="preserve"
              id="text10504"
@@ -142,8 +162,8 @@
              transform="translate(4.6689689,-0.02272451)"><tspan
                  x="84.244141"
                  y="167.10805"
-                 id="tspan13069"><tspan
+                 id="tspan9349"><tspan
                      style="stroke:#130311"
-                     id="tspan13067">{name}</tspan></tspan></text>
+                     id="tspan9347">{name}</tspan></tspan></text>
     </g>
 </svg>
