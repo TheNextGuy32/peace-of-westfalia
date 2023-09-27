@@ -249,16 +249,6 @@
         "disabled": true
     },
     {
-        "name": "yearChoice",
-        "type": "SmallSquareChit",
-        "quantity": 1,
-        "piecesGamedataFilename": "yearChoice",
-        "componentGamedataFilename": "yearChoice",
-        "artdataFrontFilename": "yearChoice",
-        "artdataBackFilename": "yearChoice",
-        "disabled": true
-    },
-    {
         "name": "monasteries",
         "type": "PokerDeck",
         "quantity": 6,
