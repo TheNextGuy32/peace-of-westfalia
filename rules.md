@@ -3,15 +3,15 @@
 
 The year is 1510. You are a Prince or Princess in the Holy Roman Empire.
 
-And it’s about to go down.
+And it's about to go down.
 
 The Catholic Church is mired in corruption and scandal, and judgment has come for Her sins in the form of a young friar by the name of Martin Luther. Players must choose sides in the ensuing religious struggle:
 
 Will you stick with the Catholic Church, attempt to reform the Church from within, and struggle from behind to win back the souls of the German people?
-Or will you join the Protestant Revolutionaries and strive to rid the Whore of Babylon’s influence from the land?
+Or will you join the Protestant Revolutionaries and strive to rid the Whore of Babylon's influence from the land?
 Will you seek ye first the kingdom, or subordinate faith to power politics?
 
-Lead your principality through this turbulent time period. As Europe’s religious firestorm culminates in the cataclysmic 30 Years War, will the One True Faith triumph? Or will religious divisions become entrenched in the Peace of Westphalia?
+Lead your principality through this turbulent time period. As Europe's religious firestorm culminates in the cataclysmic 30 Years War, will the One True Faith triumph? Or will religious divisions become entrenched in the Peace of Westphalia?
 
 ## Contents of Game
 
@@ -107,7 +107,7 @@ Place the Holy Roman Empire Sheet in a central location where everyone can clear
 
 ### Pick a Color and Flag
 
-Each Player picks a set of control markers in the color and with the flag of their choice. 5 towns and a city of that player’s color should be included, as well as a Council of Trent Marker and French Interference Marker.
+Each Player picks a set of control markers in the color and with the flag of their choice. 5 towns and a city of that player's color should be included, as well as a Council of Trent Marker and French Interference Marker.
 
 ### Pick Provinces
 
@@ -115,7 +115,7 @@ Each Player submits a cube of their color. Randomly draw cubes for Setup Order. 
 
 ### Place Electors
 
-The First Player places an Elector of his choice anywhere on the map, and placing a town on the Elector’s capital province. The Elector’s provinces must be contiguous, unless impossible, but may be shaped however the Player desires. Other Players follow, in Setup Order, going back to the First Player at the end. The following starting Electors must be placed:
+The First Player places an Elector of his choice anywhere on the map, and placing a town on the Elector's capital province. The Elector's provinces must be contiguous, unless impossible, but may be shaped however the Player desires. Other Players follow, in Setup Order, going back to the First Player at the end. The following starting Electors must be placed:
 
 Trier, Mainz, and Cologne - 1 province
 
@@ -133,7 +133,7 @@ After all starting Electors are placed, continuing in clockwise order, each Play
 
 5-6: 	Place a 3 Province Principality
 
-Pick a province where there is space on the board for a contiguous Principality of the rolled size and place the Principality’s town; this is its capital, and the rest of its provinces must border its capital if possible. If not possible, the Principality’s provinces simply need to be contiguous. If there is no space on the board for a contiguous Principality of the rolled size, place the largest Principality that can be placed. When only disconnected single provinces remain, fill in the remaining provinces with 1 province Principalities. Save Austria and Bavaria for if a Principality grows to more than 5 provinces.
+Pick a province where there is space on the board for a contiguous Principality of the rolled size and place the Principality's town; this is its capital, and the rest of its provinces must border its capital if possible. If not possible, the Principality's provinces simply need to be contiguous. If there is no space on the board for a contiguous Principality of the rolled size, place the largest Principality that can be placed. When only disconnected single provinces remain, fill in the remaining provinces with 1 province Principalities. Save Austria and Bavaria for if a Principality grows to more than 5 provinces.
 
 ### Place Diplomatic Influence
 
@@ -141,7 +141,7 @@ Each Player receives 3 Diplomatic Influence. The First Player places all of his 
 
 ### Elect the Emperor
 
-Elect the Emperor according to the Imperial Election rules. Then place the Emperor’s control marker on 1510. Place each Player’s control marker on the Holy Roman Empire Sheet depending on his Imperial Power. The Emperor receives X+2 additional Imperial Power, where X = the Round Number.
+Elect the Emperor according to the Imperial Election rules. Then place the Emperor's control marker on 1510. Place each Player's control marker on the Holy Roman Empire Sheet depending on his Imperial Power. The Emperor receives X+2 additional Imperial Power, where X = the Round Number.
 
 ### Choose a Military Doctrine
 
@@ -163,7 +163,7 @@ Innovative - an emphasis on musketeers
 
 ### SET UP THE HOLY ROMAN EMPIRE SHEET
 
-Place a cube from all Players in the Saved by Faith and Works box. Put a cube for all Players at 0 Saints. Place the Catholic marker at 7 Catholic Electors, and the Emperor’s religion at Catholic. Now let the games begin - proceed to Round 1.
+Place a cube from all Players in the Saved by Faith and Works box. Put a cube for all Players at 0 Saints. Place the Catholic marker at 7 Catholic Electors, and the Emperor's religion at Catholic. Now let the games begin - proceed to Round 1.
 
 ### FUND THE MONASTERIES
 
@@ -173,7 +173,7 @@ Take a Monastery card and place two coins on it.
 
 The game spans the years 1510-1660 and lasts 6 rounds, with each Round lasting ~25 years.
 
-Update each Player’s Imperial Power as it changes throughout the game. A Player has 1 Imperial Power for each of his orthodox provinces, plus the Imperial Power of his allied Principalities. Principalities have 2 Imperial Power, plus 1 Imperial Power per province.
+Update each Player's Imperial Power as it changes throughout the game. A Player has 1 Imperial Power for each of his orthodox provinces, plus the Imperial Power of his allied Principalities. Principalities have 2 Imperial Power, plus 1 Imperial Power per province.
 
 ### Determine Initiative
 
@@ -187,7 +187,7 @@ During Rounds 1-3:
 
 Place 1 control marker for each Catholic Principality inside the Religious Upheaval Bag. Draw 2 control markers in a 5-6 Player game, 3 in a 7-8 Player game. All provinces from drawn Principalities convert to Protestantism.
 
-Each Catholic non-Foreign Power Player rolls a D6. On a 1-3, one of the Player’s provinces of his choice converts to Protestantism. A player’s capital may not be converted this way; it only converts when the Player converts.
+Each Catholic non-Foreign Power Player rolls a D6. On a 1-3, one of the Player's provinces of his choice converts to Protestantism. A player's capital may not be converted this way; it only converts when the Player converts.
 
 During Rounds 4-6: 
 
@@ -207,7 +207,7 @@ During Player Turns, Players will choose 2/3 of Combat Heresy, Engage in Diploma
 
 #### Combat Heresy
 
-At the beginning of Combat Heresy, all Players secretly either place a cube of their color in their hand or don’t. Players that reveal a cube place their cube in Combat Heresy and engage in the following actions in order. Players that did not reveal a cube place two of their cubes in Engage in Diplomacy and Wage War.
+At the beginning of Combat Heresy, all Players secretly either place a cube of their color in their hand or don't. Players that reveal a cube place their cube in Combat Heresy and engage in the following actions in order. Players that did not reveal a cube place two of their cubes in Engage in Diplomacy and Wage War.
 
 ##### Player Conversion
 
@@ -227,7 +227,7 @@ If the Catholic Reformation has not begun, attempt to Call the Council of Trent.
 
 Whenever a Player places a dice on a province with a dice of the opposing Faith, both dice are removed. Once all Players have placed their dice, provinces/Principalities convert:
 
-Within their own territory - Dice of your religion placed on heretical provinces you control convert the province they’re on, and an additional heretical province of your choice that you control that does not have a heretical dice on it.
+Within their own territory - Dice of your religion placed on heretical provinces you control convert the province they're on, and an additional heretical province of your choice that you control that does not have a heretical dice on it.
 
 In a neighboring Player-controlled province - Dice placed on heretical provinces of opposing Players convert the province they were placed on.
 
@@ -235,7 +235,7 @@ On a neighboring or allied Principality - Dice placed on Principalities convert 
 
 #### Engage in Diplomacy
 
-At the beginning of Engage in Diplomacy, all Players that Combatted Heresy secretly either place a cube of their color in their hand or don’t. Players that reveal a cube place their cube in Engage in Diplomacy and engage in the following actions in order. Players that did not reveal a cube place their remaining cube in Wage War.
+At the beginning of Engage in Diplomacy, all Players that Combatted Heresy secretly either place a cube of their color in their hand or don't. Players that reveal a cube place their cube in Engage in Diplomacy and engage in the following actions in order. Players that did not reveal a cube place their remaining cube in Wage War.
 
 ##### Play the Diplomacy Game
 
@@ -287,7 +287,7 @@ Complete all battles in the First Battle Phase, then sign Peace Treaties in the 
 
 When battling an unaligned Principality, the first Player after you in Initiative Order not participating in a battle at the moment leads them in battle. No collusion to battle poorly is allowed. Players pair off separately into their respective battles and fight simultaneously during the Battle Phase.
 
-If a Player’s Army Size + Reserves is twice as large as an opponent’s, he wins the battle automatically without drawing Military Cards.
+If a Player's Army Size + Reserves is twice as large as an opponent's, he wins the battle automatically without drawing Military Cards.
 
 If not, Players randomly draw cards from the deck according to their Imperial Power - up to a max of 12 cards, with the rest of their Imperial Power going towards Reserves. After drawing Military Cards, Players may pay Gold to draw extra Military Cards of their choice at a rate of 1:1. In addition, Players may discard up to 2 cards faceup and draw replacements according to their Military Doctrines. Do these simultaneously unless a Player requests it be done in Initiative Order.
 
@@ -308,12 +308,12 @@ Innovative - May discard 1 pikeman or cavalry for 2 musketeers
 
 During battle Players play cards face-down, then flip them face-up. If the cards are the same, both are discarded. If the cards pit:
 
-Pikemen vs. Cavalry - Discard the Cavalry and return the Pikeman to its owner’s hand. The player who played Cavalry may not play Cavalry again next round. If he only has Cavalry, he routes.
+Pikemen vs. Cavalry - Discard the Cavalry and return the Pikeman to its owner's hand. The player who played Cavalry may not play Cavalry again next round. If he only has Cavalry, he routes.
 
-Musketeers vs. Pikemen - Discard the Pike and return the Musket to its owner’s hand.
-Advanced Rifling - Rounds 5-6 in addition, the Player who played the Pikeman must discard an additional card of his opponent’s choice. If he does not have any more of that type of unit, he must say so. The Player who played Musketeers then chooses another unit type for his opponent to discard instead.
+Musketeers vs. Pikemen - Discard the Pike and return the Musket to its owner's hand.
+Advanced Rifling - Rounds 5-6 in addition, the Player who played the Pikeman must discard an additional card of his opponent's choice. If he does not have any more of that type of unit, he must say so. The Player who played Musketeers then chooses another unit type for his opponent to discard instead.
 
-Cavalry vs. Musketeers - Discard the Musket and return the Cavalry to its owner’s hand. The Player who played Musketeers discards an additional Pikeman and Musketeer from his hand. If he lacks one of the unit types he must say so and discard 2 of the infantry he does have instead. If he does not have 2 infantry cards to discard, he routes. In addition, if the Player who played Cavalry has 2x his opponent’s cards, his opponent routes.
+Cavalry vs. Musketeers - Discard the Musket and return the Cavalry to its owner's hand. The Player who played Musketeers discards an additional Pikeman and Musketeer from his hand. If he lacks one of the unit types he must say so and discard 2 of the infantry he does have instead. If he does not have 2 infantry cards to discard, he routes. In addition, if the Player who played Cavalry has 2x his opponent's cards, his opponent routes.
 
 Call for Reinforcements - After any round of battle a Player may Call for Reinforcements. He also may be forced to Call for Reinforcements by a route, or running out of cards. When Calling for Reinforcements, he draws from his battle discard pile as many Military Cards as his Imperial Power says he has reinforcements. The cards he draws are of his choice, but he may not draw more than he has cards in the discard pile, even if his Imperial Power says he gets more reinforcements. A Player may only Call for Reinforcements once during a battle.
 
@@ -327,7 +327,7 @@ Conquer 1 province with a town, or up to 2 provinces without one from the unalig
 
 For every town you take you lose 2 Diplomatic Influence.
 
-For every province you take without a town that wasn’t adjacent at the start of your turn you lose 1 Diplomatic Influence, unless you’re the Emperor taking from a Foreign Power.
+For every province you take without a town that wasn't adjacent at the start of your turn you lose 1 Diplomatic Influence, unless you're the Emperor taking from a Foreign Power.
 
 Additionally, your allies may each take 1 adjacent province from the unaligned Principality or the Player and his allies. Lose 2 Diplomatic Influence from each of your allies that could have conquered a province but did not (the ability to take a province is determined at the start of the war).
 
@@ -337,15 +337,15 @@ You lose 2 Diplomatic Influence with each of your allies per province they lost.
 
 Additionally:
 
-Only Players may conquer towns; remove all Diplomatic Influence from conquered Principalities. Capitals may only be taken if they are that Power’s last province.
+Only Players may conquer towns; remove all Diplomatic Influence from conquered Principalities. Capitals may only be taken if they are that Power's last province.
 
-You may choose to immediately vassalize a Principality (or former Player-owned capital) instead of taking it. Keep the Principality’s control marker on province (or replace the Player’s with a new Principality control marker). You lose no Diplomatic Influence for vassalizing; instead, remove all Diplomatic Influence from other Players from the Principality and place 2 Diplomatic Influence on the Principality; you are now its ally.
+You may choose to immediately vassalize a Principality (or former Player-owned capital) instead of taking it. Keep the Principality's control marker on province (or replace the Player's with a new Principality control marker). You lose no Diplomatic Influence for vassalizing; instead, remove all Diplomatic Influence from other Players from the Principality and place 2 Diplomatic Influence on the Principality; you are now its ally.
 
 Electors may not be conquered and must be vassalized instead.
 
 You lose all Diplomatic Influence from Principalities that you had Diplomatic Influence with when you personally (not an ally) take a province from them.
 
-If a Principality conquers a province of a different religion, that province is forcibly converted to the Principality’s religion (No Saints/Reformation Points earned).
+If a Principality conquers a province of a different religion, that province is forcibly converted to the Principality's religion (No Saints/Reformation Points earned).
 
 ##### Religious War
 
@@ -355,13 +355,13 @@ If no Religious War was Triggered, or if the Target Principality no longer exist
 
 If a Religious War was Triggered and the Target Principality still exists:
 
-First, go through all Players with Diplomatic Influence on the Target Principality who aren’t currently in a League from the Player with the most DI to the least. Players with DI on the Target Principality must Join a League (either one) or lose all DI with the Target Principality.
+First, go through all Players with Diplomatic Influence on the Target Principality who aren't currently in a League from the Player with the most DI to the least. Players with DI on the Target Principality must Join a League (either one) or lose all DI with the Target Principality.
 
 Second, if the Emperor is not yet a member of a League, he may Join a League.
 
-Finally, the Player with the most DI on the Target Principality in the DOTF’s League becomes the DOTF. If no Players in the DOTF’s League have DI with the Target Principality, the Player first in Initiative Order becomes the DOTF. The DOTF gains DI with the Target Principality sufficient to become its ally if not already.
+Finally, the Player with the most DI on the Target Principality in the DOTF's League becomes the DOTF. If no Players in the DOTF's League have DI with the Target Principality, the Player first in Initiative Order becomes the DOTF. The DOTF gains DI with the Target Principality sufficient to become its ally if not already.
 
-If there is no DOTF, the ROTF’s League wins; proceed to the Religious War Peace Treaty phase. If there is a DOTF, all members in the Catholic League go to war with all members in the Evangelical League.
+If there is no DOTF, the ROTF's League wins; proceed to the Religious War Peace Treaty phase. If there is a DOTF, all members in the Catholic League go to war with all members in the Evangelical League.
 
 ###### Religious War Battle
 
@@ -375,18 +375,18 @@ Players line up in Initiative Order by League and pair off, with those without o
 
 Players only route when they run out of infantry in the face of a cavalry charge or only have cavalry when stopped by pikemen; they do not route if they have ½ as many Military Cards as their opponent after a cavalry charge, unless you are the last Player remaining in your League and the opposing League combined has 2x the Military Cards as you after you lose a cavalry charge.
 
-When a Player routes, he exits the melee. The victorious Player’s army does not return to full strength after winning the engagement, but instead either immediately begins to battle the Player first up "In Reserve" in the opposing League or, if there are no Players "In Reserve" in the opposing League, gets in line "In Reserve."
+When a Player routes, he exits the melee. The victorious Player's army does not return to full strength after winning the engagement, but instead either immediately begins to battle the Player first up "In Reserve" in the opposing League or, if there are no Players "In Reserve" in the opposing League, gets in line "In Reserve."
 
 ###### Religious War Peace Treaty
 
-After the battle, if the ROTF’s League:
-Won, then the Target Principality is forcibly converted. All Players in the DOTF’s League immediately lose all Diplomatic Influence with the Target Principality. The ROTF then gains 2 Diplomatic Influence with the Target Principality. The Target Principality may neither take provinces nor have its provinces taken in the Peace Treaty. Its ally, if any, therefore will not lose any influence with the Target Principality.
-Lost, then the Target Principality retains its religion. All Players in the ROTF’s League immediately lose all Diplomatic Influence with the Target Principality. The DOTF then gains 2 Diplomatic Influence with the Target Principality. The Target Principality may take provinces in the Peace Treaty as normal.
+After the battle, if the ROTF's League:
+Won, then the Target Principality is forcibly converted. All Players in the DOTF's League immediately lose all Diplomatic Influence with the Target Principality. The ROTF then gains 2 Diplomatic Influence with the Target Principality. The Target Principality may neither take provinces nor have its provinces taken in the Peace Treaty. Its ally, if any, therefore will not lose any influence with the Target Principality.
+Lost, then the Target Principality retains its religion. All Players in the ROTF's League immediately lose all Diplomatic Influence with the Target Principality. The DOTF then gains 2 Diplomatic Influence with the Target Principality. The Target Principality may take provinces in the Peace Treaty as normal.
 
 Next, if the Emperor was in the League of his religion and he:
 
 Won, then he may remove any number of heretical Electors who fought in the Defeated League from the Electorate, replacing them with Electors of his choice of his own religion.
-Lost, then the Player(s) of the opposing League with the most Imperial Power may remove any number of Electors of the Emperor’s religion who fought in the Defeated League from the Electorate, replacing them with Electors of his (their) choice of the opposing Religion. Initiative Order in the case of ties.
+Lost, then the Player(s) of the opposing League with the most Imperial Power may remove any number of Electors of the Emperor's religion who fought in the Defeated League from the Electorate, replacing them with Electors of his (their) choice of the opposing Religion. Initiative Order in the case of ties.
 
 Finally, members of the Victorious League, in Initiative Order, may conquer provinces from the Defeated League. Players do not lose Diplomatic Influence for taking towns and non-adjacent provinces. Otherwise, the rules for Peace Treaties in Religious Wars are exactly the same as those during Player Turns
 The Leagues reset - No one starts in either League heading into the next round.
@@ -430,7 +430,7 @@ A Player may not refuse election.
 
 Players attempt to secure the votes of a majority of the Electors (4) to be elected Emperor. Unaligned Electors vote as a block for the Player of their religion with the most votes after all Players have voted. Initiative/Setup Order between tied Players. If a majority cannot be secured, the Emperor may be elected by a plurality.
 
-Place the elected Emperor’s Control Marker on the Round Number.
+Place the elected Emperor's Control Marker on the Round Number.
 
 ## Variants
 
@@ -443,4 +443,4 @@ Adjust the number of players who can win a Religious Victory. The rules choose t
 
 ### Big Map Variant
 Play with a bigger map than recommended for player size, make the map a different shape, adjust number of starting provinces, disregard rules regarding principality shape…
-Or whatever other change you’d like!
+Or whatever other change you'd like!
