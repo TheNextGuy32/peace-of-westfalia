@@ -32,7 +32,7 @@
     {
         "name": "dilemmaChoices",
         "type": "PokerDeck",
-        "quantity": 6,
+        "quantity": 1,
         "piecesGamedataFilename": "dilemmaCards",
         "componentGamedataFilename": "dilemmaCards",
         "artdataFrontFilename": "dilemmaCardsFront",
