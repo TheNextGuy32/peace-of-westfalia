@@ -24,7 +24,7 @@
         "type": "HexDeck",
         "quantity": 1,
         "componentGamedataFilename": "provinceHexDeck",
-        "disabled": false,
+        "disabled": true,
         "piecesGamedataFilename": "provinceHexDeck",
         "artdataFrontFilename": "provinceHexDeckFront",
         "artdataBackFilename": "provinceHexDeckBack"
@@ -226,7 +226,7 @@
         "componentGamedataFilename": "doctrineChoices",
         "artdataFrontFilename": "doctrineChoicesFront",
         "artdataBackFilename": "doctrineChoicesBack",
-        "disabled": true
+        "disabled": false
     },
     {
         "name": "emperorMarker",
@@ -439,7 +439,7 @@
         "type": "JumboDeck",
         "quantity": 1,
         "componentGamedataFilename": "playerBoardDeck",
-        "disabled": false,
+        "disabled": true,
         "piecesGamedataFilename": "playerBoardDeck",
         "artdataFrontFilename": "playerBoardDeckFront",
         "artdataBackFilename": "playerBoardDeckBack"
@@ -449,7 +449,7 @@
         "type": "SmallSquareChit",
         "quantity": 1,
         "componentGamedataFilename": "goodWorksAndSaintsChit",
-        "disabled": false,
+        "disabled": true,
         "piecesGamedataFilename": "goodWorksAndSaintsChit",
         "artdataFrontFilename": "goodWorksAndSaintsChitFront",
         "artdataBackFilename": "goodWorksAndSaintsChitBack"
