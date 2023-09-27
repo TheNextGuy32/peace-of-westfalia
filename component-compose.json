@@ -463,5 +463,15 @@
         "artdataFrontFilename": "playerProvincesFront",
         "artdataBackFilename": "playerProvincesBack",
         "disabled": true
+    },
+    {
+        "name": "playerMat",
+        "type": "BiFoldMat",
+        "quantity": 1,
+        "componentGamedataFilename": "playerMat",
+        "disabled": false,
+        "piecesGamedataFilename": "playerMat",
+        "artdataFrontFilename": "playerMatFront",
+        "artdataBackFilename": "playerMatBack"
     }
 ]

@@ -2,6 +2,6 @@ name,displayName,quantity,color,graphic
 purple,Purple,1,#431E42,playerEmblems/purple
 green,Green,1,#0D674A,playerEmblems/green
 orange,Orange,1,#B73720,playerEmblems/orange
-gray,gray,1,#aaa,playerEmblems/gray
+gray,Gray,1,#aaa,playerEmblems/gray
 pink,Pink,1,#ffbbaa,playerEmblems/pink
 white,White,1,#fff,playerEmblems/white
