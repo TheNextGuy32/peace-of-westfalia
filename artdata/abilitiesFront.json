@@ -3,7 +3,9 @@
     "templateFilename": "abilitiesFront",
     "textReplacements": [
         { "scope": "piece", "key": "name", "source": "displayName" },
-        { "scope": "piece", "key": "rules", "source": "rules" }
+        { "scope": "piece", "key": "rulesOne", "source": "rulesOne" },
+        { "scope": "piece", "key": "rulesTwo", "source": "rulesTwo" },
+        { "scope": "piece", "key": "rulesThree", "source": "rulesThree" }
     ],
     "styleUpdates": [
     ],
