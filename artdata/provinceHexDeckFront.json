@@ -2,8 +2,8 @@
     "name": "provinceHexDeck",
     "templateFilename": "provinceHexDeck",
     "textReplacements": [
-        { "scope": "piece", "key": "name", "source": "displayName" },
-        { "scope": "piece", "key": "type", "source": "type" }
+        { "scope": "piece", "key": "name", "source": "displayName", "isTranslateable": true },
+        { "scope": "piece", "key": "type", "source": "type", "isTranslateable": true }
     ],
     "styleUpdates": [
     ],

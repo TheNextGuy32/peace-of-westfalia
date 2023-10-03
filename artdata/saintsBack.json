@@ -2,9 +2,9 @@
     "name": "saintsFront",
     "templateFilename": "saints",
     "textReplacements": [
-        { "scope": "piece", "key": "name", "source": "displayName" },
-        { "scope": "piece", "key": "religion", "source": "religion" },
-        { "scope": "piece", "key": "fate", "source": "fateBack" }
+        { "scope": "piece", "key": "name", "source": "displayName", "isTranslateable": true },
+        { "scope": "piece", "key": "religion", "source": "religion", "isTranslateable": true },
+        { "scope": "piece", "key": "fate", "source": "fateBack", "isTranslateable": true }
     ],
     "styleUpdates": [
     ],

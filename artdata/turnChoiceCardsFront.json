@@ -2,9 +2,9 @@
     "name": "turnChoiceCards",
     "templateFilename": "turnChoiceCardsFront",
     "textReplacements": [
-        { "scope": "piece", "key": "name", "source": "displayName" },
-        { "scope": "piece", "key": "rules", "source": "rules" },
-        { "scope": "piece", "key": "emperorRules", "source": "emperorRules" }
+        { "scope": "piece", "key": "name", "source": "displayName", "isTranslateable": true },
+        { "scope": "piece", "key": "rules", "source": "rules", "isTranslateable": true },
+        { "scope": "piece", "key": "emperorRules", "source": "emperorRules", "isTranslateable": true }
     ],
     "styleUpdates": [
         { "id": "backgroundColor", "cssValue": "fill", "scope": "component", "source": "colorRGB" }

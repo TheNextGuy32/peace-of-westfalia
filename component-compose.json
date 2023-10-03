@@ -24,7 +24,7 @@
         "type": "HexDeck",
         "quantity": 1,
         "componentGamedataFilename": "provinceHexDeck",
-        "disabled": true,
+        "disabled": false,
         "piecesGamedataFilename": "provinceHexDeck",
         "artdataFrontFilename": "provinceHexDeckFront",
         "artdataBackFilename": "provinceHexDeckBack"
@@ -177,7 +177,7 @@
         "componentGamedataFilename": "leagueWarBoard",
         "artdataFrontFilename": "leagueWarBoard",
         "artdataBackFilename": "leagueWarBoard",
-        "disabled": true
+        "disabled": false
     },
     {
         "name": "saints",
@@ -392,7 +392,7 @@
         "componentGamedataFilename": "foreignPower",
         "artdataFrontFilename": "foreignPowerFront",
         "artdataBackFilename": "foreignPowerBack",
-        "disabled": true
+        "disabled": false
     },
     {
         "name": "princeProvinces",
@@ -402,7 +402,7 @@
         "componentGamedataFilename": "germanPrince",
         "artdataFrontFilename": "germanPrinceFront",
         "artdataBackFilename": "germanPrinceBack",
-        "disabled": true
+        "disabled": false
     },
     {
         "name": "peaceTreaty",
@@ -439,7 +439,7 @@
         "type": "SmallSquareChit",
         "quantity": 1,
         "componentGamedataFilename": "goodWorksAndSaintsChit",
-        "disabled": true,
+        "disabled": false,
         "piecesGamedataFilename": "goodWorksAndSaintsChit",
         "artdataFrontFilename": "goodWorksAndSaintsChitFront",
         "artdataBackFilename": "goodWorksAndSaintsChitBack"

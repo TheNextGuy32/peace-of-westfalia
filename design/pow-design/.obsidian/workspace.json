@@ -45,9 +45,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a4f2523ddf60dd8e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -182,7 +192,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "635c7935aabab995",
+  "active": "a4f2523ddf60dd8e",
   "lastOpenFiles": [
     "resources/Good Works.md",
     "resources/Faith.md",

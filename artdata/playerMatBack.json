@@ -2,7 +2,7 @@
     "name": "playerMat",
     "templateFilename": "playerMatBack",
     "textReplacements": [
-        { "scope": "piece", "key": "playerName", "source": "displayName" }
+        { "scope": "piece", "key": "playerName", "source": "displayName", "isTranslateable": true }
     ],
     "styleUpdates": [
         { "id": "background", "cssValue": "fill", "scope": "piece", "source": "color" }

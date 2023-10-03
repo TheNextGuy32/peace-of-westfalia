@@ -2,10 +2,10 @@
     "name": "abilitiesFront",
     "templateFilename": "abilitiesFront",
     "textReplacements": [
-        { "scope": "piece", "key": "name", "source": "displayName" },
-        { "scope": "piece", "key": "rulesOne", "source": "rulesOne" },
-        { "scope": "piece", "key": "rulesTwo", "source": "rulesTwo" },
-        { "scope": "piece", "key": "rulesThree", "source": "rulesThree" }
+        { "scope": "piece", "key": "name", "source": "displayName", "isTranslateable": true },
+        { "scope": "piece", "key": "rulesOne", "source": "rulesOne", "isTranslateable": true },
+        { "scope": "piece", "key": "rulesTwo", "source": "rulesTwo", "isTranslateable": true },
+        { "scope": "piece", "key": "rulesThree", "source": "rulesThree", "isTranslateable": true }
     ],
     "styleUpdates": [
     ],

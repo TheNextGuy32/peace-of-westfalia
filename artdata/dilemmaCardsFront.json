@@ -2,8 +2,8 @@
     "name": "dilemmaCards",
     "templateFilename": "dilemmaCardsFront",
     "textReplacements": [
-        { "scope": "piece", "key": "name", "source": "displayName" },
-        { "scope": "piece", "key": "rules", "source": "rules" }
+        { "scope": "piece", "key": "name", "source": "displayName", "isTranslateable": true },
+        { "scope": "piece", "key": "rules", "source": "rules", "isTranslateable": true }
     ],
     "styleUpdates": [
     ],

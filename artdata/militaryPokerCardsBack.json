@@ -2,7 +2,7 @@
     "name": "militaryPokerCards",
     "templateFilename": "militaryPokerCardsBack",
     "textReplacements": [
-        { "scope": "component", "key": "name", "source": "pieceDisplayName" }
+        { "scope": "component", "key": "name", "source": "pieceDisplayName", "isTranslateable": true }
     ],
     "styleUpdates": [
         { "id": "backgroundColor", "cssValue": "fill", "scope": "component", "source": "colorRGB" }
