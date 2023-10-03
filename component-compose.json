@@ -455,6 +455,15 @@
         "disabled": true
     },
     {
+        "name": "emperorDie",
+        "type": "D6Plastic",
+        "quantity": 1,
+        "componentGamedataFilename": "emperorDie",
+        "disabled": false,
+        "piecesGamedataFilename": "emperorDie",
+        "artdataFrontFilename": "emperorDieFront"
+    },
+    {
         "name": "playerMat",
         "type": "BiFoldMat",
         "quantity": 1,

@@ -1,0 +1,9 @@
+{
+    "name": "emperorDie",
+    "templateFilename": "emperorDieFront",
+    "textReplacements": [],
+    "styleUpdates": [],
+    "overlays": [
+        { "scope": "piece", "source": "graphic" }
+    ]
+}
