@@ -464,6 +464,16 @@
         "artdataFrontFilename": "emperorDieFront"
     },
     {
+        "name": "chitCircleLargeMonastery",
+        "type": "LargeCircleChit",
+        "quantity": 6,
+        "componentGamedataFilename": "chitCircleLargeMonastery",
+        "disabled": false,
+        "piecesGamedataFilename": "chitCircleLargeMonastery",
+        "artdataFrontFilename": "chitCircleLargeMonasteryFront",
+        "artdataBackFilename": "chitCircleLargeMonasteryBack"
+    },
+    {
         "name": "playerMat",
         "type": "BiFoldMat",
         "quantity": 1,
