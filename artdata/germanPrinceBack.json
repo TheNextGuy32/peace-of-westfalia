@@ -11,6 +11,8 @@
     "overlays": [
         { "scope": "piece", "source": "displayName" },
         { "scope": "global", "source": "province" },
+        { "scope": "global", "source": "overlayReligionMediumHex", "isComplex": true, "isDebugInfo": true },
         { "scope": "global", "source": "chitHexMediumBoundaries", "isComplex": true, "isDebugInfo": true }
+
     ]
 }
