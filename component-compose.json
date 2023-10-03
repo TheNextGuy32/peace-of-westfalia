@@ -491,5 +491,15 @@
         "piecesGamedataFilename": "playerColors",
         "artdataFrontFilename": "playerMatFront",
         "artdataBackFilename": "playerMatBack"
+    },
+    {
+        "name": "chitCircleMediumReserves",
+        "type": "MediumCircleChit",
+        "quantity": 1,
+        "componentGamedataFilename": "chitCircleMediumReserves",
+        "disabled": false,
+        "piecesGamedataFilename": "playerColors",
+        "artdataFrontFilename": "chitCircleMediumReserves",
+        "artdataBackFilename": "chitCircleMediumReserves"
     }
 ]

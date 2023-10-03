@@ -1,0 +1,9 @@
+{
+    "name": "chitCircleMediumReserves",
+    "templateFilename": "chitCircleMediumReserves",
+    "textReplacements": [],
+    "styleUpdates": [
+        { "id": "background", "cssValue": "fill", "scope": "piece", "source": "color" }
+    ],
+    "overlays": []
+}
