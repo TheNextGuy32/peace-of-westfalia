@@ -474,6 +474,15 @@
         "artdataBackFilename": "chitCircleLargeMonasteryBack"
     },
     {
+        "name": "foreignPowerDie",
+        "type": "D6Plastic",
+        "quantity": 1,
+        "componentGamedataFilename": "foreignPowerDie",
+        "disabled": false,
+        "piecesGamedataFilename": "foreignPowerDie",
+        "artdataFrontFilename": "foreignPowerDieFront"
+    },
+    {
         "name": "playerMat",
         "type": "BiFoldMat",
         "quantity": 1,
