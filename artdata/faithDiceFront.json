@@ -1,0 +1,9 @@
+{
+    "name": "faithDice",
+    "templateFilename": "blankD6",
+    "textReplacements": [],
+    "styleUpdates": [],
+    "overlays": [
+        { "scope": "piece", "source": "graphic" }
+    ]
+}

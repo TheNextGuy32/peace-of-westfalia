@@ -555,5 +555,14 @@
         "piecesGamedataFilename": "playerColors",
         "artdataFrontFilename": "chitCircleMediumReserves",
         "artdataBackFilename": "chitCircleMediumReserves"
+    },
+    {
+        "name": "faithDice",
+        "type": "D6Plastic",
+        "quantity": 40,
+        "componentGamedataFilename": "faithDice",
+        "disabled": false,
+        "piecesGamedataFilename": "faithDice",
+        "artdataFrontFilename": "faithDiceFront"
     }
 ]
