@@ -1,0 +1,9 @@
+{
+    "name": "foreignPowerDie",
+    "templateFilename": "foreignPowerDie",
+    "textReplacements": [],
+    "styleUpdates": [],
+    "overlays": [
+        { "scope": "piece", "source": "graphic" }
+    ]
+}
