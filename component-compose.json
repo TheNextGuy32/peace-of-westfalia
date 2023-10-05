@@ -262,7 +262,7 @@
         "name": "playerProvinces",
         "type": "MediumHexTile",
         "quantity": 1,
-        "piecesGamedataFilename": "playerColors",
+        "piecesGamedataFilename": "playerProvinces",
         "componentGamedataFilename": "playerProvinces",
         "artdataFrontFilename": "playerProvincesFront",
         "artdataBackFilename": "playerProvincesBack",

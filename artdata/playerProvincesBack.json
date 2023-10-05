@@ -10,6 +10,7 @@
     ],
     "overlays": [
         { "scope": "global", "source": "province" },
-        { "scope": "global", "source": "chitHexMediumBoundaries", "isComplex": true, "isDebugInfo": true }
+        { "scope": "global", "source": "chitHexMediumBoundaries", "isComplex": true, "isDebugInfo": true },
+        { "scope": "piece", "source": "overlay" }
     ]
 }
