@@ -82,18 +82,6 @@
         "disabled": false
     },
     {
-        "name": "protestantProvinceDice",
-        "type": "STOCK_D616mmYellow",
-        "quantity": 25,
-        "disabled": true
-    },
-    {
-        "name": "catholicProvinceDice",
-        "type": "STOCK_D616mmBlue",
-        "quantity": 25,
-        "disabled": true
-    },
-    {
         "name": "abilities",
         "type": "PokerDeck",
         "quantity": 1,
@@ -101,7 +89,7 @@
         "componentGamedataFilename": "abilities",
         "artdataFrontFilename": "abilitiesFront",
         "artdataBackFilename": "abilitiesBack",
-        "disabled": false
+        "disabled": true
     },
     {
         "name": "scoreMarker",
@@ -111,7 +99,7 @@
         "componentGamedataFilename": "scoreMarker",
         "artdataFrontFilename": "scoreMarker",
         "artdataBackFilename": "scoreMarker",
-        "disabled": true
+        "disabled": false
     },
     {
         "name": "leagueWarBoard",
@@ -141,14 +129,14 @@
         "componentGamedataFilename": "councilOfTrent",
         "artdataFrontFilename": "councilOfTrentFront",
         "artdataBackFilename": "councilOfTrentBack",
-        "disabled": true
+        "disabled": false
     },
     {
         "name": "ottomanDie",
         "type": "D6Plastic",
         "quantity": 1,
         "componentGamedataFilename": "ottomanDie",
-        "disabled": true,
+        "disabled": false,
         "piecesGamedataFilename": "ottomanDie",
         "artdataFrontFilename": "ottomanDieFront"
     },
@@ -266,7 +254,7 @@
         "componentGamedataFilename": "playerProvinces",
         "artdataFrontFilename": "playerProvincesFront",
         "artdataBackFilename": "playerProvincesBack",
-        "disabled": true
+        "disabled": false
     },
     {
         "name": "emperorDie",
