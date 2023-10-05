@@ -5,11 +5,12 @@
         { "scope": "global", "key": "value", "source": "" }
     ],
     "styleUpdates": [
-        { "id": "backgroundColor", "cssValue": "fill", "scope": "game", "source": "protestantColor" },
-        { "id": "foregroundColor", "cssValue": "fill", "scope": "piece", "source": "color" }
+        { "id": "religionColor", "cssValue": "fill", "scope": "game", "source": "protestantColor" },
+        { "id": "backgroundColor", "cssValue": "fill", "scope": "piece", "source": "color" }
     ],
     "overlays": [
         { "scope": "global", "source": "province" },
+        { "scope": "global", "source": "overlayReligionMediumHex" },
         { "scope": "global", "source": "chitHexMediumBoundaries", "isComplex": true, "isDebugInfo": true },
         { "scope": "piece", "source": "overlay" }
     ]
