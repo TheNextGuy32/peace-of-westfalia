@@ -11,7 +11,7 @@
      viewBox="0 0 825 1125"
      enable-background="new 0 0 198 270"
      xml:space="preserve"
-     sodipodi:docname="saints.svg"
+     sodipodi:docname="overlayRole.svg"
      inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
      xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
      xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -107,7 +107,65 @@
          in2="offset"
          operator="over"
          result="composite2"
-         id="feComposite5915-6" /></filter></defs><sodipodi:namedview
+         id="feComposite5915-6" /></filter><filter
+     style="color-interpolation-filters:sRGB;"
+     inkscape:label="Drop Shadow"
+     id="filter45317"
+     x="-0.0039555253"
+     y="-0.016777938"
+     width="1.0128549"
+     height="1.0409393"><feFlood
+         flood-opacity="1"
+         flood-color="rgb(29,29,29)"
+         result="flood"
+         id="feFlood45307" /><feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite45309" /><feGaussianBlur
+         in="composite1"
+         stdDeviation="0"
+         result="blur"
+         id="feGaussianBlur45311" /><feOffset
+         dx="2"
+         dy="2"
+         result="offset"
+         id="feOffset45313" /><feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite45315" /></filter><filter
+     style="color-interpolation-filters:sRGB"
+     inkscape:label="Drop Shadow"
+     id="filter45317-7"
+     x="-0.012221687"
+     y="-0.031833545"
+     width="1.0342207"
+     height="1.0891339"><feFlood
+         flood-opacity="1"
+         flood-color="rgb(29,29,29)"
+         result="flood"
+         id="feFlood45307-0" /><feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite45309-0" /><feGaussianBlur
+         in="composite1"
+         stdDeviation="0"
+         result="blur"
+         id="feGaussianBlur45311-2" /><feOffset
+         dx="2"
+         dy="2"
+         result="offset"
+         id="feOffset45313-5" /><feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite45315-1" /></filter></defs><sodipodi:namedview
      id="namedview7091"
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -118,7 +176,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.81203703"
-     inkscape:cx="-123.76283"
+     inkscape:cx="315.25656"
      inkscape:cy="599.11061"
      inkscape:window-width="2560"
      inkscape:window-height="1351"
@@ -589,6 +647,27 @@
 </pattern>
 
 
+<path
+     fill="#FFFFFF"
+     d="m 37.5,1050 c 0,20.7125 16.7875,37.5 37.500001,37.5 H 750.00001 c 20.7125,0 37.5,-16.7875 37.5,-37.5 V 75.000001 C 787.50001,54.2875 770.71251,37.5 750.00001,37.5 H 75.000001 C 54.2875,37.5 37.5,54.2875 37.5,75.000001 Z"
+     id="path6602"
+     style="fill:none;fill-opacity:1;stroke:none;stroke-width:4.16667" /><path
+     fill="none"
+     stroke="#EC1E28"
+     d="m 37.5,1050 c 0,20.7125 16.7875,37.5 37.500001,37.5 H 750.00001 c 20.7125,0 37.5,-16.7875 37.5,-37.5 V 75.000001 C 787.50001,54.2875 770.71251,37.5 750.00001,37.5 H 75.000001 C 54.2875,37.5 37.5,54.2875 37.5,75.000001 Z"
+     id="path6604"
+     style="fill:none;fill-opacity:1;stroke:none;stroke-width:4.16667" /><g
+     id="g6610"
+     style="fill:none;fill-opacity:1;stroke:none"
+     transform="matrix(4.1666667,0,0,4.1666667,-3.3000001e-6,0)">
+	<path
+     fill="none"
+     stroke="#2BA6DE"
+     stroke-dasharray="1.44"
+     d="m 18.13,21.906 c 0,-2.156 1.714,-3.9 3.828,-3.9 h 154.084 c 2.114,0 3.828,1.744 3.828,3.9 v 226.188 c 0,2.154 -1.714,3.9 -3.828,3.9 H 21.958 c -2.114,0 -3.828,-1.746 -3.828,-3.9 z"
+     id="path6608"
+     style="fill:none;fill-opacity:1;stroke:none" />
+</g>
 
 
 
@@ -605,5 +684,37 @@
 
 
 
-
-</svg>
+<g
+     id="g50028"
+     transform="translate(0,6.9999962)"><text
+         xml:space="preserve"
+         style="font-size:87.4538px;line-height:1;font-family:'IBM Plex Sans Condensed';-inkscape-font-specification:'IBM Plex Sans Condensed, ';fill:white;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter45317)"
+         x="411.99432"
+         y="602.48743"
+         id="text5115-6"><tspan
+             sodipodi:role="line"
+             id="tspan5113-0"
+             x="411.99432"
+             y="602.48743"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-family:'IBM Plex Sans Condensed';-inkscape-font-specification:'IBM Plex Sans Condensed,  Bold Condensed';text-align:center;text-anchor:middle;fill:white;fill-opacity:1;stroke:black;stroke-width:5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill">{fate}</tspan></text><text
+         xml:space="preserve"
+         style="font-size:87.4538px;line-height:1;font-family:'IBM Plex Sans Condensed';-inkscape-font-specification:'IBM Plex Sans Condensed, ';fill:white;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter45317-7)"
+         x="410.8497"
+         y="447.47293"
+         id="text5115-6-6"
+         transform="matrix(1.3835904,0,0,1.3835904,-158.23105,-96.017888)"><tspan
+             sodipodi:role="line"
+             id="tspan5113-0-8"
+             x="410.8497"
+             y="447.47293"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-family:'IBM Plex Sans Condensed';-inkscape-font-specification:'IBM Plex Sans Condensed,  Bold Condensed';text-align:center;text-anchor:middle;fill:white;fill-opacity:1;stroke:black;stroke-width:5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill">{religion}</tspan></text><text
+         xml:space="preserve"
+         style="font-size:55.9761px;line-height:1;font-family:'IBM Plex Sans Condensed';-inkscape-font-specification:'IBM Plex Sans Condensed, ';fill:white;fill-opacity:1;stroke:none;stroke-width:3.20033;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter45317)"
+         x="411.49997"
+         y="671.10925"
+         id="text5115-6-1"><tspan
+             sodipodi:role="line"
+             id="tspan5113-0-0"
+             x="411.49997"
+             y="671.10925"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-family:'IBM Plex Sans Condensed';-inkscape-font-specification:'IBM Plex Sans Condensed,  Bold Condensed';text-align:center;text-anchor:middle;fill:white;fill-opacity:1;stroke:black;stroke-width:3.20033;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill">{fateDescription}</tspan></text></g></svg>

@@ -1,13 +1,11 @@
 {
     "name": "saintsFront",
-    "templateFilename": "saints",
+    "templateFilename": "saintsBack",
     "textReplacements": [
-        { "scope": "piece", "key": "name", "source": "displayName", "isTranslateable": true },
-        { "scope": "piece", "key": "religion", "source": "religion", "isTranslateable": true },
-        { "scope": "piece", "key": "fate", "source": "fateBack", "isTranslateable": true }
     ],
     "styleUpdates": [
     ],
     "overlays": [
+        
     ]
 }
