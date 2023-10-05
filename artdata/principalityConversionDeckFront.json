@@ -1,0 +1,12 @@
+{
+    "name": "principalityConversionDeck",
+    "templateFilename": "principalityConversionDeckFront",
+    "textReplacements": [
+        { "scope": "piece", "key": "name", "source": "displayName", "isTranslateable": true, "filters": ["toUpper"] }
+    ],
+    "styleUpdates": [],
+    "overlays": [
+        { "scope": "piece", "source": "graphic" },
+        { "scope": "global", "source": "overlayPrincipalityConversionDeck" }
+    ]
+}

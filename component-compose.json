@@ -390,6 +390,16 @@
         "artdataBackFilename": "frenchInterferenceTokenBack"
     },
     {
+        "name": "principalityConversionDeck",
+        "type": "PokerDeck",
+        "quantity": 1,
+        "componentGamedataFilename": "principalityConversionDeck",
+        "disabled": false,
+        "piecesGamedataFilename": "principalityConversionDeck",
+        "artdataFrontFilename": "principalityConversionDeckFront",
+        "artdataBackFilename": "principalityConversionDeckBack"
+    },
+    {
         "name": "councilOfTrentToken",
         "type": "MediumCircleChit",
         "quantity": 1,
