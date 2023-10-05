@@ -31,9 +31,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.71319446"
-     inkscape:cx="165.45277"
-     inkscape:cy="289.54235"
+     inkscape:zoom="1.4263889"
+     inkscape:cx="273.41772"
+     inkscape:cy="263.95326"
      inkscape:window-width="2560"
      inkscape:window-height="1351"
      inkscape:window-x="1491"
@@ -44,6 +44,9 @@
 
 
 <path
+     id="rect53990"
+     style="fill:#0b0b0b;fill-opacity:0.660156;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+     d="m 275.23438,80.683594 -18.17969,31.488286 h -12.46094 v 21.58203 L 107.32812,371.50586 140.11328,390.43555 278.91211,150.0293 H 546.08789 L 684.88672,390.43555 717.67188,371.50586 580.40625,133.75391 v -21.58203 h -12.46094 l -18.17969,-31.488286 -32.78515,18.929687 7.25,12.558599 H 300.76953 l 7.25,-12.558599 z" /><path
      id="religionColor"
      d="M 0 0 L 0 180 L 198 180 L 198 0 L 0 0 z M 65.132812 31.340625 L 132.86719 31.340625 L 166.73437 89.999999 L 132.86719 148.65937 L 65.132812 148.65937 L 31.265625 89.999999 L 65.132812 31.340625 z "
      transform="scale(4.1666667)" /><path
