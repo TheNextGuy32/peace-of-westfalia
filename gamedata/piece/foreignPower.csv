@@ -1,8 +1,8 @@
-name,displayName,quantity
-spain,Spain,1
-britain,Britain,1
-france,France,1
-milan,Milan,1
-poland,Poland,1
-sweden,Sweden,1
-denmark,Denmark,1
+name,displayName,quantity,graphic
+spain,Spain,1,princesLarge/Spain
+britain,Britain,1,princesLarge/Britain
+france,France,1,princesLarge/France
+milan,Milan,1,princesLarge/Milan
+poland,Poland,1,princesLarge/Poland
+sweden,Sweden,1,princesLarge/Sweden
+denmark,Denmark,1,princesLarge/Denmark

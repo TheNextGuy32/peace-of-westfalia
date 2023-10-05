@@ -9,7 +9,7 @@
         { "id": "foreground", "cssValue": "fill", "scope": "game", "source": "foreignPowerColor" }
     ],
     "overlays": [
-        { "scope": "piece", "source": "displayName" },
+        { "scope": "piece", "source": "graphic" },
         { "scope": "global", "source": "foreignPower" },
         { "scope": "global", "source": "chitHexLargeBoundaries", "isComplex": true, "isDebugInfo": true }
     ]
