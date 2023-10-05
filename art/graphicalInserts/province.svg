@@ -21,7 +21,36 @@
 	
 	
 	
-</defs><sodipodi:namedview
+<filter
+     style="color-interpolation-filters:sRGB;"
+     inkscape:label="Drop Shadow"
+     id="filter59504"
+     x="-0.024853863"
+     y="-0.086678169"
+     width="1.0596493"
+     height="1.2080276"><feFlood
+         flood-opacity="1"
+         flood-color="rgb(29,29,29)"
+         result="flood"
+         id="feFlood59494" /><feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite59496" /><feGaussianBlur
+         in="composite1"
+         stdDeviation="0"
+         result="blur"
+         id="feGaussianBlur59498" /><feOffset
+         dx="3"
+         dy="3"
+         result="offset"
+         id="feOffset59500" /><feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite59502" /></filter></defs><sodipodi:namedview
      id="namedview2578"
      pagecolor="#ffffff"
      bordercolor="#999999"
@@ -32,8 +61,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="1.4263889"
-     inkscape:cx="415.38461"
-     inkscape:cy="310.92502"
+     inkscape:cx="333.3593"
+     inkscape:cy="311.62609"
      inkscape:window-width="2560"
      inkscape:window-height="1351"
      inkscape:window-x="1491"
@@ -49,7 +78,7 @@
      style="fill:#4b4b4b;fill-opacity:1">
 </g><text
      xml:space="preserve"
-     style="font-weight:bold;font-size:92.1994px;line-height:1.1;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:none;stroke:#ec1c24;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+     style="font-weight:bold;font-size:92.1994px;line-height:1.1;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:none;stroke:#ec1c24;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill;filter:url(#filter59504)"
      x="412.68005"
      y="410.15991"
      id="text898"><tspan
