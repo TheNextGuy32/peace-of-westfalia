@@ -425,16 +425,6 @@
         "artdataBackFilename": "battleRules"
     },
     {
-        "name": "playerBoardDeck",
-        "type": "JumboDeck",
-        "quantity": 1,
-        "componentGamedataFilename": "playerBoardDeck",
-        "disabled": true,
-        "piecesGamedataFilename": "playerBoardDeck",
-        "artdataFrontFilename": "playerBoardDeckFront",
-        "artdataBackFilename": "playerBoardDeckBack"
-    },
-    {
         "name": "goodWorksAndSaintsChit",
         "type": "SmallSquareChit",
         "quantity": 1,
