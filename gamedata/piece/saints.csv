@@ -1,5 +1,5 @@
-name,displayName,quantity,religion,fate,religionBack,fateBack
-catholicSaved,Catholic Saved,3,Catholic,Saved by Faith and Works,Protestant,Damned
-protestantSaved,Protestant Saved,3,Protestant,Saved by Faith Alone,Catholic,Damned
-cathPerdition,Catholic Perdition,1,Catholic,Damned,Catholic,Damned
-protPerdition,Protestant Perdition,1,Protestant,Damned,Protestant,Damned
+name,displayName,quantity,religion,fate,fateDescription,graphic
+catholicSaved,Catholic Saved,6,Catholic,Saved,By Faith and Works,roles/savedCatholic
+catholicDamned,Catholic Damned,6,Catholic,Damned,For Lack of Grace,roles/damned
+protestantSaved,Protestant Saved,6,Protestant,Saved,By Faith Alone,roles/savedProtestant
+protestantDamned,Protestant Damned,6,Protestant,Damned,For Lack of Faith,roles/damned
