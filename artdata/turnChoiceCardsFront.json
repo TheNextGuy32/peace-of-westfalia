@@ -4,7 +4,7 @@
     "textReplacements": [
         { "scope": "piece", "key": "name", "source": "displayName", "isTranslateable": true },
         { "scope": "piece", "key": "rules", "source": "rules", "isTranslateable": true },
-        { "scope": "piece", "key": "emperorRules", "source": "emperorRules", "isTranslateable": true }
+        { "scope": "global", "key": "emperorRules", "source": "", "isTranslateable": true }
     ],
     "styleUpdates": [
         { "id": "backgroundColor", "cssValue": "fill", "scope": "component", "source": "colorRGB" }
