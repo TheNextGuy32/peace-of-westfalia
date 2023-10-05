@@ -2,7 +2,7 @@
     "name": "foreignFrance",
     "templateFilename": "foreignPowerHexTile",
     "textReplacements": [
-        { "scope": "piece", "key": "value", "source": "displayName", "isTranslateable": true, "filters":["toUpper"] }
+        { "scope": "piece", "key": "value", "source": "displayName", "isTranslateable": true }
     ],
     "styleUpdates": [
         { "id": "backgroundColor", "cssValue": "fill", "scope": "game", "source": "protestantColor" },

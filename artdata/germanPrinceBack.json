@@ -2,7 +2,7 @@
     "name": "religionProvinceHexTilesBack",
     "templateFilename": "provinceHexTile",
     "textReplacements": [
-        { "scope": "piece", "key": "value", "source": "displayName", "isTranslateable": true, "filters":["toUpper"] }
+        { "scope": "piece", "key": "value", "source": "displayName", "isTranslateable": true }
     ],
     "styleUpdates": [
         { "id": "religionColor", "cssValue": "fill", "scope": "game", "source": "catholicColor" }
