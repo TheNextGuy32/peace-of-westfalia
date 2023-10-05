@@ -408,5 +408,17 @@
         "piecesGamedataFilename": "councilOfTrentToken",
         "artdataFrontFilename": "councilOfTrentTokenFront",
         "artdataBackFilename": "councilOfTrentTokenBack"
+    },
+    {
+        "name": "electorProtestant",
+        "type": "STOCK_StickerPawnOrange",
+        "quantity": 7,
+        "disabled": false
+    },
+    {
+        "name": "electorCatholic",
+        "type": "STOCK_StickerPawnYellow",
+        "quantity": 7,
+        "disabled": false
     }
 ]
