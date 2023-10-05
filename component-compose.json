@@ -148,7 +148,7 @@
         "componentGamedataFilename": "doctrineChoices",
         "artdataFrontFilename": "doctrineChoicesFront",
         "artdataBackFilename": "doctrineChoicesBack",
-        "disabled": false
+        "disabled": true
     },
     {
         "name": "emperorBoard",
@@ -158,7 +158,7 @@
         "componentGamedataFilename": "emperorBoard",
         "artdataFrontFilename": "emperorBoard",
         "artdataBackFilename": "emperorBoard",
-        "disabled": false
+        "disabled": true
     },
     {
         "name": "packaging",
