@@ -1,7 +1,10 @@
 {
     "name": "frenchInterferenceToken",
     "templateFilename": "frenchInterferenceTokenBack",
-    "textReplacements": [],
+    "textReplacements": [
+        { "scope": "global", "key": "resource", "source": "Influence", "isTranslateable": true }
+
+    ],
     "styleUpdates": [],
     "overlays": []
 }
