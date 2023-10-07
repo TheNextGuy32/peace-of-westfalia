@@ -401,12 +401,18 @@
         "name": "electorProtestant",
         "type": "STOCK_StickerPawnOrange",
         "quantity": 7,
-        "disabled": false
+        "disabled": true
     },
     {
         "name": "electorCatholic",
         "type": "STOCK_StickerPawnYellow",
         "quantity": 7,
+        "disabled": true
+    },
+    {
+        "name": "electorPawn",
+        "type": "STOCK_StickerPawnTransparent",
+        "quantity": 14,
         "disabled": false
     }
 ]
