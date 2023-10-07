@@ -1,5 +1,5 @@
 name,displayName,quantity,religion,fate,fateDescription,graphic
 catholicSaved,Catholic Saved,6,Catholic,Saved,By Faith and Works,roles/savedCatholic
-catholicDamned,Catholic Damned,6,Catholic,Damned,For Lack of Grace,roles/damned
+catholicDamned,Catholic,6,Catholic,,In a State of Mortal Sin,roles/damned
 protestantSaved,Protestant Saved,6,Protestant,Saved,By Faith Alone,roles/savedProtestant
-protestantDamned,Protestant Damned,6,Protestant,Damned,For Lack of Faith,roles/damned
+protestantDamned,Protestant,6,Protestant,,Predestined to Hell,roles/damned
