@@ -211,7 +211,7 @@
         "type": "JumboDeck",
         "quantity": 1,
         "componentGamedataFilename": "peaceTreaty",
-        "disabled": false,
+        "disabled": true,
         "piecesGamedataFilename": "peaceTreaty",
         "artdataFrontFilename": "peaceTreaty",
         "artdataBackFilename": "peaceTreaty"
@@ -221,7 +221,7 @@
         "type": "JumboDeck",
         "quantity": 1,
         "componentGamedataFilename": "battleRules",
-        "disabled": false,
+        "disabled": true,
         "piecesGamedataFilename": "battleRules",
         "artdataFrontFilename": "battleRules",
         "artdataBackFilename": "battleRules"
@@ -297,7 +297,7 @@
         "type": "D6Plastic",
         "quantity": 1,
         "componentGamedataFilename": "foreignPowerDie",
-        "disabled": false,
+        "disabled": true,
         "piecesGamedataFilename": "foreignPowerDieMilan",
         "artdataFrontFilename": "foreignPowerDie"
     },
@@ -338,7 +338,7 @@
         "artdataFrontFilename": "foreignPowerDie"
     },
     {
-        "name": "playerMats",
+        "name": "playerMat",
         "type": "BiFoldMat",
         "quantity": 1,
         "componentGamedataFilename": "playerMat",
@@ -404,31 +404,31 @@
     },
     {
         "name": "turnChoiceWageWar",
-        "type": "JumboDeck",
-        "quantity": 1,
+        "type": "PokerDeck",
+        "quantity": 8,
         "componentGamedataFilename": "turnChoiceCards",
         "disabled": false,
-        "piecesGamedataFilename": "turnChoiceBacks",
+        "piecesGamedataFilename": "turnChoiceCard",
         "artdataFrontFilename": "turnChoiceWageWar",
         "artdataBackFilename": "turnChoiceCardsBack"
     },
     {
         "name": "turnChoiceDoDiplomacy",
-        "type": "JumboDeck",
-        "quantity": 1,
+        "type": "PokerDeck",
+        "quantity": 8,
         "componentGamedataFilename": "turnChoiceCards",
         "disabled": false,
-        "piecesGamedataFilename": "turnChoiceBacks",
+        "piecesGamedataFilename": "turnChoiceCard",
         "artdataFrontFilename": "turnChoiceDoDiplomacy",
         "artdataBackFilename": "turnChoiceCardsBack"
     },
     {
         "name": "turnChoiceCombatHeresy",
-        "type": "JumboDeck",
-        "quantity": 1,
+        "type": "PokerDeck",
+        "quantity": 8,
         "componentGamedataFilename": "turnChoiceCards",
         "disabled": false,
-        "piecesGamedataFilename": "turnChoiceBacks",
+        "piecesGamedataFilename": "turnChoiceCard",
         "artdataFrontFilename": "turnChoiceCombatHeresy",
         "artdataBackFilename": "turnChoiceCardsBack"
     }
