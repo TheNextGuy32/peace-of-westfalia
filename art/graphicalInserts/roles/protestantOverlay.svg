@@ -174,10 +174,10 @@
      style="color-interpolation-filters:sRGB;"
      inkscape:label="Drop Shadow"
      id="filter19752"
-     x="-0.0015839307"
-     y="-0.0024529381"
-     width="1.0047518"
-     height="1.0073588"><feFlood
+     x="-0.0014976467"
+     y="-0.0028530366"
+     width="1.0044929"
+     height="1.0085591"><feFlood
          flood-opacity="1"
          flood-color="rgb(29,29,29)"
          result="flood"
@@ -210,8 +210,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="1.6240741"
-     inkscape:cx="223.2041"
-     inkscape:cy="479.96578"
+     inkscape:cx="151.16305"
+     inkscape:cy="480.58152"
      inkscape:window-width="2560"
      inkscape:window-height="1351"
      inkscape:window-x="1491"
@@ -725,47 +725,47 @@
      style="font-weight:bold;font-stretch:condensed;font-size:29.3333px;line-height:1;font-family:'IBM Plex Sans Condensed';-inkscape-font-specification:'IBM Plex Sans Condensed,  Bold Condensed';text-align:start;white-space:pre;shape-inside:url(#rect18397);display:inline;fill:white;stroke:black;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter19752)"><tspan
          x="73.888672"
          y="386.16318"
-         id="tspan29454">+3 Faith Rounds 1-3
+         id="tspan1601">+3 Faith during Rounds 1-3
 </tspan><tspan
          x="73.888672"
          y="415.49649"
-         id="tspan29456">+1 Faith Rounds 4-6
+         id="tspan1603">+1 Faith during Rounds 4-6
 </tspan><tspan
          x="73.888672"
          y="444.8298"
-         id="tspan29458">+1 Faith for adherents of the Emperor’s Religion.
+         id="tspan1605">+1 Faith for adherents of the Emperor’s Religion.
 </tspan><tspan
          x="73.888672"
          y="474.16312"
-         id="tspan29460">{savedBonus}
+         id="tspan1607">{savedBonus}
 </tspan><tspan
          x="73.888672"
          y="503.49643"
-         id="tspan29462">
+         id="tspan1609">
 </tspan><tspan
          x="73.888672"
          y="532.82974"
-         id="tspan29464">Gold may be turned into Faith at a rate of 1 Gold : 2 </tspan><tspan
+         id="tspan1611">Gold may be turned into Faith at a rate of 1 Gold : 2 </tspan><tspan
          x="73.888672"
          y="562.16305"
-         id="tspan29466">Faith.
+         id="tspan1613">Faith.
 </tspan><tspan
          x="73.888672"
          y="591.49637"
-         id="tspan29468">
+         id="tspan1615">
 </tspan><tspan
          x="73.888672"
          y="620.82968"
-         id="tspan29470">{leagueRules}
+         id="tspan1617">{leagueRules}
 </tspan><tspan
          x="73.888672"
          y="650.16299"
-         id="tspan29472">
+         id="tspan1619">
 </tspan><tspan
          x="73.888672"
          y="679.49631"
-         id="tspan29474">When convert, gain Good Works = to the Catholic with </tspan><tspan
+         id="tspan1621">When convert, gain Good Works = to the Catholic with </tspan><tspan
          x="73.888672"
          y="708.82962"
-         id="tspan29476">least still saved, -2. Swap this Role card.
+         id="tspan1623">least still saved, -2. Swap this Role card.
 </tspan></text></svg>

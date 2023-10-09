@@ -174,10 +174,10 @@
      style="color-interpolation-filters:sRGB;"
      inkscape:label="Drop Shadow"
      id="filter19752"
-     x="-0.0015839307"
-     y="-0.0024529381"
-     width="1.0047518"
-     height="1.0073588"><feFlood
+     x="-0.001496398"
+     y="-0.001707877"
+     width="1.0044892"
+     height="1.0051236"><feFlood
          flood-opacity="1"
          flood-color="rgb(29,29,29)"
          result="flood"
@@ -210,8 +210,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="1.6240741"
-     inkscape:cx="294.93729"
-     inkscape:cy="480.58153"
+     inkscape:cx="223.2041"
+     inkscape:cy="481.19726"
      inkscape:window-width="2560"
      inkscape:window-height="1351"
      inkscape:window-x="1491"
@@ -722,78 +722,74 @@
 <text
      xml:space="preserve"
      id="text18395"
-     style="font-weight:bold;font-stretch:condensed;font-size:29.3333px;line-height:1;font-family:'IBM Plex Sans Condensed';-inkscape-font-specification:'IBM Plex Sans Condensed,  Bold Condensed';text-align:start;white-space:pre;shape-inside:url(#rect18397);display:inline;fill:white;stroke:black;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter19752)"><tspan
+     style="font-weight:bold;font-stretch:condensed;font-size:29.3333px;line-height:1;font-family:'IBM Plex Sans Condensed';-inkscape-font-specification:'IBM Plex Sans Condensed,  Bold Condensed';text-align:start;white-space:pre;display:inline;fill:white;stroke:black;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter19752);shape-inside:url(#rect18397)"><tspan
          x="73.888672"
          y="386.16318"
-         id="tspan31133">+2 Faith during The Catholic Reformation
+         id="tspan1389">+2 Faith during The Catholic Reformation
 </tspan><tspan
          x="73.888672"
          y="415.49649"
-         id="tspan31135">+1 Gold before The Catholic Reformation
+         id="tspan1391">+1 Gold before The Catholic Reformation
 </tspan><tspan
          x="73.888672"
          y="444.8298"
-         id="tspan31137">+1 Faith per Saint
+         id="tspan1393">+1 Faith per Saint
 </tspan><tspan
          x="73.888672"
          y="474.16312"
-         id="tspan31139">{savedBonus}
+         id="tspan1395">+1 Faith for adherents of the Emperor’s Religion.
 </tspan><tspan
          x="73.888672"
          y="503.49643"
-         id="tspan31141">
+         id="tspan1397">{savedBonus}
 </tspan><tspan
          x="73.888672"
          y="532.82974"
-         id="tspan31143">Gain 1 Good Work if you still have your 
+         id="tspan1399">
 </tspan><tspan
          x="73.888672"
          y="562.16305"
-         id="tspan31145">Monastery Token.
+         id="tspan1401">Gain 1 Good Work if you still have your 
 </tspan><tspan
          x="73.888672"
          y="591.49637"
-         id="tspan31147">
+         id="tspan1403">Monastery Token.
 </tspan><tspan
          x="73.888672"
          y="620.82968"
-         id="tspan31149">+1 Faith for adherents of the Emperor’s Religion.
+         id="tspan1405">
 </tspan><tspan
          x="73.888672"
          y="650.16299"
-         id="tspan31151">
-</tspan><tspan
+         id="tspan1407">Gold may be turned into Faith at a rate of 1 Gold : 2 </tspan><tspan
          x="73.888672"
          y="679.49631"
-         id="tspan31153">Gold may be turned into Faith at a rate of 1 Gold : 2 </tspan><tspan
+         id="tspan1409">Faith.
+</tspan><tspan
          x="73.888672"
          y="708.82962"
-         id="tspan31155">Faith.
+         id="tspan1411">
 </tspan><tspan
          x="73.888672"
          y="738.16293"
-         id="tspan31157">
+         id="tspan1413">{leagueRules}
 </tspan><tspan
          x="73.888672"
          y="767.49625"
-         id="tspan31159">{leagueRules}
+         id="tspan1415">
 </tspan><tspan
          x="73.888672"
          y="796.82956"
-         id="tspan31161">
-</tspan><tspan
+         id="tspan1417">When convert, trade in Monastery token for 2 Gold. </tspan><tspan
          x="73.888672"
          y="826.16287"
-         id="tspan31163">When convert, trade in Monastery token for 2 Gold. </tspan><tspan
+         id="tspan1419">Swap this Role Card for a Saved by Faith Alone Card if </tspan><tspan
          x="73.888672"
          y="855.49618"
-         id="tspan31165">Swap this Role Card for a Saved by Faith Alone Card if </tspan><tspan
+         id="tspan1421">available. Otherwise take a Predestined for Hellfire </tspan><tspan
          x="73.888672"
          y="884.8295"
-         id="tspan31167">available. Otherwise take a Predestined for Hellfire </tspan><tspan
+         id="tspan1423">Card. Swap this Card for Saved by Faith and Work </tspan><tspan
          x="73.888672"
          y="914.16281"
-         id="tspan31169">Card. Swap this Card for Saved by Faith and Work </tspan><tspan
-         x="73.888672"
-         y="943.49612"
-         id="tspan31171">Card if enough Good Works.</tspan></text></svg>
+         id="tspan1425">Card if enough Good Works.</tspan></text></svg>
