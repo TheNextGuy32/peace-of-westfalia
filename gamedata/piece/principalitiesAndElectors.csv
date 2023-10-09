@@ -23,7 +23,7 @@ flanders,Flanders,"princesMedium/Flanders",0,Prince
 frankfurt,Frankfurt,"princesMedium/Frankfurt",1,Prince
 hesse,Hesse,"princesMedium/Hesse",1,Prince
 lorraine,Lorraine,"princesMedium/Alsace",1,Prince
-lubeck,Lubeck,"princesMedium/Lubeck",0,Prince
+lubeck,Lubeck,"princesMedium/Lubeck",1,Prince
 luxembourg,Luxembourg,"princesMedium/Luxembourg",0,Prince
 magdeburg,Magdeburg,"princesMedium/Magdeburg",1,Prince
 mecklenburg,Mecklenburg,"princesMedium/Mecklenburg",1,Prince
@@ -39,4 +39,4 @@ ulm,Ulm,"princesMedium/Ulm",1,Prince
 westphalia,Westphalia,"princesMedium/Westphalia",0,Prince
 wurttemberg,Wurttemberg,"princesMedium/Wurttemberg",1,Prince
 wurzburg,Wurzburg,"princesMedium/Wurzburg",0,Prince
-pomerania,Pomerania,"princeMedium/Pomerania",1,Prince
+pomerania,Pomerania,"princeMedium/Pomerania",0,Prince
