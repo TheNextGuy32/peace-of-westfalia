@@ -338,7 +338,7 @@
         "artdataFrontFilename": "foreignPowerDie"
     },
     {
-        "name": "playerMat",
+        "name": "playerMats",
         "type": "BiFoldMat",
         "quantity": 1,
         "componentGamedataFilename": "playerMat",

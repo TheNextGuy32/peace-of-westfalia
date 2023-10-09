@@ -5,7 +5,7 @@
         { "scope": "piece", "key": "playerName", "source": "displayName", "isTranslateable": true }
     ],
     "styleUpdates": [
-        { "id": "background", "cssValue": "fill", "scope": "piece", "source": "color" }
+        { "id": "circle", "cssValue": "fill", "scope": "piece", "source": "color" }
     ],
     "overlays": []
 }
