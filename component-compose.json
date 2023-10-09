@@ -258,7 +258,7 @@
     {
         "name": "chitCircleLargeMonastery",
         "type": "LargeCircleChit",
-        "quantity": 6,
+        "quantity": 8,
         "componentGamedataFilename": "chitCircleLargeMonastery",
         "disabled": false,
         "piecesGamedataFilename": "chitCircleLargeMonastery",
