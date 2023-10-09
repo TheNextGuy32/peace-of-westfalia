@@ -404,7 +404,7 @@
     },
     {
         "name": "turnChoiceWageWar",
-        "type": "PokerDeck",
+        "type": "JumboDeck",
         "quantity": 1,
         "componentGamedataFilename": "turnChoiceCards",
         "disabled": false,
@@ -414,7 +414,7 @@
     },
     {
         "name": "turnChoiceDoDiplomacy",
-        "type": "PokerDeck",
+        "type": "JumboDeck",
         "quantity": 1,
         "componentGamedataFilename": "turnChoiceCards",
         "disabled": false,
@@ -424,7 +424,7 @@
     },
     {
         "name": "turnChoiceCombatHeresy",
-        "type": "PokerDeck",
+        "type": "JumboDeck",
         "quantity": 1,
         "componentGamedataFilename": "turnChoiceCards",
         "disabled": false,
