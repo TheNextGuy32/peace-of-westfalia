@@ -339,6 +339,15 @@
         "artdataFrontFilename": "foreignPowerDie"
     },
     {
+        "name": "foreignPowerDieTransylvania",
+        "type": "D6Plastic",
+        "quantity": 1,
+        "componentGamedataFilename": "foreignPowerDie",
+        "disabled": false,
+        "piecesGamedataFilename": "foreignPowerDieTransylvania",
+        "artdataFrontFilename": "foreignPowerDie"
+    },
+    {
         "name": "playerMat",
         "type": "BiFoldMat",
         "quantity": 1,
@@ -396,18 +405,6 @@
         "piecesGamedataFilename": "councilOfTrentToken",
         "artdataFrontFilename": "councilOfTrentTokenFront",
         "artdataBackFilename": "councilOfTrentTokenBack"
-    },
-    {
-        "name": "electorProtestant",
-        "type": "STOCK_StickerPawnOrange",
-        "quantity": 7,
-        "disabled": true
-    },
-    {
-        "name": "electorCatholic",
-        "type": "STOCK_StickerPawnYellow",
-        "quantity": 7,
-        "disabled": true
     },
     {
         "name": "electorPawn",
