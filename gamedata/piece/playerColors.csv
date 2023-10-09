@@ -1,7 +1,9 @@
 name,displayName,quantity,color
 purple,Purple,1,#431E42
-green,Green,1,#0D674A
-orange,Orange,1,#B73720
+green,Green,1,#008000
+orange,Orange,1,#ff5f00
 black,Black,1,#191919
 red,Red,1,#f00
+blue,Blue,1,#00f
 white,White,1,#fff
+yellow,Yellow,1,#ff0
