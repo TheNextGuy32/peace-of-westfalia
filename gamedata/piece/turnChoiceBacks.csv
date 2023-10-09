@@ -1,0 +1,9 @@
+name,displayName,quantity,color,backGraphic
+purple,Purple,1,#431E42,"turnChoiceBacks/purple"
+green,Green,1,#008000,"turnChoiceBacks/green"
+orange,Orange,1,#ff5f00,"turnChoiceBacks/orange"
+black,Black,1,#191919,"turnChoiceBacks/black"
+red,Red,1,#f00,"turnChoiceBacks/red"
+blue,Blue,1,#00f,"turnChoiceBacks/blue"
+white,White,1,#fff,"turnChoiceBacks/white"
+yellow,Yellow,1,#ff0,"turnChoiceBacks/yellow"

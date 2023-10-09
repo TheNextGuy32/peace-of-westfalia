@@ -5,7 +5,9 @@
         { "scope": "component", "key": "name", "source": "pieceDisplayName", "isTranslateable": true }
     ],
     "styleUpdates": [
-        { "id": "backgroundColor", "cssValue": "fill", "scope": "component", "source": "colorRGB" }
+        { "id": "backgroundColor", "cssValue": "fill", "scope": "piece", "source": "color" }
     ],
-    "overlays": []
+    "overlays": [
+        { "scope": "piece", "source": "backGraphic" }
+    ]
 }
