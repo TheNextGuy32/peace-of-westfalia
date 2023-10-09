@@ -11,7 +11,7 @@
      viewBox="0 0 825 1125"
      enable-background="new 0 0 198 270"
      xml:space="preserve"
-     sodipodi:docname="overlayRole.svg"
+     sodipodi:docname="protestantOverlay.svg"
      inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
      xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
      xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -209,9 +209,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.57419691"
-     inkscape:cx="228.14473"
-     inkscape:cy="692.27123"
+     inkscape:zoom="1.6240741"
+     inkscape:cx="223.2041"
+     inkscape:cy="479.96578"
      inkscape:window-width="2560"
      inkscape:window-height="1351"
      inkscape:window-x="1491"
@@ -719,41 +719,53 @@
 
 
 
-<rect
-     style="fill:black;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;fill-opacity:0.58898306"
-     id="rect31872"
-     width="835.9502"
-     height="1140.7236"
-     x="-5.2246885"
-     y="-3.4831257" /><text
+<text
      xml:space="preserve"
-     style="font-size:87.4538px;line-height:1;font-family:'IBM Plex Sans Condensed';-inkscape-font-specification:'IBM Plex Sans Condensed, ';text-align:start;text-anchor:start;fill:white;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter45317)"
-     x="77.717972"
-     y="251.12938"
-     id="text5115-6"><tspan
-         sodipodi:role="line"
-         id="tspan5113-0"
-         x="77.717972"
-         y="251.12938"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-family:'IBM Plex Sans Condensed';-inkscape-font-specification:'IBM Plex Sans Condensed,  Bold Condensed';text-align:start;text-anchor:start;fill:white;fill-opacity:1;stroke:black;stroke-width:5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill">{fate}</tspan></text><text
-     xml:space="preserve"
-     style="font-size:87.4538px;line-height:1;font-family:'IBM Plex Sans Condensed';-inkscape-font-specification:'IBM Plex Sans Condensed, ';text-align:start;text-anchor:start;fill:white;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter45317-7)"
-     x="410.8497"
-     y="447.47293"
-     id="text5115-6-6"
-     transform="matrix(1.3835904,0,0,1.3835904,-490.34104,-447.37593)"><tspan
-         sodipodi:role="line"
-         id="tspan5113-0-8"
-         x="410.8497"
-         y="447.47293"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-family:'IBM Plex Sans Condensed';-inkscape-font-specification:'IBM Plex Sans Condensed,  Bold Condensed';text-align:start;text-anchor:start;fill:white;fill-opacity:1;stroke:black;stroke-width:5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill">{religion}</tspan></text><text
-     xml:space="preserve"
-     style="font-size:55.9761px;line-height:1;font-family:'IBM Plex Sans Condensed';-inkscape-font-specification:'IBM Plex Sans Condensed, ';text-align:start;text-anchor:start;fill:white;fill-opacity:1;stroke:none;stroke-width:3.20033;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter45317)"
-     x="80.697243"
-     y="318.51974"
-     id="text5115-6-1"><tspan
-         sodipodi:role="line"
-         id="tspan5113-0-0"
-         x="80.697243"
-         y="318.51974"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-family:'IBM Plex Sans Condensed';-inkscape-font-specification:'IBM Plex Sans Condensed,  Bold Condensed';text-align:start;text-anchor:start;fill:white;fill-opacity:1;stroke:black;stroke-width:3.20033;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill">{fateDescription}</tspan></text></svg>
+     id="text18395"
+     style="font-weight:bold;font-stretch:condensed;font-size:29.3333px;line-height:1;font-family:'IBM Plex Sans Condensed';-inkscape-font-specification:'IBM Plex Sans Condensed,  Bold Condensed';text-align:start;white-space:pre;shape-inside:url(#rect18397);display:inline;fill:white;stroke:black;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter19752)"><tspan
+         x="73.888672"
+         y="386.16318"
+         id="tspan29454">+3 Faith Rounds 1-3
+</tspan><tspan
+         x="73.888672"
+         y="415.49649"
+         id="tspan29456">+1 Faith Rounds 4-6
+</tspan><tspan
+         x="73.888672"
+         y="444.8298"
+         id="tspan29458">+1 Faith for adherents of the Emperor’s Religion.
+</tspan><tspan
+         x="73.888672"
+         y="474.16312"
+         id="tspan29460">{savedBonus}
+</tspan><tspan
+         x="73.888672"
+         y="503.49643"
+         id="tspan29462">
+</tspan><tspan
+         x="73.888672"
+         y="532.82974"
+         id="tspan29464">Gold may be turned into Faith at a rate of 1 Gold : 2 </tspan><tspan
+         x="73.888672"
+         y="562.16305"
+         id="tspan29466">Faith.
+</tspan><tspan
+         x="73.888672"
+         y="591.49637"
+         id="tspan29468">
+</tspan><tspan
+         x="73.888672"
+         y="620.82968"
+         id="tspan29470">{leagueRules}
+</tspan><tspan
+         x="73.888672"
+         y="650.16299"
+         id="tspan29472">
+</tspan><tspan
+         x="73.888672"
+         y="679.49631"
+         id="tspan29474">When convert, gain Good Works = to the Catholic with </tspan><tspan
+         x="73.888672"
+         y="708.82962"
+         id="tspan29476">least still saved, -2. Swap this Role card.
+</tspan></text></svg>

@@ -5,13 +5,13 @@
      version="1.1"
      x="0px"
      y="0px"
-     width="1200"
-     height="1050"
-     viewBox="0 0 1200 1050"
+     width="825"
+     height="750"
+     viewBox="0 0 825 750"
      enable-background="new 0 0 198 180"
      xml:space="preserve"
      id="svg2576"
-     sodipodi:docname="province.svg"
+     sodipodi:docname="Switzerland.svg"
      inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
      xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
      xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -31,9 +31,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.71319446"
-     inkscape:cx="334.4109"
-     inkscape:cy="288.14021"
+     inkscape:zoom="0.35659724"
+     inkscape:cx="546.83542"
+     inkscape:cy="332.30768"
      inkscape:window-width="2560"
      inkscape:window-height="1351"
      inkscape:window-x="1491"
@@ -45,6 +45,14 @@
 
 <g
      id="Your_Artwork_Here"
-     transform="scale(4.1666667)"
+     transform="matrix(4.1666667,0,0,4.1666667,4.8000001e-6,4.185e-6)"
      style="fill:#4b4b4b;fill-opacity:1">
-</g></svg>
+</g><polygon
+     fill="#929497"
+     points="288,251.75 288,-0.25 0,-0.25 0,251.75 "
+     id="polygon235"
+     transform="matrix(2.8645833,0,0,2.9761905,4.8e-6,0.74404463)"
+     style="fill:red;fill-opacity:1" /><path
+     style="fill:white;fill-opacity:1;stroke:none;stroke-width:14.0653;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+     d="m 355.53546,497.36821 v -65.40372 h -65.40372 -65.40372 v -56.96453 -56.96453 h 65.40372 65.40372 v -65.40372 -65.40373 h 56.96452 56.96453 v 65.40373 65.40372 h 65.40374 65.40373 v 56.96453 56.96453 h -65.40373 -65.40374 v 65.40372 65.40381 h -56.96453 -56.96452 z"
+     id="path5626" /></svg>

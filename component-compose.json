@@ -207,13 +207,23 @@
         "disabled": false
     },
     {
-        "name": "princeProvinces",
+        "name": "principalitiesAndElectorsCapitalProvinces",
         "type": "MediumHexTile",
         "quantity": 1,
-        "piecesGamedataFilename": "germanPrince",
-        "componentGamedataFilename": "germanPrince",
-        "artdataFrontFilename": "germanPrinceFront",
-        "artdataBackFilename": "germanPrinceBack",
+        "piecesGamedataFilename": "principalitiesAndElectors",
+        "componentGamedataFilename": "principalitiesAndElectorsCapital",
+        "artdataFrontFilename": "principalitiesAndElectorsFront",
+        "artdataBackFilename": "principalitiesAndElectorsBack",
+        "disabled": false
+    },
+    {
+        "name": "principalitiesAndElectorsProvinces",
+        "type": "MediumHexTile",
+        "quantity": 4,
+        "piecesGamedataFilename": "principalitiesAndElectors",
+        "componentGamedataFilename": "principalitiesAndElectorsNonCapital",
+        "artdataFrontFilename": "principalitiesAndElectorsFront",
+        "artdataBackFilename": "principalitiesAndElectorsBack",
         "disabled": false
     },
     {
