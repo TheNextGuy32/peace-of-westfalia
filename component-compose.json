@@ -92,16 +92,6 @@
         "disabled": true
     },
     {
-        "name": "scoreMarker",
-        "type": "SmallSquareChit",
-        "quantity": 6,
-        "piecesGamedataFilename": "scoreMarker",
-        "componentGamedataFilename": "scoreMarker",
-        "artdataFrontFilename": "scoreMarker",
-        "artdataBackFilename": "scoreMarker",
-        "disabled": false
-    },
-    {
         "name": "leagueWarBoard",
         "type": "DominoMat",
         "quantity": 1,
