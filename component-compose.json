@@ -338,7 +338,7 @@
         "artdataFrontFilename": "foreignPowerDie"
     },
     {
-        "name": "playerMat",
+        "name": "playerMats",
         "type": "BiFoldMat",
         "quantity": 1,
         "componentGamedataFilename": "playerMat",
@@ -404,31 +404,31 @@
     },
     {
         "name": "turnChoiceWageWar",
-        "type": "PokerDeck",
-        "quantity": 8,
+        "type": "JumboDeck",
+        "quantity": 1,
         "componentGamedataFilename": "turnChoiceCards",
         "disabled": false,
-        "piecesGamedataFilename": "turnChoiceCard",
+        "piecesGamedataFilename": "turnChoiceBacks",
         "artdataFrontFilename": "turnChoiceWageWar",
         "artdataBackFilename": "turnChoiceCardsBack"
     },
     {
         "name": "turnChoiceDoDiplomacy",
-        "type": "PokerDeck",
-        "quantity": 8,
+        "type": "JumboDeck",
+        "quantity": 1,
         "componentGamedataFilename": "turnChoiceCards",
         "disabled": false,
-        "piecesGamedataFilename": "turnChoiceCard",
+        "piecesGamedataFilename": "turnChoiceBacks",
         "artdataFrontFilename": "turnChoiceDoDiplomacy",
         "artdataBackFilename": "turnChoiceCardsBack"
     },
     {
         "name": "turnChoiceCombatHeresy",
-        "type": "PokerDeck",
-        "quantity": 8,
+        "type": "JumboDeck",
+        "quantity": 1,
         "componentGamedataFilename": "turnChoiceCards",
         "disabled": false,
-        "piecesGamedataFilename": "turnChoiceCard",
+        "piecesGamedataFilename": "turnChoiceBacks",
         "artdataFrontFilename": "turnChoiceCombatHeresy",
         "artdataBackFilename": "turnChoiceCardsBack"
     }
