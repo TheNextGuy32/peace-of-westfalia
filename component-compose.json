@@ -161,16 +161,6 @@
         "disabled": true
     },
     {
-        "name": "turnChoices",
-        "type": "PokerDeck",
-        "quantity": 6,
-        "piecesGamedataFilename": "turnChoiceCards",
-        "componentGamedataFilename": "turnChoiceCards",
-        "artdataFrontFilename": "turnChoiceCardsFront",
-        "artdataBackFilename": "turnChoiceCardsBack",
-        "disabled": false
-    },
-    {
         "name": "coins",
         "type": "STOCK_CoinTimelessOne",
         "quantity": 40,
@@ -411,5 +401,35 @@
         "type": "STOCK_StickerPawnTransparent",
         "quantity": 14,
         "disabled": false
+    },
+    {
+        "name": "turnChoiceWageWar",
+        "type": "PokerDeck",
+        "quantity": 8,
+        "componentGamedataFilename": "turnChoiceCards",
+        "disabled": false,
+        "piecesGamedataFilename": "turnChoiceCard",
+        "artdataFrontFilename": "turnChoiceWageWar",
+        "artdataBackFilename": "turnChoiceCardsBack"
+    },
+    {
+        "name": "turnChoiceDoDiplomacy",
+        "type": "PokerDeck",
+        "quantity": 8,
+        "componentGamedataFilename": "turnChoiceCards",
+        "disabled": false,
+        "piecesGamedataFilename": "turnChoiceCard",
+        "artdataFrontFilename": "turnChoiceDoDiplomacy",
+        "artdataBackFilename": "turnChoiceCardsBack"
+    },
+    {
+        "name": "turnChoiceCombatHeresy",
+        "type": "PokerDeck",
+        "quantity": 8,
+        "componentGamedataFilename": "turnChoiceCards",
+        "disabled": false,
+        "piecesGamedataFilename": "turnChoiceCard",
+        "artdataFrontFilename": "turnChoiceCombatHeresy",
+        "artdataBackFilename": "turnChoiceCardsBack"
     }
 ]
