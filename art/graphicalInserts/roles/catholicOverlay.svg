@@ -11,7 +11,7 @@
      viewBox="0 0 825 1125"
      enable-background="new 0 0 198 270"
      xml:space="preserve"
-     sodipodi:docname="overlayRole.svg"
+     sodipodi:docname="catholicOverlay.svg"
      inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
      xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
      xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -209,9 +209,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.57419691"
-     inkscape:cx="228.14473"
-     inkscape:cy="692.27123"
+     inkscape:zoom="1.6240741"
+     inkscape:cx="294.93729"
+     inkscape:cy="480.58153"
      inkscape:window-width="2560"
      inkscape:window-height="1351"
      inkscape:window-x="1491"
@@ -719,41 +719,81 @@
 
 
 
-<rect
-     style="fill:black;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;fill-opacity:0.58898306"
-     id="rect31872"
-     width="835.9502"
-     height="1140.7236"
-     x="-5.2246885"
-     y="-3.4831257" /><text
+<text
      xml:space="preserve"
-     style="font-size:87.4538px;line-height:1;font-family:'IBM Plex Sans Condensed';-inkscape-font-specification:'IBM Plex Sans Condensed, ';text-align:start;text-anchor:start;fill:white;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter45317)"
-     x="77.717972"
-     y="251.12938"
-     id="text5115-6"><tspan
-         sodipodi:role="line"
-         id="tspan5113-0"
-         x="77.717972"
-         y="251.12938"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-family:'IBM Plex Sans Condensed';-inkscape-font-specification:'IBM Plex Sans Condensed,  Bold Condensed';text-align:start;text-anchor:start;fill:white;fill-opacity:1;stroke:black;stroke-width:5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill">{fate}</tspan></text><text
-     xml:space="preserve"
-     style="font-size:87.4538px;line-height:1;font-family:'IBM Plex Sans Condensed';-inkscape-font-specification:'IBM Plex Sans Condensed, ';text-align:start;text-anchor:start;fill:white;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter45317-7)"
-     x="410.8497"
-     y="447.47293"
-     id="text5115-6-6"
-     transform="matrix(1.3835904,0,0,1.3835904,-490.34104,-447.37593)"><tspan
-         sodipodi:role="line"
-         id="tspan5113-0-8"
-         x="410.8497"
-         y="447.47293"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-family:'IBM Plex Sans Condensed';-inkscape-font-specification:'IBM Plex Sans Condensed,  Bold Condensed';text-align:start;text-anchor:start;fill:white;fill-opacity:1;stroke:black;stroke-width:5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill">{religion}</tspan></text><text
-     xml:space="preserve"
-     style="font-size:55.9761px;line-height:1;font-family:'IBM Plex Sans Condensed';-inkscape-font-specification:'IBM Plex Sans Condensed, ';text-align:start;text-anchor:start;fill:white;fill-opacity:1;stroke:none;stroke-width:3.20033;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter45317)"
-     x="80.697243"
-     y="318.51974"
-     id="text5115-6-1"><tspan
-         sodipodi:role="line"
-         id="tspan5113-0-0"
-         x="80.697243"
-         y="318.51974"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-family:'IBM Plex Sans Condensed';-inkscape-font-specification:'IBM Plex Sans Condensed,  Bold Condensed';text-align:start;text-anchor:start;fill:white;fill-opacity:1;stroke:black;stroke-width:3.20033;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill">{fateDescription}</tspan></text></svg>
+     id="text18395"
+     style="font-weight:bold;font-stretch:condensed;font-size:29.3333px;line-height:1;font-family:'IBM Plex Sans Condensed';-inkscape-font-specification:'IBM Plex Sans Condensed,  Bold Condensed';text-align:start;white-space:pre;shape-inside:url(#rect18397);display:inline;fill:white;stroke:black;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter19752)"><tspan
+         x="73.888672"
+         y="386.16318"
+         id="tspan31133">+2 Faith during The Catholic Reformation
+</tspan><tspan
+         x="73.888672"
+         y="415.49649"
+         id="tspan31135">+1 Gold before The Catholic Reformation
+</tspan><tspan
+         x="73.888672"
+         y="444.8298"
+         id="tspan31137">+1 Faith per Saint
+</tspan><tspan
+         x="73.888672"
+         y="474.16312"
+         id="tspan31139">{savedBonus}
+</tspan><tspan
+         x="73.888672"
+         y="503.49643"
+         id="tspan31141">
+</tspan><tspan
+         x="73.888672"
+         y="532.82974"
+         id="tspan31143">Gain 1 Good Work if you still have your 
+</tspan><tspan
+         x="73.888672"
+         y="562.16305"
+         id="tspan31145">Monastery Token.
+</tspan><tspan
+         x="73.888672"
+         y="591.49637"
+         id="tspan31147">
+</tspan><tspan
+         x="73.888672"
+         y="620.82968"
+         id="tspan31149">+1 Faith for adherents of the Emperor’s Religion.
+</tspan><tspan
+         x="73.888672"
+         y="650.16299"
+         id="tspan31151">
+</tspan><tspan
+         x="73.888672"
+         y="679.49631"
+         id="tspan31153">Gold may be turned into Faith at a rate of 1 Gold : 2 </tspan><tspan
+         x="73.888672"
+         y="708.82962"
+         id="tspan31155">Faith.
+</tspan><tspan
+         x="73.888672"
+         y="738.16293"
+         id="tspan31157">
+</tspan><tspan
+         x="73.888672"
+         y="767.49625"
+         id="tspan31159">{leagueRules}
+</tspan><tspan
+         x="73.888672"
+         y="796.82956"
+         id="tspan31161">
+</tspan><tspan
+         x="73.888672"
+         y="826.16287"
+         id="tspan31163">When convert, trade in Monastery token for 2 Gold. </tspan><tspan
+         x="73.888672"
+         y="855.49618"
+         id="tspan31165">Swap this Role Card for a Saved by Faith Alone Card if </tspan><tspan
+         x="73.888672"
+         y="884.8295"
+         id="tspan31167">available. Otherwise take a Predestined for Hellfire </tspan><tspan
+         x="73.888672"
+         y="914.16281"
+         id="tspan31169">Card. Swap this Card for Saved by Faith and Work </tspan><tspan
+         x="73.888672"
+         y="943.49612"
+         id="tspan31171">Card if enough Good Works.</tspan></text></svg>
