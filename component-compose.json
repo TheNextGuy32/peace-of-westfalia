@@ -119,7 +119,7 @@
         "componentGamedataFilename": "councilOfTrent",
         "artdataFrontFilename": "councilOfTrentFront",
         "artdataBackFilename": "councilOfTrentBack",
-        "disabled": false
+        "disabled": true
     },
     {
         "name": "ottomanDie",
