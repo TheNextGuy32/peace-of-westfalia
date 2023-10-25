@@ -25,13 +25,13 @@
          inkscape:deskcolor="#d1d1d1"
          inkscape:document-units="mm"
          showgrid="false"
-         inkscape:zoom="0.64693624"
-         inkscape:cx="365.56926"
-         inkscape:cy="716.45391"
-         inkscape:window-width="2560"
-         inkscape:window-height="1351"
-         inkscape:window-x="1491"
-         inkscape:window-y="585"
+         inkscape:zoom="3.659624"
+         inkscape:cx="224.88649"
+         inkscape:cy="692.01098"
+         inkscape:window-width="2400"
+         inkscape:window-height="1261"
+         inkscape:window-x="4691"
+         inkscape:window-y="1025"
          inkscape:window-maximized="1"
          inkscape:current-layer="layer1" />
     <defs
@@ -52,10 +52,10 @@
              style="color-interpolation-filters:sRGB;"
              inkscape:label="Drop Shadow"
              id="filter31825"
-             x="0"
-             y="0"
-             width="1.0084829"
-             height="1.0305294">
+             x="-0.0048444291"
+             y="-0.017434779"
+             width="1.0181717"
+             height="1.0653989">
             <feFlood
                  flood-opacity="1"
                  flood-color="rgb(29,29,29)"
@@ -88,10 +88,10 @@
              style="color-interpolation-filters:sRGB;"
              inkscape:label="Drop Shadow"
              id="filter31837"
-             x="0"
-             y="0"
-             width="1.0179205"
-             height="1.0541455">
+             x="-0.0061804541"
+             y="-0.018673826"
+             width="1.0302814"
+             height="1.0914931">
             <feFlood
                  flood-opacity="1"
                  flood-color="rgb(29,29,29)"
@@ -157,14 +157,16 @@
         <text
              xml:space="preserve"
              id="text3311"
-             style="font-weight:bold;font-size:42.6667px;line-height:1;font-family:Corbel;-inkscape-font-specification:'Corbel Bold';white-space:pre;shape-inside:url(#rect3313);display:inline;fill:#f2f2f2;stroke:#130311;stroke-width:1.37953;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;filter:url(#filter31837);stroke-opacity:1;fill-opacity:1"
+             style="font-weight:bold;font-size:42.6667px;line-height:1;font-family:Corbel;-inkscape-font-specification:'Corbel Bold';white-space:pre;shape-inside:url(#rect3313);display:inline;fill:#524d42;fill-opacity:1;stroke:#130311;stroke-width:1.37953;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
              transform="translate(-124.60296,222.41695)"><tspan
                  x="212.04297"
                  y="549.81513"
-                 id="tspan42370">{rules}</tspan></text>
+                 id="tspan1854"><tspan
+                     style="stroke:none"
+                     id="tspan1852">{rules}</tspan></tspan></text>
         <text
              xml:space="preserve"
-             style="font-weight:bold;font-size:79.4822px;line-height:1;font-family:Corbel;-inkscape-font-specification:'Corbel Bold';fill:white;stroke:#130311;stroke-width:2.28433;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;filter:url(#filter31825)"
+             style="font-weight:bold;font-size:79.4822px;line-height:1;font-family:Corbel;-inkscape-font-specification:'Corbel Bold';fill:white;stroke:#130311;stroke-width:2.28433;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
              x="86.454308"
              y="709.19727"
              id="text3361"><tspan
@@ -172,6 +174,6 @@
                  id="tspan3359"
                  x="86.454308"
                  y="709.19727"
-                 style="font-size:79.4822px;fill:#efefef;fill-opacity:1;stroke:#130311;stroke-width:2.28433;stroke-opacity:1">{name}</tspan></text>
+                 style="font-size:79.4822px;fill:#524d42;fill-opacity:1;stroke:none;stroke-width:2.28433;stroke-opacity:1">{name}</tspan></text>
     </g>
 </svg>
