@@ -1,0 +1,10 @@
+{
+    "outputDirectory": "../output",
+
+    "piecesGamedataDirectory": "../gamedata/piece",
+    "componentGamedataDirectory": "../gamedata/component",
+    
+    "artdataDirectory": "../artdata",
+    "artTemplatesDirectory": "../art/templates",
+    "artInsertsDirectory": "../art/graphicalInserts"
+}

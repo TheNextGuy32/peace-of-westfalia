@@ -1,0 +1,21 @@
+[
+    {
+        "name": "units",
+        "type": "PokerDeck",
+        "quantity": 3,
+        "piecesGamedataFilename": "militaryPokerCards",
+        "componentGamedataFilename": "militaryPokerCards",
+        "artdataFrontFilename": "militaryPokerCardsFront",
+        "artdataBackFilename": "militaryPokerCardsBack",
+        "disabled": false
+    },
+    {
+        "name": "packagingDemo",
+        "type": "PokerTuckBox36",
+        "quantity": 1,
+        "piecesGamedataFilename": "packagingDemo",
+        "componentGamedataFilename": "packagingDemo",
+        "disabled": false,
+        "artdataFrontFilename": "packagingDemoFront"
+    }
+]
