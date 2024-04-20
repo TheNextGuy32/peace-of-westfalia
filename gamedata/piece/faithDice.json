@@ -1,0 +1,32 @@
+[
+    {
+        "name": "bibleOne",
+        "displayName": "bibleOne",
+        "graphic": "faithDice/bibleOne"
+    },
+    {
+        "name": "bibleTwo",
+        "displayName": "bibleTwo",
+        "graphic": "faithDice/bibleOne"
+    },
+    {
+        "name": "bibleThree",
+        "displayName": "bibleThree",
+        "graphic": "faithDice/bibleOne"
+    },
+    {
+        "name": "communionOne",
+        "displayName": "communionOne",
+        "graphic": "faithDice/communionOne"
+    },
+    {
+        "name": "communionTwo",
+        "displayName": "communionTwo",
+        "graphic": "faithDice/communionOne"
+    },
+    {
+        "name": "communionThree",
+        "displayName": "communionThree",
+        "graphic": "faithDice/communionOne"
+    }
+]

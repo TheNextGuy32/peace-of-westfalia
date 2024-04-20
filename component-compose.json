@@ -248,12 +248,13 @@
     },
     {
         "name": "emperorDie",
-        "type": "D6Plastic",
+        "type": "CustomColorD6",
         "quantity": 1,
         "componentGamedataFilename": "emperorDie",
         "disabled": false,
         "piecesGamedataFilename": "emperorDie",
-        "artdataFrontFilename": "emperorDieFront"
+        "artdataFrontFilename": "emperorDieFront",
+        "artdataDieFaceFilename": "emperorDie"
     },
     {
         "name": "chitCircleLargeMonastery",
@@ -267,75 +268,83 @@
     },
     {
         "name": "foreignPowerDieBritain",
-        "type": "D6Plastic",
+        "type": "CustomColorD6",
         "quantity": 1,
         "componentGamedataFilename": "foreignPowerDie",
         "disabled": false,
         "piecesGamedataFilename": "foreignPowerDieBritain",
-        "artdataFrontFilename": "foreignPowerDie"
+        "artdataFrontFilename": "foreignPowerDie",
+        "artdataDieFaceFilename": "foreignPowerDie"
     },
     {
         "name": "foreignPowerDieDenmark",
-        "type": "D6Plastic",
+        "type": "CustomColorD6",
         "quantity": 1,
         "componentGamedataFilename": "foreignPowerDie",
         "disabled": false,
         "piecesGamedataFilename": "foreignPowerDieDenmark",
-        "artdataFrontFilename": "foreignPowerDie"
+        "artdataFrontFilename": "foreignPowerDie",
+        "artdataDieFaceFilename": "foreignPowerDie"
     },
     {
         "name": "foreignPowerDieFrance",
-        "type": "D6Plastic",
+        "type": "CustomColorD6",
         "quantity": 1,
         "componentGamedataFilename": "foreignPowerDie",
         "disabled": false,
         "piecesGamedataFilename": "foreignPowerDieFrance",
-        "artdataFrontFilename": "foreignPowerDie"
+        "artdataFrontFilename": "foreignPowerDie",
+        "artdataDieFaceFilename": "foreignPowerDie"
     },
     {
         "name": "foreignPowerDieMilan",
-        "type": "D6Plastic",
+        "type": "CustomColorD6",
         "quantity": 1,
         "componentGamedataFilename": "foreignPowerDie",
         "disabled": true,
         "piecesGamedataFilename": "foreignPowerDieMilan",
-        "artdataFrontFilename": "foreignPowerDie"
+        "artdataFrontFilename": "foreignPowerDie",
+        "artdataDieFaceFilename": "foreignPowerDie"
     },
     {
         "name": "foreignPowerDiePoland",
-        "type": "D6Plastic",
+        "type": "CustomColorD6",
         "quantity": 1,
         "componentGamedataFilename": "foreignPowerDie",
         "disabled": false,
         "piecesGamedataFilename": "foreignPowerDiePoland",
-        "artdataFrontFilename": "foreignPowerDie"
+        "artdataFrontFilename": "foreignPowerDie",
+        "artdataDieFaceFilename": "foreignPowerDie"
     },
     {
         "name": "foreignPowerDieSpain",
-        "type": "D6Plastic",
+        "type": "CustomColorD6",
         "quantity": 1,
         "componentGamedataFilename": "foreignPowerDie",
         "disabled": false,
         "piecesGamedataFilename": "foreignPowerDieSpain",
-        "artdataFrontFilename": "foreignPowerDie"
+        "artdataFrontFilename": "foreignPowerDie",
+        "artdataDieFaceFilename": "foreignPowerDie"
     },
     {
         "name": "foreignPowerDieSweden",
-        "type": "D6Plastic",
+        "type": "CustomColorD6",
         "quantity": 1,
         "componentGamedataFilename": "foreignPowerDie",
         "disabled": false,
         "piecesGamedataFilename": "foreignPowerDieSweden",
-        "artdataFrontFilename": "foreignPowerDie"
+        "artdataFrontFilename": "foreignPowerDie",
+        "artdataDieFaceFilename": "foreignPowerDie"
     },
     {
         "name": "foreignPowerDieTransylvania",
-        "type": "D6Plastic",
+        "type": "CustomColorD6",
         "quantity": 1,
         "componentGamedataFilename": "foreignPowerDie",
         "disabled": false,
         "piecesGamedataFilename": "foreignPowerDieTransylvania",
-        "artdataFrontFilename": "foreignPowerDie"
+        "artdataFrontFilename": "foreignPowerDie",
+        "artdataDieFaceFilename": "foreignPowerDie"
     },
     {
         "name": "playerMats",

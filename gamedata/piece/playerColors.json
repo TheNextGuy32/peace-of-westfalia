@@ -1,0 +1,50 @@
+[
+    {
+        "name": "purple",
+        "displayName": "Purple",
+        "quantity": "1",
+        "color": "#431E42"
+    },
+    {
+        "name": "green",
+        "displayName": "Green",
+        "quantity": "1",
+        "color": "#008000"
+    },
+    {
+        "name": "orange",
+        "displayName": "Orange",
+        "quantity": "1",
+        "color": "#ff5f00"
+    },
+    {
+        "name": "black",
+        "displayName": "Black",
+        "quantity": "1",
+        "color": "#191919"
+    },
+    {
+        "name": "red",
+        "displayName": "Red",
+        "quantity": "1",
+        "color": "#f00"
+    },
+    {
+        "name": "blue",
+        "displayName": "Blue",
+        "quantity": "1",
+        "color": "#00f"
+    },
+    {
+        "name": "white",
+        "displayName": "White",
+        "quantity": "1",
+        "color": "#fff"
+    },
+    {
+        "name": "yellow",
+        "displayName": "Yellow",
+        "quantity": "1",
+        "color": "#ff0"
+    }
+]

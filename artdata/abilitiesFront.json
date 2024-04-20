@@ -2,15 +2,40 @@
     "name": "abilitiesFront",
     "templateFilename": "abilitiesFront",
     "textReplacements": [
-        { "scope": "piece", "key": "name", "source": "displayName", "isTranslateable": true },
-        { "scope": "piece", "key": "rulesOne", "source": "rulesOne", "isTranslateable": true },
-        { "scope": "piece", "key": "rulesTwo", "source": "rulesTwo", "isTranslateable": true },
-        { "scope": "piece", "key": "rulesThree", "source": "rulesThree", "isTranslateable": true }
+        {
+            "scope": "piece",
+            "key": "name",
+            "source": "displayName",
+            "isTranslateable": true
+        },
+        {
+            "scope": "piece",
+            "key": "rulesOne",
+            "source": "rulesOne",
+            "isTranslateable": true
+        },
+        {
+            "scope": "piece",
+            "key": "rulesTwo",
+            "source": "rulesTwo",
+            "isTranslateable": true
+        },
+        {
+            "scope": "piece",
+            "key": "rulesThree",
+            "source": "rulesThree",
+            "isTranslateable": true
+        }
     ],
-    "styleUpdates": [
-    ],
+    "styleUpdates": [],
     "overlays": [
-        { "scope": "global", "source": "overlayPokerNameRulesTop" },
-        { "scope": "piece", "source": "type" }
+        {
+            "scope": "global",
+            "source": "overlayPokerNameRulesTop"
+        },
+        {
+            "scope": "piece",
+            "source": "type"
+        }
     ]
 }

@@ -3,10 +3,8 @@
     "displayName": "westphalia",
     "version": "0.0.0",
     "versionName": "giftVersion",
-
     "catholicColor": "#d4af37",
     "protestantColor": "#674e38",
-
     "oldCatholicColor": "#ffff00",
     "oldProtestantColor": "#0000ff",
     "foreignPowerColor": "#ffffff"

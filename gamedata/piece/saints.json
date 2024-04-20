@@ -1,0 +1,50 @@
+[
+    {
+        "name": "catholicSaved",
+        "displayName": "Catholic Saved",
+        "quantity": "6",
+        "religion": "Catholic",
+        "fate": "Saved",
+        "fateDescription": "By Faith and Works",
+        "graphic": "roles/savedCatholic",
+        "overlay": "roles/catholicOverlay",
+        "leagueRules": "Can Declare Religious War. Catholic League only. If Join, -1 DI from each Protestant Prince. Religious Victory after Round 4 Religious War if Emperor, 7 Electors, and > 1/2 map Catholic.",
+        "savedBonus": "+3 Faith for being saved by Faith and Works"
+    },
+    {
+        "name": "catholicDamned",
+        "displayName": "Catholic",
+        "quantity": "6",
+        "religion": "Catholic",
+        "fate": "",
+        "fateDescription": "In a State of Mortal Sin",
+        "graphic": "roles/damned",
+        "overlay": "roles/catholicOverlay",
+        "leagueRules": "Cannot Declare Religious War. Can Join either League. If Join, do not lose DI. Cannot win Religious Victory.",
+        "savedBonus": "No bonus Faith since you are not Saved."
+    },
+    {
+        "name": "protestantSaved",
+        "displayName": "Protestant Saved",
+        "quantity": "6",
+        "religion": "Protestant",
+        "fate": "Saved",
+        "fateDescription": "By Faith Alone",
+        "graphic": "roles/savedProtestant",
+        "overlay": "roles/protestantOverlay",
+        "leagueRules": "Can Declare Religious War. Evangelical League only. If Join, -1 DI from each Catholic Prince. Religious Victory after Round 4 Religious War if Emperor, 7 Electors, and > 1/2 map Protestant.",
+        "savedBonus": "+3 Faith for being saved by Faith Alone"
+    },
+    {
+        "name": "protestantDamned",
+        "displayName": "Protestant",
+        "quantity": "6",
+        "religion": "Protestant",
+        "fate": "",
+        "fateDescription": "Predestined to Hell",
+        "graphic": "roles/damned",
+        "overlay": "roles/protestantOverlay",
+        "leagueRules": "Cannot Declare Religious War. Can Join either League. If Join, do not lose DI. Cannot win Religious Victory.",
+        "savedBonus": "No bonus Faith since you are not Saved."
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "name": "franceOne",
+        "displayName": "franceOne",
+        "graphic": "foreignPowerDie/franceOne"
+    },
+    {
+        "name": "franceTwo",
+        "displayName": "franceTwo",
+        "graphic": "foreignPowerDie/franceTwo"
+    },
+    {
+        "name": "troubleOne",
+        "displayName": "troubleOne",
+        "graphic": "foreignPowerDie/troubleOne"
+    },
+    {
+        "name": "troubleTwo",
+        "displayName": "troubleTwo",
+        "graphic": "foreignPowerDie/troubleTwo"
+    },
+    {
+        "name": "blankOne",
+        "displayName": "blankOne",
+        "graphic": ""
+    },
+    {
+        "name": "blankTwo",
+        "displayName": "blankTwo",
+        "graphic": ""
+    }
+]

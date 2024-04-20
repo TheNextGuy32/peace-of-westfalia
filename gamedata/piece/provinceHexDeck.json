@@ -1,0 +1,202 @@
+[
+    {
+        "name": "bohemia",
+        "displayName": "Bohemia",
+        "graphic": "princes/Bohemia",
+        "quantity": "1",
+        "type": "Elector",
+        "capitalGraphic": "provinceNonCapital"
+    },
+    {
+        "name": "brandenburg",
+        "displayName": "Brandenburg",
+        "graphic": "princes/Brandenburg",
+        "quantity": "1",
+        "type": "Elector",
+        "capitalGraphic": "provinceNonCapital"
+    },
+    {
+        "name": "cologne",
+        "displayName": "Cologne",
+        "graphic": "princes/Cologne",
+        "quantity": "1",
+        "type": "Elector",
+        "capitalGraphic": "provinceNonCapital"
+    },
+    {
+        "name": "mainz",
+        "displayName": "Mainz",
+        "graphic": "princes/Mainz",
+        "quantity": "1",
+        "type": "Elector",
+        "capitalGraphic": "provinceNonCapital"
+    },
+    {
+        "name": "trier",
+        "displayName": "Trier",
+        "graphic": "princes/Trier",
+        "quantity": "1",
+        "type": "Elector",
+        "capitalGraphic": "provinceNonCapital"
+    },
+    {
+        "name": "saxony",
+        "displayName": "Saxony",
+        "graphic": "princes/Saxony",
+        "quantity": "1",
+        "type": "Elector",
+        "capitalGraphic": "provinceNonCapital"
+    },
+    {
+        "name": "palatinate",
+        "displayName": "The Palatinate",
+        "graphic": "princes/Palatinate",
+        "quantity": "1",
+        "type": "Elector",
+        "capitalGraphic": "provinceNonCapital"
+    },
+    {
+        "name": "anhalt",
+        "displayName": "Anhalt",
+        "graphic": "princes/Anhalt",
+        "quantity": "1",
+        "type": "Prince",
+        "capitalGraphic": "provinceNonCapital"
+    },
+    {
+        "name": "ansbach",
+        "displayName": "Ansbach",
+        "graphic": "princes/Ansbach",
+        "quantity": "1",
+        "type": "Prince",
+        "capitalGraphic": "provinceNonCapital"
+    },
+    {
+        "name": "baden",
+        "displayName": "Baden",
+        "graphic": "princes/Baden",
+        "quantity": "1",
+        "type": "Prince",
+        "capitalGraphic": "provinceNonCapital"
+    },
+    {
+        "name": "bavaria",
+        "displayName": "Bavaria",
+        "graphic": "princes/Bavaria",
+        "quantity": "1",
+        "type": "Prince",
+        "capitalGraphic": "provinceNonCapital"
+    },
+    {
+        "name": "frankfurt",
+        "displayName": "Frankfurt",
+        "graphic": "princes/Frankfurt",
+        "quantity": "1",
+        "type": "Prince",
+        "capitalGraphic": "provinceNonCapital"
+    },
+    {
+        "name": "hesse",
+        "displayName": "Hesse",
+        "graphic": "princes/Hesse",
+        "quantity": "1",
+        "type": "Prince",
+        "capitalGraphic": "provinceNonCapital"
+    },
+    {
+        "name": "nuremburg",
+        "displayName": "Nuremburg",
+        "graphic": "princes/Nuremburg",
+        "quantity": "1",
+        "type": "Prince",
+        "capitalGraphic": "provinceNonCapital"
+    },
+    {
+        "name": "salzburg",
+        "displayName": "Salzburg",
+        "graphic": "princes/Salzburg",
+        "quantity": "1",
+        "type": "Prince",
+        "capitalGraphic": "provinceNonCapital"
+    },
+    {
+        "name": "trent",
+        "displayName": "Trent",
+        "graphic": "princes/Trent",
+        "quantity": "1",
+        "type": "Prince",
+        "capitalGraphic": "provinceNonCapital"
+    },
+    {
+        "name": "ulm",
+        "displayName": "Ulm",
+        "graphic": "princes/Ulm",
+        "quantity": "1",
+        "type": "Prince",
+        "capitalGraphic": "provinceNonCapital"
+    },
+    {
+        "name": "wurttemberg",
+        "displayName": "Wurttemberg",
+        "graphic": "princes/Wurttemberg",
+        "quantity": "1",
+        "type": "Prince",
+        "capitalGraphic": "provinceNonCapital"
+    },
+    {
+        "name": "wurzburg",
+        "displayName": "Wurzburg",
+        "graphic": "princes/Wurzburg",
+        "quantity": "1",
+        "type": "Prince",
+        "capitalGraphic": "provinceNonCapital"
+    },
+    {
+        "name": "spain",
+        "displayName": "Spain",
+        "graphic": "princes/Spain",
+        "quantity": "1",
+        "type": "Foreign Power",
+        "capitalGraphic": "provinceNonCapital"
+    },
+    {
+        "name": "britain",
+        "displayName": "Britain",
+        "graphic": "princes/Britain",
+        "quantity": "1",
+        "type": "Foreign Power",
+        "capitalGraphic": "provinceNonCapital"
+    },
+    {
+        "name": "france",
+        "displayName": "France",
+        "graphic": "princes/France",
+        "quantity": "1",
+        "type": "Foreign Power",
+        "capitalGraphic": "provinceNonCapital"
+    },
+    {
+        "name": "poland",
+        "displayName": "Poland",
+        "graphic": "princes/Poland",
+        "quantity": "1",
+        "type": "Foreign Power",
+        "capitalGraphic": "provinceNonCapital"
+    },
+    {
+        "name": "sweden",
+        "displayName": "Sweden",
+        "graphic": "princes/Sweden",
+        "quantity": "1",
+        "type": "Foreign Power",
+        "capitalGraphic": "provinceNonCapital"
+    },
+    {
+        "name": "denmark",
+        "displayName": "Denmark",
+        "graphic": "princes/Denmark",
+        "quantity": "1",
+        "type": "Foreign Power",
+        "capitalGraphic": "provinceNonCapital"
+    }
+]

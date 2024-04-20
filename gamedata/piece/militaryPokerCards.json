@@ -1,0 +1,23 @@
+[
+    {
+        "name": "musketeer",
+        "displayName": "Musketeer",
+        "quantity": "3",
+        "graphic": "units/infantry",
+        "rules": "Beats Pikemen. Advanced Rifling - During Rounds 5-6, beats Pikemen and, if successful, kills an additional unit of whatever type you wish."
+    },
+    {
+        "name": "pikemen",
+        "displayName": "Pikemen",
+        "quantity": "3",
+        "graphic": "units/pikeman",
+        "rules": "Beats Cavalry and, if successful, prevents your opponent from playing Cavalry next card. If he has only Cavalry, he routes."
+    },
+    {
+        "name": "calvary",
+        "displayName": "Calvary",
+        "quantity": "3",
+        "graphic": "units/calvary",
+        "rules": "Beats Musketeers and, if successful, forces your opponent to discard two additional Infantry. If he has fewer than two Infantry, he routes. Additionally, if you have twice as many cards as your opponent, he routes."
+    }
+]

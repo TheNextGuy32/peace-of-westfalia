@@ -1,0 +1,58 @@
+[
+    {
+        "name": "purple",
+        "displayName": "Purple",
+        "quantity": "1",
+        "color": "#431E42",
+        "backGraphic": "turnChoiceBacks/purple"
+    },
+    {
+        "name": "green",
+        "displayName": "Green",
+        "quantity": "1",
+        "color": "#008000",
+        "backGraphic": "turnChoiceBacks/green"
+    },
+    {
+        "name": "orange",
+        "displayName": "Orange",
+        "quantity": "1",
+        "color": "#ff5f00",
+        "backGraphic": "turnChoiceBacks/orange"
+    },
+    {
+        "name": "black",
+        "displayName": "Black",
+        "quantity": "1",
+        "color": "#191919",
+        "backGraphic": "turnChoiceBacks/black"
+    },
+    {
+        "name": "red",
+        "displayName": "Red",
+        "quantity": "1",
+        "color": "#f00",
+        "backGraphic": "turnChoiceBacks/red"
+    },
+    {
+        "name": "blue",
+        "displayName": "Blue",
+        "quantity": "1",
+        "color": "#00f",
+        "backGraphic": "turnChoiceBacks/blue"
+    },
+    {
+        "name": "white",
+        "displayName": "White",
+        "quantity": "1",
+        "color": "#fff",
+        "backGraphic": "turnChoiceBacks/white"
+    },
+    {
+        "name": "yellow",
+        "displayName": "Yellow",
+        "quantity": "1",
+        "color": "#ff0",
+        "backGraphic": "turnChoiceBacks/yellow"
+    }
+]

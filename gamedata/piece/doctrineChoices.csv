@@ -1,4 +1,0 @@
-name,displayName,quantity,rules
-depth,Depth,1,Convert one unit into two units of another type.
-breadth,Breadth,1,Convert one unit into the two other unit types.
-flexibility,Flexibility,1,Convert one unit into a different unit type.
