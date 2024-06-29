@@ -2,16 +2,43 @@
     "name": "provinceHexTilesFront",
     "templateFilename": "provinceHexTile",
     "textReplacements": [
-        { "scope": "piece", "key": "value", "source": "displayName", "isTranslateable": true }
+        {
+            "scope": "piece",
+            "key": "value",
+            "source": "displayName",
+            "isTranslateable": true
+        }
     ],
     "styleUpdates": [
-        { "id": "religionColor", "cssValue": "fill", "scope": "game", "source": "protestantColor" }
+        {
+            "id": "religionColor",
+            "cssValue": "fill",
+            "scope": "game",
+            "source": "protestantColor"
+        }
     ],
     "overlays": [
-        { "scope": "piece", "source": "graphic" },
-        { "scope": "global", "source": "overlayReligionMediumHex" },
-        { "scope": "global", "source": "chitHexMediumBoundaries", "isComplex": true, "isDebugInfo": true },
-        { "scope": "global", "source": "province" },
-        { "scope": "component", "source": "overlay" }
+        {
+            "scope": "piece",
+            "source": "graphic"
+        },
+        {
+            "scope": "global",
+            "source": "overlayReligionMediumHex"
+        },
+        {
+            "scope": "global",
+            "source": "chitHexMediumBoundaries",
+            "isComplex": true,
+            "isDebugInfo": true
+        },
+        {
+            "scope": "global",
+            "source": "province"
+        },
+        {
+            "scope": "component",
+            "source": "overlay"
+        }
     ]
 }

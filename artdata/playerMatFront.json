@@ -2,10 +2,20 @@
     "name": "playerMat",
     "templateFilename": "playerMatFront",
     "textReplacements": [
-        { "scope": "piece", "key": "playerName", "source": "displayName", "isTranslateable": true }
+        {
+            "scope": "piece",
+            "key": "playerName",
+            "source": "displayName",
+            "isTranslateable": true
+        }
     ],
     "styleUpdates": [
-        { "id": "circle", "cssValue": "fill", "scope": "piece", "source": "color" }
+        {
+            "id": "circle",
+            "cssValue": "fill",
+            "scope": "piece",
+            "source": "color"
+        }
     ],
     "overlays": []
 }

@@ -2,13 +2,28 @@
     "name": "militaryPokerCards",
     "templateFilename": "militaryPokerCardsFront",
     "textReplacements": [
-        { "scope": "piece", "key": "name", "source": "displayName", "isTranslateable": true },
-        { "scope": "piece", "key": "rules", "source": "rules", "isTranslateable": true }
+        {
+            "scope": "piece",
+            "key": "name",
+            "source": "displayName",
+            "isTranslateable": true
+        },
+        {
+            "scope": "piece",
+            "key": "rules",
+            "source": "rules",
+            "isTranslateable": true
+        }
     ],
-    "styleUpdates": [
-    ],
+    "styleUpdates": [],
     "overlays": [
-        { "scope": "piece", "source": "graphic" },
-        { "scope": "global", "source": "units/overlayUnit" }
+        {
+            "scope": "piece",
+            "source": "graphic"
+        },
+        {
+            "scope": "global",
+            "source": "units/overlayUnit"
+        }
     ]
 }

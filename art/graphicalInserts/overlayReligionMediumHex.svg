@@ -13,6 +13,9 @@
      id="svg2576"
      sodipodi:docname="overlayReligionMediumHex.svg"
      inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+     inkscape:export-filename="..\..\..\..\..\..\Videos\gonextgames\structure\overlayReligionMediumHex.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
      xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
      xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
      xmlns="http://www.w3.org/2000/svg"
@@ -31,13 +34,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="1.4263889"
-     inkscape:cx="273.41772"
-     inkscape:cy="263.95326"
+     inkscape:zoom="1.0086093"
+     inkscape:cx="453.59488"
+     inkscape:cy="500.1937"
      inkscape:window-width="2560"
      inkscape:window-height="1351"
      inkscape:window-x="1491"
-     inkscape:window-y="585"
+     inkscape:window-y="586"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2576" />
 
@@ -49,7 +52,8 @@
      d="m 275.23438,80.683594 -18.17969,31.488286 h -12.46094 v 21.58203 L 107.32812,371.50586 140.11328,390.43555 278.91211,150.0293 H 546.08789 L 684.88672,390.43555 717.67188,371.50586 580.40625,133.75391 v -21.58203 h -12.46094 l -18.17969,-31.488286 -32.78515,18.929687 7.25,12.558599 H 300.76953 l 7.25,-12.558599 z" /><path
      id="religionColor"
      d="M 0 0 L 0 180 L 198 180 L 198 0 L 0 0 z M 65.132812 31.340625 L 132.86719 31.340625 L 166.73437 89.999999 L 132.86719 148.65937 L 65.132812 148.65937 L 31.265625 89.999999 L 65.132812 31.340625 z "
-     transform="scale(4.1666667)" /><path
+     transform="scale(4.1666667)"
+     style="fill:#d084cf;fill-opacity:1" /><path
      fill="white"
      stroke="#eb242b"
      d="M 212.7,688.10834 41.4375,391.47917 c -5.254166,-9.10417 -5.254166,-23.85833 0,-32.95833 L 212.7,61.895834 c 5.25417,-9.104167 18.03334,-16.479167 28.54167,-16.479167 H 583.7625 c 10.50417,0 23.2875,7.379167 28.54167,16.479167 l 171.2625,296.625006 c 5.25417,9.10416 5.25417,23.85833 0,32.95833 l -171.2625,296.625 c -5.25417,9.10834 -18.03333,16.47917 -28.54167,16.47917 h -342.525 c -10.50416,0.004 -23.28333,-7.37083 -28.5375,-16.475 z"

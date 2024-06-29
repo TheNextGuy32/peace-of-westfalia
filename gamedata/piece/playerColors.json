@@ -27,24 +27,24 @@
         "name": "red",
         "displayName": "Red",
         "quantity": "1",
-        "color": "#f00"
+        "color": "#ff0000"
     },
     {
         "name": "blue",
         "displayName": "Blue",
         "quantity": "1",
-        "color": "#00f"
+        "color": "#0000ff"
     },
     {
         "name": "white",
         "displayName": "White",
         "quantity": "1",
-        "color": "#fff"
+        "color": "#ffffff"
     },
     {
         "name": "yellow",
         "displayName": "Yellow",
         "quantity": "1",
-        "color": "#ff0"
+        "color": "#ffff00"
     }
 ]
