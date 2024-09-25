@@ -17,7 +17,7 @@
         "disabled": false,
         "piecesGamedataFilename": "emperorDie",
         "artdataFrontFilename": "emperorDieFront",
-        "artdataDieFaceFilename": "emperorDie"
+        "artdataDieFaceFilename": "emperorDieFront"
     },
     {
         "name": "faithDice",

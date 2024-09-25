@@ -1,4 +1,4 @@
 output/*
-!.last
 printout.pdf
-!.DS_Store
+.playground
+.animation

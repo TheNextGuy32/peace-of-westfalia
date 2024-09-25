@@ -1,11 +1,7 @@
 {
     "name": "saintsFront",
     "templateFilename": "saintsBack",
-    "textReplacements": [
-    ],
-    "styleUpdates": [
-    ],
-    "overlays": [
-        
-    ]
+    "textReplacements": [],
+    "styleUpdates": [],
+    "overlays": []
 }
