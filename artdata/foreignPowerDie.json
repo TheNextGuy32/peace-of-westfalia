@@ -4,6 +4,9 @@
     "textReplacements": [],
     "styleUpdates": [],
     "overlays": [
-        { "scope": "piece", "source": "graphic" }
+        {
+            "scope": "piece",
+            "source": "graphic"
+        }
     ]
 }

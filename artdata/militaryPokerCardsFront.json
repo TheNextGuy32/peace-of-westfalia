@@ -1,6 +1,6 @@
 {
     "name": "militaryPokerCards",
-    "templateFilename": "militaryPokerCardsFront",
+    "templateFilename": "blankPoker",
     "textReplacements": [
         {
             "scope": "piece",

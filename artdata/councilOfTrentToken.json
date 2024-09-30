@@ -1,6 +1,6 @@
 {
     "name": "councilOfTrentToken",
-    "templateFilename": "councilOfTrentTokenFront",
+    "templateFilename": "councilOfTrentToken",
     "textReplacements": [],
     "styleUpdates": [],
     "overlays": []

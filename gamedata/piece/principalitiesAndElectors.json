@@ -1,5 +1,19 @@
 [
     {
+        "name": "",
+        "displayName": "",
+        "graphic": "",
+        "quantity": 1,
+        "elector": ""
+    },
+    {
+        "name": "",
+        "displayName": "",
+        "graphic": "",
+        "quantity": 1,
+        "elector": ""
+    },
+    {
         "name": "bohemia",
         "displayName": "Bohemia",
         "graphic": "princesMedium/Bohemia",

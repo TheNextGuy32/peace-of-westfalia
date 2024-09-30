@@ -236,8 +236,8 @@
         "componentGamedataFilename": "chitCircleLargeMonastery",
         "disabled": false,
         "piecesGamedataFilename": "chitCircleLargeMonastery",
-        "artdataFrontFilename": "chitCircleLargeMonasteryFront",
-        "artdataBackFilename": "chitCircleLargeMonasteryBack"
+        "artdataFrontFilename": "chitCircleLargeMonastery",
+        "artdataBackFilename": "chitCircleLargeMonastery"
     },
     {
         "name": "foreignPowerProvinces",
@@ -276,8 +276,8 @@
         "componentGamedataFilename": "councilOfTrentToken",
         "disabled": false,
         "piecesGamedataFilename": "councilOfTrentToken",
-        "artdataFrontFilename": "councilOfTrentTokenFront",
-        "artdataBackFilename": "councilOfTrentTokenBack"
+        "artdataFrontFilename": "councilOfTrentToken",
+        "artdataBackFilename": "councilOfTrentToken"
     },
     {
         "name": "frenchInterferenceToken",
@@ -370,21 +370,11 @@
         "disabled": false
     },
     {
-        "name": "unitsBlue",
+        "name": "units",
         "type": "PokerDeck",
         "quantity": 6,
         "piecesGamedataFilename": "militaryPokerCards",
-        "componentGamedataFilename": "militaryPokerCardsBlue",
-        "artdataFrontFilename": "militaryPokerCardsFront",
-        "artdataBackFilename": "militaryPokerCardsBack",
-        "disabled": false
-    },
-    {
-        "name": "unitsRed",
-        "type": "PokerDeck",
-        "quantity": 6,
-        "piecesGamedataFilename": "militaryPokerCards",
-        "componentGamedataFilename": "militaryPokerCardsRed",
+        "componentGamedataFilename": "militaryPokerCards",
         "artdataFrontFilename": "militaryPokerCardsFront",
         "artdataBackFilename": "militaryPokerCardsBack",
         "disabled": false

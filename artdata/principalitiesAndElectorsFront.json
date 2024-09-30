@@ -14,7 +14,8 @@
             "id": "religionColor",
             "cssValue": "fill",
             "scope": "game",
-            "source": "protestantColor"
+            "source": "protestantColor",
+            "isDebug": false
         }
     ],
     "overlays": [

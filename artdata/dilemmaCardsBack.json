@@ -2,10 +2,20 @@
     "name": "dilemmaCards",
     "templateFilename": "dilemmaCardsBack",
     "textReplacements": [
-        { "scope": "component", "key": "name", "source": "pieceDisplayName", "isTranslateable": true }
+        {
+            "scope": "component",
+            "key": "name",
+            "source": "pieceDisplayName",
+            "isTranslateable": true
+        }
     ],
     "styleUpdates": [
-        { "id": "backgroundColor", "cssValue": "fill", "scope": "component", "source": "colorRGB" }
+        {
+            "id": "backgroundColor",
+            "cssValue": "fill",
+            "scope": "component",
+            "source": "colorRGB"
+        }
     ],
     "overlays": []
 }
