@@ -4,7 +4,7 @@
         "type": "BiFoldMat",
         "quantity": 1,
         "componentGamedataFilename": "playerMat",
-        "disabled": false,
+        "disabled": true,
         "piecesGamedataFilename": "playerColors",
         "artdataFrontFilename": "playerMatFront",
         "artdataBackFilename": "playerMatBack"
@@ -14,7 +14,7 @@
         "type": "CustomColorD6",
         "quantity": 1,
         "componentGamedataFilename": "emperorDie",
-        "disabled": false,
+        "disabled": true,
         "piecesGamedataFilename": "emperorDie",
         "artdataFrontFilename": "emperorDieFront",
         "artdataDieFaceFilename": "emperorDieFront"
@@ -34,7 +34,7 @@
         "type": "CustomColorD6",
         "quantity": 1,
         "componentGamedataFilename": "foreignPowerDie",
-        "disabled": false,
+        "disabled": true,
         "piecesGamedataFilename": "foreignPowerDieBritain",
         "artdataFrontFilename": "foreignPowerDie",
         "artdataDieFaceFilename": "foreignPowerDie"
@@ -44,7 +44,7 @@
         "type": "CustomColorD6",
         "quantity": 1,
         "componentGamedataFilename": "foreignPowerDie",
-        "disabled": false,
+        "disabled": true,
         "piecesGamedataFilename": "foreignPowerDieDenmark",
         "artdataFrontFilename": "foreignPowerDie",
         "artdataDieFaceFilename": "foreignPowerDie"
@@ -54,7 +54,7 @@
         "type": "CustomColorD6",
         "quantity": 1,
         "componentGamedataFilename": "foreignPowerDie",
-        "disabled": false,
+        "disabled": true,
         "piecesGamedataFilename": "foreignPowerDieFrance",
         "artdataFrontFilename": "foreignPowerDie",
         "artdataDieFaceFilename": "foreignPowerDie"
@@ -74,7 +74,7 @@
         "type": "CustomColorD6",
         "quantity": 1,
         "componentGamedataFilename": "foreignPowerDie",
-        "disabled": false,
+        "disabled": true,
         "piecesGamedataFilename": "foreignPowerDiePoland",
         "artdataFrontFilename": "foreignPowerDie",
         "artdataDieFaceFilename": "foreignPowerDie"
@@ -84,7 +84,7 @@
         "type": "CustomColorD6",
         "quantity": 1,
         "componentGamedataFilename": "foreignPowerDie",
-        "disabled": false,
+        "disabled": true,
         "piecesGamedataFilename": "foreignPowerDieSpain",
         "artdataFrontFilename": "foreignPowerDie",
         "artdataDieFaceFilename": "foreignPowerDie"
@@ -94,7 +94,7 @@
         "type": "CustomColorD6",
         "quantity": 1,
         "componentGamedataFilename": "foreignPowerDie",
-        "disabled": false,
+        "disabled": true,
         "piecesGamedataFilename": "foreignPowerDieSweden",
         "artdataFrontFilename": "foreignPowerDie",
         "artdataDieFaceFilename": "foreignPowerDie"
@@ -104,7 +104,7 @@
         "type": "CustomColorD6",
         "quantity": 1,
         "componentGamedataFilename": "foreignPowerDie",
-        "disabled": false,
+        "disabled": true,
         "piecesGamedataFilename": "foreignPowerDieTransylvania",
         "artdataFrontFilename": "foreignPowerDie",
         "artdataDieFaceFilename": "foreignPowerDie"
@@ -114,7 +114,7 @@
         "type": "CustomColorD6",
         "quantity": 1,
         "componentGamedataFilename": "ottomanDie",
-        "disabled": false,
+        "disabled": true,
         "piecesGamedataFilename": "ottomanDie",
         "artdataFrontFilename": "ottomanDieFront",
         "artdataDieFaceFilename": "ottomanDieFront"
@@ -148,6 +148,16 @@
         "artdataFrontFilename": "leagueWarBoard",
         "artdataBackFilename": "leagueWarBoard",
         "disabled": false
+    },
+    {
+        "name": "playerPowerBoard",
+        "type": "DominoMat",
+        "quantity": 1,
+        "componentGamedataFilename": "playerPowerBoard",
+        "disabled": false,
+        "piecesGamedataFilename": "playerPowerBoard",
+        "artdataFrontFilename": "playerPowerBoardFront",
+        "artdataBackFilename": "playerPowerBoardBack"
     },
     {
         "name": "provinceHexDeck",
@@ -204,7 +214,7 @@
         "type": "JumboDeck",
         "quantity": 1,
         "componentGamedataFilename": "turnChoiceCards",
-        "disabled": false,
+        "disabled": true,
         "piecesGamedataFilename": "turnChoiceBacks",
         "artdataFrontFilename": "turnChoiceCombatHeresy",
         "artdataBackFilename": "turnChoiceCardsBack"
@@ -214,7 +224,7 @@
         "type": "JumboDeck",
         "quantity": 1,
         "componentGamedataFilename": "turnChoiceCards",
-        "disabled": false,
+        "disabled": true,
         "piecesGamedataFilename": "turnChoiceBacks",
         "artdataFrontFilename": "turnChoiceDoDiplomacy",
         "artdataBackFilename": "turnChoiceCardsBack"
@@ -224,7 +234,7 @@
         "type": "JumboDeck",
         "quantity": 1,
         "componentGamedataFilename": "turnChoiceCards",
-        "disabled": false,
+        "disabled": true,
         "piecesGamedataFilename": "turnChoiceBacks",
         "artdataFrontFilename": "turnChoiceWageWar",
         "artdataBackFilename": "turnChoiceCardsBack"
@@ -316,7 +326,7 @@
         "piecesGamedataFilename": "principalitiesAndElectors",
         "componentGamedataFilename": "principalitiesAndElectorsNonCapital",
         "artdataFrontFilename": "principalitiesAndElectorsFront",
-        "artdataBackFilename": "principalitiesAndElectorsBack_Copy",
+        "artdataBackFilename": "principalitiesAndElectorsBack",
         "disabled": false
     },
     {
@@ -337,7 +347,7 @@
         "componentGamedataFilename": "dilemmaCards",
         "artdataFrontFilename": "dilemmaCardsFront",
         "artdataBackFilename": "dilemmaCardsBack",
-        "disabled": false
+        "disabled": true
     },
     {
         "name": "doctrineChoices",
@@ -366,7 +376,7 @@
         "piecesGamedataFilename": "saints",
         "componentGamedataFilename": "saints",
         "artdataFrontFilename": "saintsFront",
-        "artdataBackFilename": "saintsBack",
+        "artdataBackFilename": "saintsFront",
         "disabled": false
     },
     {
@@ -442,5 +452,35 @@
         "piecesGamedataFilename": "goodWorksAndSaintsChit",
         "artdataFrontFilename": "goodWorksAndSaintsChitFront",
         "artdataBackFilename": "goodWorksAndSaintsChitBack"
+    },
+    {
+        "name": "principalityControlTokens",
+        "type": "LargeSquareChit",
+        "quantity": 1,
+        "componentGamedataFilename": "principalityControlTokens",
+        "disabled": false,
+        "piecesGamedataFilename": "principalitiesAndElectors",
+        "artdataFrontFilename": "principalityControlTokensFront",
+        "artdataBackFilename": "principalityControlTokensFront"
+    },
+    {
+        "name": "electorMarker",
+        "type": "SmallCircleChit",
+        "quantity": 1,
+        "componentGamedataFilename": "electorMarker",
+        "disabled": false,
+        "piecesGamedataFilename": "electorMarker",
+        "artdataFrontFilename": "electorMarkerFront",
+        "artdataBackFilename": "electorMarkerBack"
+    },
+    {
+        "name": "religiousUpheavalToken",
+        "type": "SmallCircleChit",
+        "quantity": 1,
+        "componentGamedataFilename": "religiousUpheavalToken",
+        "disabled": false,
+        "piecesGamedataFilename": "religiousUpheavalToken",
+        "artdataFrontFilename": "religiousUpheavalTokenFront",
+        "artdataBackFilename": "religiousUpheavalTokenFront"
     }
 ]

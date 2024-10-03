@@ -7,7 +7,7 @@
         "fate": "Saved",
         "fateDescription": "By Faith and Works",
         "graphic": "roles/savedCatholic",
-        "overlay": "roles/catholicOverlay",
+        "overlay": "roles/roleCatholic",
         "leagueRules": "Can Declare Religious War. Catholic League only. If Join, -1 Influence from Protestant Princes. Possible Religious Victory Rounds 4-5."
     },
     {
@@ -15,10 +15,10 @@
         "displayName": "Catholic",
         "quantity": "6",
         "religion": "Catholic",
-        "fate": "",
+        "fate": "Damned",
         "fateDescription": "In a State of Mortal Sin",
         "graphic": "roles/damned",
-        "overlay": "roles/catholicOverlay",
+        "overlay": "roles/roleCatholic",
         "leagueRules": "Cannot Declare Religious War. Can Join either League. If Join, do not lose DI. Cannot win Religious Victory."
     },
     {
@@ -29,7 +29,7 @@
         "fate": "Saved",
         "fateDescription": "By Faith Alone",
         "graphic": "roles/savedProtestant",
-        "overlay": "roles/protestantOverlay",
+        "overlay": "roles/roleProtestant",
         "leagueRules": "Can Declare Religious War. Evangelical League only. If Join, -1 DI from each Catholic Prince. Religious Victory after Round 4 Religious War if Emperor, 7 Electors, and > 1/2 map Protestant."
     },
     {
@@ -37,10 +37,10 @@
         "displayName": "Protestant",
         "quantity": "6",
         "religion": "Protestant",
-        "fate": "",
+        "fate": "Damned",
         "fateDescription": "Predestined to Hell",
         "graphic": "roles/damned",
-        "overlay": "roles/protestantOverlay",
+        "overlay": "roles/roleProtestant",
         "leagueRules": "Cannot Declare Religious War. Can Join either League. If Join, do not lose DI. Cannot win Religious Victory."
     }
 ]

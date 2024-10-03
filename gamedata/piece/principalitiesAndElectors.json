@@ -1,19 +1,5 @@
 [
     {
-        "name": "",
-        "displayName": "",
-        "graphic": "",
-        "quantity": 1,
-        "elector": ""
-    },
-    {
-        "name": "",
-        "displayName": "",
-        "graphic": "",
-        "quantity": 1,
-        "elector": ""
-    },
-    {
         "name": "bohemia",
         "displayName": "Bohemia",
         "graphic": "princesMedium/Bohemia",
@@ -296,7 +282,7 @@
     {
         "name": "pomerania",
         "displayName": "Pomerania",
-        "graphic": "princeMedium/Pomerania",
+        "graphic": "princesMedium/Pomerania",
         "quantity": "1",
         "elector": "Prince"
     }

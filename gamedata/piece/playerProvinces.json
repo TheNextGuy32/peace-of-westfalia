@@ -1,13 +1,5 @@
 [
     {
-        "name": "purpleCapital_copy",
-        "displayName": "Purple",
-        "quantity": "1",
-        "color": "#431E42",
-        "emblem": "playerEmblems/purple",
-        "town": "provinceCapital"
-    },
-    {
         "name": "purpleCapital",
         "displayName": "Purple",
         "quantity": "1",

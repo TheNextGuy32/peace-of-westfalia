@@ -1,0 +1,16 @@
+{
+    "name": "principalityControlTokens",
+    "templateFilename": "principalityControlTokensFront",
+    "textReplacements": [],
+    "styleUpdates": [],
+    "overlays": [
+        {
+            "scope": "piece",
+            "source": "graphic",
+            "isComplex": false,
+            "isDebug": false,
+            "positionX": "-225",
+            "positionY": "-180"
+        }
+    ]
+}

@@ -21,7 +21,9 @@
     "overlays": [
         {
             "scope": "piece",
-            "source": "graphic"
+            "source": "graphic",
+            "positionY": "0",
+            "positionX": "0"
         },
         {
             "scope": "global",
