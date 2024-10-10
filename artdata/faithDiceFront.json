@@ -6,7 +6,9 @@
     "overlays": [
         {
             "scope": "piece",
-            "source": "graphic"
+            "source": "graphic",
+            "positionX": "0",
+            "positionY": "0"
         }
     ]
 }

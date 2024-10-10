@@ -28,14 +28,5 @@
         }
     ],
     "styleUpdates": [],
-    "overlays": [
-        {
-            "scope": "global",
-            "source": "overlayPokerNameRulesTop"
-        },
-        {
-            "scope": "piece",
-            "source": "type"
-        }
-    ]
+    "overlays": []
 }

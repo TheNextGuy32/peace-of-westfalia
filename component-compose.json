@@ -240,7 +240,7 @@
         "artdataBackFilename": "turnChoiceCardsBack"
     },
     {
-        "name": "chitCircleLargeMonastery",
+        "name": "playerMonasteryToken",
         "type": "LargeCircleChit",
         "quantity": 6,
         "componentGamedataFilename": "chitCircleLargeMonastery",
@@ -260,6 +260,16 @@
         "disabled": false
     },
     {
+        "name": "principalityControlTokens",
+        "type": "LargeSquareChit",
+        "quantity": 1,
+        "componentGamedataFilename": "principalityControlTokens",
+        "disabled": false,
+        "piecesGamedataFilename": "principalitiesAndElectors",
+        "artdataFrontFilename": "principalityControlTokensFront",
+        "artdataBackFilename": "principalityControlTokensFront"
+    },
+    {
         "name": "packaging",
         "type": "LargeStoutBox",
         "quantity": 1,
@@ -268,16 +278,6 @@
         "artdataFrontFilename": "packagingFront",
         "artdataBackFilename": "packagingBack",
         "disabled": true
-    },
-    {
-        "name": "chitCircleMediumReserves",
-        "type": "MediumCircleChit",
-        "quantity": 1,
-        "componentGamedataFilename": "chitCircleMediumReserves",
-        "disabled": false,
-        "piecesGamedataFilename": "playerColors",
-        "artdataFrontFilename": "chitCircleMediumReserves",
-        "artdataBackFilename": "chitCircleMediumReserves"
     },
     {
         "name": "councilOfTrentToken",
@@ -290,7 +290,7 @@
         "artdataBackFilename": "councilOfTrentToken"
     },
     {
-        "name": "frenchInterferenceToken",
+        "name": "playerFrenchInterferenceToken",
         "type": "MediumCircleChit",
         "quantity": 1,
         "componentGamedataFilename": "frenchInterferenceToken",
@@ -298,6 +298,16 @@
         "piecesGamedataFilename": "frenchInterferenceToken",
         "artdataFrontFilename": "frenchInterferenceTokenFront",
         "artdataBackFilename": "frenchInterferenceTokenBack"
+    },
+    {
+        "name": "playerReserveToken",
+        "type": "MediumCircleChit",
+        "quantity": 1,
+        "componentGamedataFilename": "chitCircleMediumReserves",
+        "disabled": false,
+        "piecesGamedataFilename": "playerColors",
+        "artdataFrontFilename": "chitCircleMediumReserves",
+        "artdataBackFilename": "chitCircleMediumReserves"
     },
     {
         "name": "playerProvinces",
@@ -310,7 +320,7 @@
         "disabled": false
     },
     {
-        "name": "principalitiesAndElectorsCapitalProvinces",
+        "name": "principalityAndElectorsCapitalProvinces",
         "type": "MediumHexTile",
         "quantity": 1,
         "piecesGamedataFilename": "principalitiesAndElectors",
@@ -320,7 +330,7 @@
         "disabled": false
     },
     {
-        "name": "principalitiesAndElectorsProvinces",
+        "name": "principalityAndElectorsProvinces",
         "type": "MediumHexTile",
         "quantity": 4,
         "piecesGamedataFilename": "principalitiesAndElectors",
@@ -337,7 +347,7 @@
         "componentGamedataFilename": "abilities",
         "artdataFrontFilename": "abilitiesFront",
         "artdataBackFilename": "abilitiesBack",
-        "disabled": true
+        "disabled": false
     },
     {
         "name": "dilemmaChoices",
@@ -360,17 +370,7 @@
         "disabled": true
     },
     {
-        "name": "principalityConversionDeck",
-        "type": "PokerDeck",
-        "quantity": 1,
-        "componentGamedataFilename": "principalityConversionDeck",
-        "disabled": false,
-        "piecesGamedataFilename": "principalitiesAndElectors",
-        "artdataFrontFilename": "principalityConversionDeckFront",
-        "artdataBackFilename": "principalityConversionDeckBack"
-    },
-    {
-        "name": "roles",
+        "name": "playerRoles",
         "type": "PokerDeck",
         "quantity": 1,
         "piecesGamedataFilename": "saints",
@@ -378,6 +378,16 @@
         "artdataFrontFilename": "saintsFront",
         "artdataBackFilename": "saintsFront",
         "disabled": false
+    },
+    {
+        "name": "principalityAndElectorsConversionDeck",
+        "type": "PokerDeck",
+        "quantity": 1,
+        "componentGamedataFilename": "principalityConversionDeck",
+        "disabled": false,
+        "piecesGamedataFilename": "principalitiesAndElectors",
+        "artdataFrontFilename": "principalityConversionDeckFront",
+        "artdataBackFilename": "principalityConversionDeckBack"
     },
     {
         "name": "units",
@@ -441,27 +451,7 @@
         "name": "electorPawn",
         "type": "STOCK_StickerPawnTransparent",
         "quantity": 14,
-        "disabled": false
-    },
-    {
-        "name": "goodWorksAndSaintsChit",
-        "type": "SmallSquareChit",
-        "quantity": 1,
-        "componentGamedataFilename": "goodWorksAndSaintsChit",
-        "disabled": false,
-        "piecesGamedataFilename": "goodWorksAndSaintsChit",
-        "artdataFrontFilename": "goodWorksAndSaintsChitFront",
-        "artdataBackFilename": "goodWorksAndSaintsChitBack"
-    },
-    {
-        "name": "principalityControlTokens",
-        "type": "LargeSquareChit",
-        "quantity": 1,
-        "componentGamedataFilename": "principalityControlTokens",
-        "disabled": false,
-        "piecesGamedataFilename": "principalitiesAndElectors",
-        "artdataFrontFilename": "principalityControlTokensFront",
-        "artdataBackFilename": "principalityControlTokensFront"
+        "disabled": true
     },
     {
         "name": "electorMarker",
@@ -482,5 +472,25 @@
         "piecesGamedataFilename": "religiousUpheavalToken",
         "artdataFrontFilename": "religiousUpheavalTokenFront",
         "artdataBackFilename": "religiousUpheavalTokenFront"
+    },
+    {
+        "name": "goodWorksAndSaintsChit",
+        "type": "SmallSquareChit",
+        "quantity": 1,
+        "componentGamedataFilename": "goodWorksAndSaintsChit",
+        "disabled": false,
+        "piecesGamedataFilename": "goodWorksAndSaintsChit",
+        "artdataFrontFilename": "goodWorksAndSaintsChitFront",
+        "artdataBackFilename": "goodWorksAndSaintsChitBack"
+    },
+    {
+        "name": "eventDeck",
+        "type": "PokerDeck",
+        "quantity": 1,
+        "componentGamedataFilename": "eventDeck",
+        "disabled": false,
+        "piecesGamedataFilename": "eventDeck",
+        "artdataFrontFilename": "eventDeckFront",
+        "artdataBackFilename": "eventDeckBack"
     }
 ]

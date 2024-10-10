@@ -1,0 +1,22 @@
+{
+    "name": "eventDeck",
+    "templateFilename": "eventDeckFront",
+    "textReplacements": [
+        {
+            "key": "name",
+            "scope": "piece",
+            "source": "displayName",
+            "isComplex": false,
+            "isDebug": false
+        },
+        {
+            "key": "rules",
+            "scope": "piece",
+            "source": "rules",
+            "isComplex": false,
+            "isDebug": false
+        }
+    ],
+    "styleUpdates": [],
+    "overlays": []
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "name": "religiousUpheavalLate",
+        "displayName": "Religious Upheaval",
+        "quantity": "3",
+        "rules": "Draw cards from the Principality deck, 2 in a 5-6 Player game, 3 in a 7-8 Player game. The drawn Principalities convert."
+    },
+    {
+        "name": "religiousUpheavalEarly",
+        "displayName": "Religious Upheaval",
+        "quantity": "2",
+        "rules": "Draw X cards from the Principality deck, where X = # of Players, redrawing for any Principalities already Protestant. All provinces from drawn Principalities convert to Protestantism. In addition, all Player non-capital provinces adjacent to the capitals of the converted Principalities convert to Protestantism."
+    },
+    {
+        "name": "piusOttomans",
+        "displayName": "Pius defeats the Ottomans!",
+        "quantity": 1,
+        "rules": "If the Council has not concluded, St. Pius V holds the Council of Trent outside of the Empire, defeats the Ottomans at Lepanto, and the Catholic Reformation begins."
+    },
+    {
+        "name": "deathOfEmperor",
+        "displayName": "Death of the Emperor",
+        "quantity": 1,
+        "rules": "The Emperor is dead! Hold an Imperial Election."
+    }
+]
