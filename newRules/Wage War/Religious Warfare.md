@@ -1,4 +1,3 @@
-
 1. The Catholic and Evangelical Leagues Form
 
 First, the Declarers of Religious War lose 1 Diplomatic Influence from each Principality they have influence with of the opposing Religion.

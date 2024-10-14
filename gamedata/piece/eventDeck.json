@@ -1,14 +1,20 @@
 [
     {
+        "name": "mass",
+        "displayName": "Mass",
+        "quantity": 5,
+        "rules": "Provinces/Principalities convert:\n- A Principality converts if as many are on it as the Principality has provinces. If not enough dice were placed, the Principality does not convert.\n- Dice of your own religion on your provinces cancel up to 2 dice of the opposing religion placed on the same province. Remove all canceled dice. Dice of an opposing religion remaining then convert the province they are on, except Player capitals.\n- For each town of yours that converts to the opposing religion, lose 2 Gold. In addition, lose 2 Gold if you have any opposing dice remaining on your capital."
+    },
+    {
         "name": "religiousUpheavalLate",
         "displayName": "Religious Upheaval",
-        "quantity": "3",
+        "quantity": 3,
         "rules": "Draw cards from the Principality deck, 2 in a 5-6 Player game, 3 in a 7-8 Player game. The drawn Principalities convert."
     },
     {
         "name": "religiousUpheavalEarly",
         "displayName": "Religious Upheaval",
-        "quantity": "2",
+        "quantity": 2,
         "rules": "Draw X cards from the Principality deck, where X = # of Players, redrawing for any Principalities already Protestant. All provinces from drawn Principalities convert to Protestantism. In addition, all Player non-capital provinces adjacent to the capitals of the converted Principalities convert to Protestantism."
     },
     {

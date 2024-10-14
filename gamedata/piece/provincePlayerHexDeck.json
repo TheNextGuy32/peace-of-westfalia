@@ -2,42 +2,42 @@
     {
         "name": "purple",
         "displayName": "Purple",
-        "quantity": "1",
+        "quantity": 1,
         "color": "#431E42",
         "graphic": "playerEmblems/purple"
     },
     {
         "name": "green",
         "displayName": "Green",
-        "quantity": "1",
+        "quantity": 1,
         "color": "#0D674A",
         "graphic": "playerEmblems/green"
     },
     {
         "name": "orange",
         "displayName": "Orange",
-        "quantity": "1",
+        "quantity": 1,
         "color": "#B73720",
         "graphic": "playerEmblems/orange"
     },
     {
         "name": "gray",
         "displayName": "Gray",
-        "quantity": "1",
+        "quantity": 1,
         "color": "#aaa",
         "graphic": "playerEmblems/gray"
     },
     {
         "name": "pink",
         "displayName": "Pink",
-        "quantity": "1",
+        "quantity": 1,
         "color": "#ffbbaa",
         "graphic": "playerEmblems/pink"
     },
     {
         "name": "white",
         "displayName": "White",
-        "quantity": "1",
+        "quantity": 1,
         "color": "#fff",
         "graphic": "playerEmblems/white"
     }

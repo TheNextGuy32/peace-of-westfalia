@@ -2,43 +2,43 @@
     {
         "name": "spain",
         "displayName": "Spain",
-        "quantity": "1",
+        "quantity": 1,
         "graphic": "princesLarge/Spain"
     },
     {
         "name": "britain",
         "displayName": "Britain",
-        "quantity": "1",
+        "quantity": 1,
         "graphic": "princesLarge/Britain"
     },
     {
         "name": "france",
         "displayName": "France",
-        "quantity": "1",
+        "quantity": 1,
         "graphic": "princesLarge/France"
     },
     {
         "name": "transylvania",
         "displayName": "Transylvania",
-        "quantity": "1",
+        "quantity": 1,
         "graphic": "princesLarge/Transylvania"
     },
     {
         "name": "poland",
         "displayName": "Poland",
-        "quantity": "1",
+        "quantity": 1,
         "graphic": "princesLarge/Poland"
     },
     {
         "name": "sweden",
         "displayName": "Sweden",
-        "quantity": "1",
+        "quantity": 1,
         "graphic": "princesLarge/Sweden"
     },
     {
         "name": "denmark",
         "displayName": "Denmark",
-        "quantity": "1",
+        "quantity": 1,
         "graphic": "princesLarge/Denmark"
     }
 ]

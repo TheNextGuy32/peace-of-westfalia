@@ -257,14 +257,14 @@
         "componentGamedataFilename": "foreignPower",
         "artdataFrontFilename": "foreignPowerFront",
         "artdataBackFilename": "foreignPowerBack",
-        "disabled": false
+        "disabled": true
     },
     {
         "name": "principalityControlTokens",
         "type": "LargeSquareChit",
         "quantity": 1,
         "componentGamedataFilename": "principalityControlTokens",
-        "disabled": false,
+        "disabled": true,
         "piecesGamedataFilename": "principalitiesAndElectors",
         "artdataFrontFilename": "principalityControlTokensFront",
         "artdataBackFilename": "principalityControlTokensFront"
@@ -317,7 +317,7 @@
         "componentGamedataFilename": "playerProvinces",
         "artdataFrontFilename": "playerProvincesFront",
         "artdataBackFilename": "playerProvincesBack",
-        "disabled": false
+        "disabled": true
     },
     {
         "name": "principalityAndElectorsCapitalProvinces",
@@ -327,7 +327,7 @@
         "componentGamedataFilename": "principalitiesAndElectorsCapital",
         "artdataFrontFilename": "principalitiesAndElectorsFront",
         "artdataBackFilename": "principalitiesAndElectorsBack",
-        "disabled": false
+        "disabled": true
     },
     {
         "name": "principalityAndElectorsProvinces",
@@ -337,7 +337,7 @@
         "componentGamedataFilename": "principalitiesAndElectorsNonCapital",
         "artdataFrontFilename": "principalitiesAndElectorsFront",
         "artdataBackFilename": "principalitiesAndElectorsBack",
-        "disabled": false
+        "disabled": true
     },
     {
         "name": "abilities",
@@ -384,7 +384,7 @@
         "type": "PokerDeck",
         "quantity": 1,
         "componentGamedataFilename": "principalityConversionDeck",
-        "disabled": false,
+        "disabled": true,
         "piecesGamedataFilename": "principalitiesAndElectors",
         "artdataFrontFilename": "principalityConversionDeckFront",
         "artdataBackFilename": "principalityConversionDeckBack"

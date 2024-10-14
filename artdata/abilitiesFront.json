@@ -28,5 +28,14 @@
         }
     ],
     "styleUpdates": [],
-    "overlays": []
+    "overlays": [
+        {
+            "scope": "piece",
+            "source": "type",
+            "isComplex": false,
+            "isDebug": false,
+            "positionX": 0,
+            "positionY": 0
+        }
+    ]
 }

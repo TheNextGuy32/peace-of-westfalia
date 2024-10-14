@@ -2,7 +2,7 @@
     {
         "name": "religious",
         "displayName": "Combat Heresy",
-        "quantity": "1",
+        "quantity": 1,
         "graphic": "turnChoice/religion",
         "rules": "1. Player Conversion. 2. Call the Council of Trent. 3. Spread the Faith. Convert to Catholic or Protestant. Participate in the Council of Trent as a Catholic. Convert provinces. If you are a coreligionist with the Emperor or the Emperor, gain 1 Faith.",
         "emperorRules": "If you are a Foreign Power Emperor and do not Fight Heresy, add one to your roll for Internal Troubles and Wars Abroad. If you are a Prince Emperor and did not Fight Heresy, roll a d6, on a 1 to 3 one of your orthodox provinces of your choosing becomes heretical."
@@ -10,7 +10,7 @@
     {
         "name": "diplomacy",
         "displayName": "Engage in Diplomacy",
-        "quantity": "1",
+        "quantity": 1,
         "graphic": "turnChoice/diplomacy",
         "rules": "Gain Influence through the Diplomacy Game. Place your Influence. Convert Gold into Influence. Join a League. Release a Vassal. Gift a province.",
         "emperorRules": "If you are the Emperor and do not Do Diplomacy, lose one either saved or placed Influence."
@@ -18,7 +18,7 @@
     {
         "name": "military",
         "displayName": "Wage War",
-        "quantity": "1",
+        "quantity": 1,
         "graphic": "turnChoice/war",
         "rules": "Change your military doctrine. Declare war on a player or a principality. Join a League. Declare a Religious War.",
         "emperorRules": "If you are the Emperor and do not Wage War, lose two either saved or placed Influence."

@@ -13,91 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combat Heresy/Spread the Faith.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd76eb1a872624d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "The Council of Trent.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e049059fbd68d2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Combat Heresy/Player Conversion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aea582c1f313b2a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wage War/Declare A Religious War.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b8c7cfd5f314c3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Imperial Election.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bafa1efac2598eee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Religious Warfare.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "539ddb398fa7484b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wage War/Wage War.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1aea698708e6340",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contents.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "council of trent",
+                "query": "church patron",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Combat Heresy/Spread the Faith.md",
+                "file": "The Council of Trent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Combat Heresy/Spread the Faith.md",
+                "file": "The Council of Trent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Combat Heresy/Spread the Faith.md"
+                "file": "The Council of Trent.md"
               }
             }
           }
@@ -233,31 +148,36 @@
   },
   "active": "090e94a98a1b270e",
   "lastOpenFiles": [
-    "Combat Heresy/Combat Heresy.md",
     "The Rules.md",
-    "The Council of Trent.md",
+    "victoryConditions/Catholic Victory.md",
+    "victoryConditions/Peace of Westphalia Victory.md",
+    "victoryConditions/Protestant Victory.md",
+    "Wage War/Declare A Religious War.md",
+    "Wage War/Peace Treaties.md",
+    "Imperial Election.md",
+    "Combat Heresy/Gaining Saints.md",
+    "Combat Heresy/Gaining Good Works.md",
+    "Combat Heresy/Combat Heresy.md",
     "Combat Heresy/Spread the Faith.md",
+    "Combat Heresy/Gaining Faith Dice.md",
+    "Combat Heresy/Gaining Gold.md",
+    "Wage War/Wage War.md",
     "Combat Heresy/Player Conversion.md",
+    "Wage War/Resolving a War.md",
+    "Wage War/Religious Warfare.md",
+    "Contents.md",
+    "Setup.md",
+    "The Council of Trent.md",
+    "Combat Heresy/Converting Provinces.md",
     "Religious Upheaval/Religious Upheaval.md",
     "Diplomacy/Diplomacy Game.md",
     "Diplomacy/Influence the Princes.md",
-    "Imperial Election.md",
-    "Wage War/Wage War.md",
-    "Religious Warfare.md",
-    "Setup.md",
-    "Contents.md",
     "Diplomacy",
-    "Wage War/Peace Treaties.md",
-    "victoryConditions/Peace of Westphalia Victory.md",
     "Foreign Powers.md",
-    "Wage War/Resolving a War.md",
-    "Wage War/Declare A Religious War.md",
     "Untitled.md",
     "Wage War",
     "Religious Upheaval",
     "Combat Heresy",
-    "victoryConditions/Protestant Victory.md",
-    "victoryConditions/Catholic Victory.md",
     "victoryConditions"
   ]
 }

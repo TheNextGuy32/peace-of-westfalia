@@ -2,7 +2,7 @@
     {
         "name": "catholicSaved",
         "displayName": "Catholic Saved",
-        "quantity": "6",
+        "quantity": 6,
         "religion": "Catholic",
         "fate": "Saved",
         "fateDescription": "By Faith and Works",
@@ -13,7 +13,7 @@
     {
         "name": "catholicDamned",
         "displayName": "Catholic",
-        "quantity": "6",
+        "quantity": 6,
         "religion": "Catholic",
         "fate": "Damned",
         "fateDescription": "In a State of Mortal Sin",
@@ -24,7 +24,7 @@
     {
         "name": "protestantSaved",
         "displayName": "Protestant Saved",
-        "quantity": "6",
+        "quantity": 6,
         "religion": "Protestant",
         "fate": "Saved",
         "fateDescription": "By Faith Alone",
@@ -35,7 +35,7 @@
     {
         "name": "protestantDamned",
         "displayName": "Protestant",
-        "quantity": "6",
+        "quantity": 6,
         "religion": "Protestant",
         "fate": "Damned",
         "fateDescription": "Predestined to Hell",

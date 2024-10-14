@@ -2,7 +2,7 @@
     {
         "name": "purpleCapital",
         "displayName": "Purple",
-        "quantity": "1",
+        "quantity": 1,
         "color": "#431E42",
         "emblem": "playerEmblems/purple",
         "town": "provinceCapital"
@@ -10,7 +10,7 @@
     {
         "name": "purpleTown",
         "displayName": "Purple",
-        "quantity": "4",
+        "quantity": 4,
         "color": "#431E42",
         "emblem": "playerEmblems/purple",
         "town": "provinceTown"
@@ -18,7 +18,7 @@
     {
         "name": "purple",
         "displayName": "Purple",
-        "quantity": "12",
+        "quantity": 12,
         "color": "#431E42",
         "emblem": "playerEmblems/purple",
         "town": "provinceNonCapital"
@@ -26,7 +26,7 @@
     {
         "name": "greenCapital",
         "displayName": "Green",
-        "quantity": "1",
+        "quantity": 1,
         "color": "#008000",
         "emblem": "playerEmblems/green",
         "town": "provinceCapital"
@@ -34,7 +34,7 @@
     {
         "name": "greenTown",
         "displayName": "Green",
-        "quantity": "4",
+        "quantity": 4,
         "color": "#008000",
         "emblem": "playerEmblems/green",
         "town": "provinceTown"
@@ -42,7 +42,7 @@
     {
         "name": "green",
         "displayName": "Green",
-        "quantity": "12",
+        "quantity": 12,
         "color": "#008000",
         "emblem": "playerEmblems/green",
         "town": "provinceNonCapital"
@@ -50,7 +50,7 @@
     {
         "name": "orangeCapital",
         "displayName": "Orange",
-        "quantity": "1",
+        "quantity": 1,
         "color": "#ff5f00",
         "emblem": "playerEmblems/orange",
         "town": "provinceCapital"
@@ -58,7 +58,7 @@
     {
         "name": "orangeTown",
         "displayName": "Orange",
-        "quantity": "4",
+        "quantity": 4,
         "color": "#ff5f00",
         "emblem": "playerEmblems/orange",
         "town": "provinceTown"
@@ -66,7 +66,7 @@
     {
         "name": "orange",
         "displayName": "Orange",
-        "quantity": "12",
+        "quantity": 12,
         "color": "#ff5f00",
         "emblem": "playerEmblems/orange",
         "town": "provinceNonCapital"
@@ -74,7 +74,7 @@
     {
         "name": "blackCapital",
         "displayName": "Black",
-        "quantity": "1",
+        "quantity": 1,
         "color": "#191919",
         "emblem": "playerEmblems/black",
         "town": "provinceCapital"
@@ -82,7 +82,7 @@
     {
         "name": "blackTown",
         "displayName": "Black",
-        "quantity": "4",
+        "quantity": 4,
         "color": "#191919",
         "emblem": "playerEmblems/black",
         "town": "provinceTown"
@@ -90,7 +90,7 @@
     {
         "name": "black",
         "displayName": "Black",
-        "quantity": "12",
+        "quantity": 12,
         "color": "#191919",
         "emblem": "playerEmblems/black",
         "town": "provinceNonCapital"
@@ -98,7 +98,7 @@
     {
         "name": "redCapital",
         "displayName": "Red",
-        "quantity": "1",
+        "quantity": 1,
         "color": "#f00",
         "emblem": "playerEmblems/red",
         "town": "provinceCapital"
@@ -106,7 +106,7 @@
     {
         "name": "redTown",
         "displayName": "Red",
-        "quantity": "4",
+        "quantity": 4,
         "color": "#f00",
         "emblem": "playerEmblems/red",
         "town": "provinceTown"
@@ -114,7 +114,7 @@
     {
         "name": "red",
         "displayName": "Red",
-        "quantity": "12",
+        "quantity": 12,
         "color": "#f00",
         "emblem": "playerEmblems/red",
         "town": "provinceNonCapital"
@@ -122,7 +122,7 @@
     {
         "name": "whiteCapital",
         "displayName": "White",
-        "quantity": "1",
+        "quantity": 1,
         "color": "#fff",
         "emblem": "playerEmblems/white",
         "town": "provinceCapital"
@@ -130,7 +130,7 @@
     {
         "name": "whiteTown",
         "displayName": "White",
-        "quantity": "4",
+        "quantity": 4,
         "color": "#fff",
         "emblem": "playerEmblems/white",
         "town": "provinceTown"
@@ -138,7 +138,7 @@
     {
         "name": "white",
         "displayName": "White",
-        "quantity": "12",
+        "quantity": 12,
         "color": "#fff",
         "emblem": "playerEmblems/white",
         "town": "provinceNonCapital"
@@ -146,7 +146,7 @@
     {
         "name": "blueCapital",
         "displayName": "Blue",
-        "quantity": "1",
+        "quantity": 1,
         "color": "#00f",
         "emblem": "playerEmblems/blue",
         "town": "provinceCapital"
@@ -154,7 +154,7 @@
     {
         "name": "blueTown",
         "displayName": "Blue",
-        "quantity": "4",
+        "quantity": 4,
         "color": "#00f",
         "emblem": "playerEmblems/blue",
         "town": "provinceTown"
@@ -162,7 +162,7 @@
     {
         "name": "blue",
         "displayName": "Blue",
-        "quantity": "12",
+        "quantity": 12,
         "color": "#00f",
         "emblem": "playerEmblems/blue",
         "town": "provinceNonCapital"
@@ -170,7 +170,7 @@
     {
         "name": "yellowCapital",
         "displayName": "Yellow",
-        "quantity": "1",
+        "quantity": 1,
         "color": "#ff0",
         "emblem": "playerEmblems/yellow",
         "town": "provinceCapital"
@@ -178,7 +178,7 @@
     {
         "name": "yellowTown",
         "displayName": "Yellow",
-        "quantity": "4",
+        "quantity": 4,
         "color": "#ff0",
         "emblem": "playerEmblems/yellow",
         "town": "provinceTown"
@@ -186,7 +186,7 @@
     {
         "name": "yellow",
         "displayName": "Yellow",
-        "quantity": "12",
+        "quantity": 12,
         "color": "#ff0",
         "emblem": "playerEmblems/yellow",
         "town": "provinceNonCapital"

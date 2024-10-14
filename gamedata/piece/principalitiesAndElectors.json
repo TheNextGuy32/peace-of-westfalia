@@ -3,287 +3,287 @@
         "name": "bohemia",
         "displayName": "Bohemia",
         "graphic": "princesMedium/Bohemia",
-        "quantity": "1",
+        "quantity": 1,
         "elector": "Elector"
     },
     {
         "name": "brandenburg",
         "displayName": "Brandenburg",
         "graphic": "princesMedium/Brandenburg",
-        "quantity": "1",
+        "quantity": 1,
         "elector": "Elector"
     },
     {
         "name": "cologne",
         "displayName": "Cologne",
         "graphic": "princesMedium/Cologne",
-        "quantity": "1",
+        "quantity": 1,
         "elector": "Elector"
     },
     {
         "name": "mainz",
         "displayName": "Mainz",
         "graphic": "princesMedium/Mainz",
-        "quantity": "1",
+        "quantity": 1,
         "elector": "Elector"
     },
     {
         "name": "palatinate",
         "displayName": "The Palatinate",
         "graphic": "princesMedium/Palatinate",
-        "quantity": "1",
+        "quantity": 1,
         "elector": "Elector"
     },
     {
         "name": "saxony",
         "displayName": "Saxony",
         "graphic": "princesMedium/Saxony",
-        "quantity": "1",
+        "quantity": 1,
         "elector": "Elector"
     },
     {
         "name": "trier",
         "displayName": "Trier",
         "graphic": "princesMedium/Trier",
-        "quantity": "1",
+        "quantity": 1,
         "elector": "Elector"
     },
     {
         "name": "aachen",
         "displayName": "Aachen",
         "graphic": "princesMedium/Aachen",
-        "quantity": "1",
+        "quantity": 1,
         "elector": "Prince"
     },
     {
         "name": "anhalt",
         "displayName": "Anhalt",
         "graphic": "princesMedium/Anhalt",
-        "quantity": "0",
+        "quantity": 0,
         "elector": "Prince"
     },
     {
         "name": "ansbach",
         "displayName": "Ansbach",
         "graphic": "princesMedium/Ansbach",
-        "quantity": "1",
+        "quantity": 1,
         "elector": "Prince"
     },
     {
         "name": "augsburg",
         "displayName": "Augsburg",
         "graphic": "princesMedium/Augsburg",
-        "quantity": "1",
+        "quantity": 1,
         "elector": "Prince"
     },
     {
         "name": "baden",
         "displayName": "Baden",
         "graphic": "princesMedium/Baden",
-        "quantity": "1",
+        "quantity": 1,
         "elector": "Prince"
     },
     {
         "name": "bamberg",
         "displayName": "Bamberg",
         "graphic": "princesMedium/Bamberg",
-        "quantity": "0",
+        "quantity": 0,
         "elector": "Prince"
     },
     {
         "name": "basel",
         "displayName": "Basel",
         "graphic": "princesMedium/Basel",
-        "quantity": "0",
+        "quantity": 0,
         "elector": "Prince"
     },
     {
         "name": "bavaria",
         "displayName": "Bavaria",
         "graphic": "princesMedium/Bavaria",
-        "quantity": "1",
+        "quantity": 1,
         "elector": "Prince"
     },
     {
         "name": "brabant",
         "displayName": "Brabant",
         "graphic": "princesMedium/Brabant",
-        "quantity": "0",
+        "quantity": 0,
         "elector": "Prince"
     },
     {
         "name": "bremen",
         "displayName": "Bremen-Verden",
         "graphic": "princesMedium/Bremen",
-        "quantity": "1",
+        "quantity": 1,
         "elector": "Prince"
     },
     {
         "name": "brunswick",
         "displayName": "Brunswick",
         "graphic": "princesMedium/Brunswick",
-        "quantity": "0",
+        "quantity": 0,
         "elector": "Prince"
     },
     {
         "name": "cilli",
         "displayName": "Cilli",
         "graphic": "princesMedium/Cilli",
-        "quantity": "0",
+        "quantity": 0,
         "elector": "Prince"
     },
     {
         "name": "cleves",
         "displayName": "Cleves",
         "graphic": "princesMedium/Cleves",
-        "quantity": "1",
+        "quantity": 1,
         "elector": "Prince"
     },
     {
         "name": "flanders",
         "displayName": "Flanders",
         "graphic": "princesMedium/Flanders",
-        "quantity": "0",
+        "quantity": 0,
         "elector": "Prince"
     },
     {
         "name": "frankfurt",
         "displayName": "Frankfurt",
         "graphic": "princesMedium/Frankfurt",
-        "quantity": "1",
+        "quantity": 1,
         "elector": "Prince"
     },
     {
         "name": "hesse",
         "displayName": "Hesse",
         "graphic": "princesMedium/Hesse",
-        "quantity": "1",
+        "quantity": 1,
         "elector": "Prince"
     },
     {
         "name": "lorraine",
         "displayName": "Lorraine",
         "graphic": "princesMedium/Alsace",
-        "quantity": "1",
+        "quantity": 1,
         "elector": "Prince"
     },
     {
         "name": "lubeck",
         "displayName": "Lubeck",
         "graphic": "princesMedium/Lubeck",
-        "quantity": "0",
+        "quantity": 0,
         "elector": "Prince"
     },
     {
         "name": "luxembourg",
         "displayName": "Luxembourg",
         "graphic": "princesMedium/Luxembourg",
-        "quantity": "0",
+        "quantity": 0,
         "elector": "Prince"
     },
     {
         "name": "magdeburg",
         "displayName": "Magdeburg",
         "graphic": "princesMedium/Magdeburg",
-        "quantity": "1",
+        "quantity": 1,
         "elector": "Prince"
     },
     {
         "name": "mecklenburg",
         "displayName": "Mecklenburg",
         "graphic": "princesMedium/Mecklenburg",
-        "quantity": "1",
+        "quantity": 1,
         "elector": "Prince"
     },
     {
         "name": "nassau",
         "displayName": "Nassau",
         "graphic": "princesMedium/Nassau",
-        "quantity": "0",
+        "quantity": 0,
         "elector": "Prince"
     },
     {
         "name": "nuremburg",
         "displayName": "Nuremburg",
         "graphic": "princesMedium/Nuremburg",
-        "quantity": "1",
+        "quantity": 1,
         "elector": "Prince"
     },
     {
         "name": "provence",
         "displayName": "Provence",
         "graphic": "princesMedium/Provence",
-        "quantity": "0",
+        "quantity": 0,
         "elector": "Prince"
     },
     {
         "name": "ravensburg",
         "displayName": "Ravensburg",
         "graphic": "princesMedium/Ravensburg",
-        "quantity": "1",
+        "quantity": 1,
         "elector": "Prince"
     },
     {
         "name": "salzburg",
         "displayName": "Salzburg",
         "graphic": "princesMedium/Salzburg",
-        "quantity": "1",
+        "quantity": 1,
         "elector": "Prince"
     },
     {
         "name": "switzerland",
         "displayName": "Switzerland",
         "graphic": "princesMedium/Switzerland",
-        "quantity": "1",
+        "quantity": 1,
         "elector": "Prince"
     },
     {
         "name": "thuringia",
         "displayName": "Thuringia",
         "graphic": "princesMedium/Thuringia",
-        "quantity": "0",
+        "quantity": 0,
         "elector": "Prince"
     },
     {
         "name": "trent",
         "displayName": "Trent",
         "graphic": "princesMedium/Trent",
-        "quantity": "1",
+        "quantity": 1,
         "elector": "Prince"
     },
     {
         "name": "ulm",
         "displayName": "Ulm",
         "graphic": "princesMedium/Ulm",
-        "quantity": "1",
+        "quantity": 1,
         "elector": "Prince"
     },
     {
         "name": "westphalia",
         "displayName": "Westphalia",
         "graphic": "princesMedium/Westphalia",
-        "quantity": "0",
+        "quantity": 0,
         "elector": "Prince"
     },
     {
         "name": "wurttemberg",
         "displayName": "Wurttemberg",
         "graphic": "princesMedium/Wurttemberg",
-        "quantity": "1",
+        "quantity": 1,
         "elector": "Prince"
     },
     {
         "name": "wurzburg",
         "displayName": "Wurzburg",
         "graphic": "princesMedium/Wurzburg",
-        "quantity": "0",
+        "quantity": 0,
         "elector": "Prince"
     },
     {
         "name": "pomerania",
         "displayName": "Pomerania",
         "graphic": "princesMedium/Pomerania",
-        "quantity": "1",
+        "quantity": 1,
         "elector": "Prince"
     }
 ]

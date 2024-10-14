@@ -1,4 +1,4 @@
-Players 'Saved' may Declare a Religious War against any eligible heretical Target Principality:
+Saved Players may Declare a Religious War against any eligible heretical Target Principality:
 
 Principalities with a Religious Upheaval Marker on them not already made a Target Principality are eligible Target Principalities. Lift the Religious Upheaval Marker upright.
 
