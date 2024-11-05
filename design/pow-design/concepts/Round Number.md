@@ -1,2 +1,0 @@
-[[Emperorship]]
-[[Faith Dice]]

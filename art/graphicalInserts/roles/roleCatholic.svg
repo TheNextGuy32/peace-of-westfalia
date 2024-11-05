@@ -12,7 +12,7 @@
    enable-background="new 0 0 198 270"
    xml:space="preserve"
    sodipodi:docname="roleCatholic.svg"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -209,14 +209,14 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
    showgrid="false"
-   inkscape:zoom="1.1483938"
-   inkscape:cx="348.74796"
-   inkscape:cy="540.31987"
-   inkscape:window-width="2560"
-   inkscape:window-height="1351"
-   inkscape:window-x="-9"
-   inkscape:window-y="-9"
-   inkscape:window-maximized="1"
+   inkscape:zoom="0.40601852"
+   inkscape:cx="673.61459"
+   inkscape:cy="461.80159"
+   inkscape:window-width="1390"
+   inkscape:window-height="1027"
+   inkscape:window-x="57"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
    inkscape:current-layer="YOUR_ARTWORK_HERE"
    inkscape:lockguides="true" />
 <pattern
@@ -684,7 +684,7 @@
 
 <g
    id="g8191"
-   transform="matrix(4.8690922,0,0,4.8690922,-1.2609027,-820.148)"><circle
+   transform="matrix(0,4.8690922,-4.8690922,0,1603.71,148.73909)"><circle
      style="fill:#ffffff;fill-opacity:1;stroke-width:1.15175;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
      id="path5225"
      cx="84.625"

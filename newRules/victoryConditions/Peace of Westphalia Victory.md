@@ -1,2 +1,0 @@
-If: After Round 5, there was neither a Catholic nor a Protestant Victory
-Then: The player with the most Imperial Power wins. For every orthodox town-province you have, add 2 Imperial Power to your total. In the case of a tie, the Emperor chooses the winner from among the tied players. 

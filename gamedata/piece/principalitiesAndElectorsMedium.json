@@ -1,0 +1,248 @@
+[
+    {
+        "name": "bohemia",
+        "displayName": "Bohemia",
+        "graphic": "princesMedium/Bohemia",
+        "quantity": 1
+    },
+    {
+        "name": "brandenburg",
+        "displayName": "Brandenburg",
+        "graphic": "princesMedium/Brandenburg",
+        "quantity": 1
+    },
+    {
+        "name": "cologne",
+        "displayName": "Cologne",
+        "graphic": "princesMedium/Cologne",
+        "quantity": 1
+    },
+    {
+        "name": "mainz",
+        "displayName": "Mainz",
+        "graphic": "princesMedium/Mainz",
+        "quantity": 1
+    },
+    {
+        "name": "palatinate",
+        "displayName": "The Palatinate",
+        "graphic": "princesMedium/Palatinate",
+        "quantity": 1
+    },
+    {
+        "name": "saxony",
+        "displayName": "Saxony",
+        "graphic": "princesMedium/Saxony",
+        "quantity": 1
+    },
+    {
+        "name": "trier",
+        "displayName": "Trier",
+        "graphic": "princesMedium/Trier",
+        "quantity": 1
+    },
+    {
+        "name": "aachen",
+        "displayName": "Aachen",
+        "graphic": "princesMedium/Aachen",
+        "quantity": 1
+    },
+    {
+        "name": "anhalt",
+        "displayName": "Anhalt",
+        "graphic": "princesMedium/Anhalt",
+        "quantity": 0
+    },
+    {
+        "name": "ansbach",
+        "displayName": "Ansbach",
+        "graphic": "princesMedium/Ansbach",
+        "quantity": 1
+    },
+    {
+        "name": "augsburg",
+        "displayName": "Augsburg",
+        "graphic": "princesMedium/Augsburg",
+        "quantity": 1
+    },
+    {
+        "name": "baden",
+        "displayName": "Baden",
+        "graphic": "princesMedium/Baden",
+        "quantity": 0
+    },
+    {
+        "name": "bamberg",
+        "displayName": "Bamberg",
+        "graphic": "princesMedium/Bamberg",
+        "quantity": 0
+    },
+    {
+        "name": "basel",
+        "displayName": "Basel",
+        "graphic": "princesMedium/Basel",
+        "quantity": 0
+    },
+    {
+        "name": "bavaria",
+        "displayName": "Bavaria",
+        "graphic": "princesMedium/Bavaria",
+        "quantity": 1
+    },
+    {
+        "name": "brabant",
+        "displayName": "Brabant",
+        "graphic": "princesMedium/Brabant",
+        "quantity": 0
+    },
+    {
+        "name": "bremen",
+        "displayName": "Bremen-Verden",
+        "graphic": "princesMedium/Bremen",
+        "quantity": 0
+    },
+    {
+        "name": "brunswick",
+        "displayName": "Brunswick",
+        "graphic": "princesMedium/Brunswick",
+        "quantity": 0
+    },
+    {
+        "name": "cilli",
+        "displayName": "Cilli",
+        "graphic": "princesMedium/Cilli",
+        "quantity": 0
+    },
+    {
+        "name": "cleves",
+        "displayName": "Cleves",
+        "graphic": "princesMedium/Cleves",
+        "quantity": 0
+    },
+    {
+        "name": "flanders",
+        "displayName": "Flanders",
+        "graphic": "princesMedium/Flanders",
+        "quantity": 0
+    },
+    {
+        "name": "frankfurt",
+        "displayName": "Frankfurt",
+        "graphic": "princesMedium/Frankfurt",
+        "quantity": 1
+    },
+    {
+        "name": "hesse",
+        "displayName": "Hesse",
+        "graphic": "princesMedium/Hesse",
+        "quantity": 1
+    },
+    {
+        "name": "lorraine",
+        "displayName": "Lorraine",
+        "graphic": "princesMedium/Alsace",
+        "quantity": 0
+    },
+    {
+        "name": "lubeck",
+        "displayName": "Lubeck",
+        "graphic": "princesMedium/Lubeck",
+        "quantity": 0
+    },
+    {
+        "name": "luxembourg",
+        "displayName": "Luxembourg",
+        "graphic": "princesMedium/Luxembourg",
+        "quantity": 0
+    },
+    {
+        "name": "magdeburg",
+        "displayName": "Magdeburg",
+        "graphic": "princesMedium/Magdeburg",
+        "quantity": 0
+    },
+    {
+        "name": "mecklenburg",
+        "displayName": "Mecklenburg",
+        "graphic": "princesMedium/Mecklenburg",
+        "quantity": 1
+    },
+    {
+        "name": "nassau",
+        "displayName": "Nassau",
+        "graphic": "princesMedium/Nassau",
+        "quantity": 0
+    },
+    {
+        "name": "nuremburg",
+        "displayName": "Nuremburg",
+        "graphic": "princesMedium/Nuremburg",
+        "quantity": 0
+    },
+    {
+        "name": "provence",
+        "displayName": "Provence",
+        "graphic": "princesMedium/Provence",
+        "quantity": 0
+    },
+    {
+        "name": "ravensburg",
+        "displayName": "Ravensburg",
+        "graphic": "princesMedium/Ravensburg",
+        "quantity": 0
+    },
+    {
+        "name": "salzburg",
+        "displayName": "Salzburg",
+        "graphic": "princesMedium/Salzburg",
+        "quantity": 1
+    },
+    {
+        "name": "switzerland",
+        "displayName": "Switzerland",
+        "graphic": "princesMedium/Switzerland",
+        "quantity": 1
+    },
+    {
+        "name": "thuringia",
+        "displayName": "Thuringia",
+        "graphic": "princesMedium/Thuringia",
+        "quantity": 0
+    },
+    {
+        "name": "trent",
+        "displayName": "Trent",
+        "graphic": "princesMedium/Trent",
+        "quantity": 1
+    },
+    {
+        "name": "ulm",
+        "displayName": "Ulm",
+        "graphic": "princesMedium/Ulm",
+        "quantity": 1
+    },
+    {
+        "name": "westphalia",
+        "displayName": "Westphalia",
+        "graphic": "princesMedium/Westphalia",
+        "quantity": 0
+    },
+    {
+        "name": "wurttemberg",
+        "displayName": "Wurttemberg",
+        "graphic": "princesMedium/Wurttemberg",
+        "quantity": 1
+    },
+    {
+        "name": "wurzburg",
+        "displayName": "Wurzburg",
+        "graphic": "princesMedium/Wurzburg",
+        "quantity": 0
+    },
+    {
+        "name": "pomerania",
+        "displayName": "Pomerania",
+        "graphic": "princesMedium/Pomerania",
+        "quantity": 1
+    }
+]

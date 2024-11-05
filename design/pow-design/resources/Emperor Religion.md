@@ -1,2 +1,0 @@
-[[Community - Religious Victory]]
-[[Faith]]

@@ -3,30 +3,126 @@
         "name": "mass",
         "displayName": "Mass",
         "quantity": 5,
-        "rules": "Provinces/Principalities convert:\n- A Principality converts if as many are on it as the Principality has provinces. If not enough dice were placed, the Principality does not convert.\n- Dice of your own religion on your provinces cancel up to 2 dice of the opposing religion placed on the same province. Remove all canceled dice. Dice of an opposing religion remaining then convert the province they are on, except Player capitals.\n- For each town of yours that converts to the opposing religion, lose 2 Gold. In addition, lose 2 Gold if you have any opposing dice remaining on your capital."
+        "rules": "Provinces/Principalities convert:\n- A Principality converts if as many are on it as the Principality has provinces. If not enough dice were placed, the Principality does not convert.\n- Dice of your own religion on your provinces cancel up to 2 dice of the opposing religion placed on the same province. \n\nRemove all canceled dice. Dice of an opposing religion remaining then convert the province they are on and are discarded. Players always have at least one province of the correct religion, preventing conversions."
     },
     {
         "name": "religiousUpheavalLate",
         "displayName": "Religious Upheaval",
         "quantity": 3,
-        "rules": "Draw cards from the Principality deck, 2 in a 5-6 Player game, 3 in a 7-8 Player game. The drawn Principalities convert."
+        "rules": "Pick two Catholic Principalities and convert them to Protestantism."
     },
     {
         "name": "religiousUpheavalEarly",
-        "displayName": "Religious Upheaval",
+        "displayName": "Great Righteous Upheaval",
         "quantity": 2,
-        "rules": "Draw X cards from the Principality deck, where X = # of Players, redrawing for any Principalities already Protestant. All provinces from drawn Principalities convert to Protestantism. In addition, all Player non-capital provinces adjacent to the capitals of the converted Principalities convert to Protestantism."
+        "rules": "Pick 3 Catholic Principalities and convert them to Protestantism. In addition, if you have at least one Catholic province adjacent to a converted Principality, convert one province to Protestantism."
     },
     {
         "name": "piusOttomans",
-        "displayName": "Pius defeats the Ottomans!",
+        "displayName": "Council of Trent",
         "quantity": 1,
-        "rules": "If the Council has not concluded, St. Pius V holds the Council of Trent outside of the Empire, defeats the Ottomans at Lepanto, and the Catholic Reformation begins."
+        "rules": "Conclude the Council of Trent. Catholic players may now do the Intercession of Saints action."
     },
     {
         "name": "deathOfEmperor",
         "displayName": "Death of the Emperor",
+        "quantity": 5,
+        "rules": "The Emperor is dead! If this is the 5th time the Emperor dies, determine the winner(s), otherwise, hold an Imperial Election."
+    },
+    {
+        "name": "jesuitOrder",
+        "displayName": "Jesuit Order Established",
         "quantity": 1,
-        "rules": "The Emperor is dead! Hold an Imperial Election."
+        "rules": "Catholic players each gain 2 Faith dice. Saved Catholic players gain an additional Faith die."
+    },
+    {
+        "name": "peasantsWar",
+        "displayName": "Peasants' War",
+        "quantity": 1,
+        "rules": "Declare war on the most Powerful player. If you are the most Powerful, declare a war against the next most powerful."
+    },
+    {
+        "name": "imperialBan",
+        "displayName": "Imperial Ban",
+        "quantity": 1,
+        "rules": "The Emperor may remove all Influence from one Principality of their choice. All players of the Emperor's religion gain 1 Influence."
+    },
+    {
+        "name": "defenestration",
+        "displayName": "Defenestration of Prague",
+        "quantity": 1,
+        "rules": "Convert the largest elector on the board that isn't your religion to your religion."
+    },
+    {
+        "name": "danishIntervention",
+        "displayName": "Danish Intervention",
+        "quantity": 1,
+        "rules": "Protestant players gain 1 Influence. Place a Religious Upheaval marker on any Catholic Principality that isn't bordering the Emperor."
+    },
+    {
+        "name": "frenchIntervention",
+        "displayName": "French Intervention",
+        "quantity": 1,
+        "rules": "Catholic players gain 1 Influence. Place a Religious Upheaval marker on any Protestant Principality adjacent to the Emperor."
+    },
+    {
+        "name": "imperialReforms",
+        "displayName": "Imperial Reforms",
+        "quantity": 1,
+        "rules": "The Emperor gains 2 Influence. All players of the Emperor's religion gain 1 Influence."
+    },
+    {
+        "name": "lutherDeath",
+        "displayName": "Death of Martin Luther",
+        "quantity": 1,
+        "rules": "All Protestant players must lose 1 Influence on the board or lose 1 Faith die in play."
+    },
+    {
+        "name": "calvinismRises",
+        "displayName": "Rise of Calvinism",
+        "quantity": 1,
+        "rules": "Protestant players may each convert one of their provinces for free. Protestant players gain one Faith die if they control 3 or more Protestant provinces."
+    },
+    {
+        "name": "dietOfWorms",
+        "displayName": "Diet of Worms",
+        "quantity": 1,
+        "rules": "If you do not share the Emperor's religion, take one of your Influence off the board. As the Emperor, gain 1 Influence on the board for each player of the opposing religion."
+    },
+    {
+        "name": "stBartholomew",
+        "displayName": "St. Bartholomew's Day Massacre",
+        "quantity": 1,
+        "rules": "Each Protestant player loses all Influence in a Catholic Principality of their choice."
+    },
+    {
+        "name": "gutenbergBible",
+        "displayName": "Spread of Printed Bibles",
+        "quantity": 1,
+        "rules": "All players gain 1 Faith die. Protestant players may place these Faith dice immediately on any province they control or any adjacent province."
+    },
+    {
+        "name": "leipzigDebate",
+        "displayName": "Leipzig Debate",
+        "quantity": 1,
+        "rules": "Each Protestant player may attempt to convert Catholic provinces by rolling up to 2 Protestant Faith dice either in storage or in play. On a roll of 4+, the province converts. Catholic players gain 1 Influence for each failed conversion attempt."
+    },
+    {
+        "name": "edictOfNantes",
+        "displayName": "Edict of Nantes",
+        "quantity": 1,
+        "rules": "Remove all Religious Upheaval markers and Faith dice from the board."
+    },
+    {
+        "name": "diplomaticManeuvering",
+        "displayName": "Diplomatic Maneuvering",
+        "quantity": 4,
+        "rules": "Take turns moving up to 2 of your Influence tokens between any Principalities you have Influence with."
+    },
+    {
+        "name": "religiousFervor",
+        "displayName": "Religious Fervor",
+        "quantity": 4,
+        "rules": "Players of the Emperor's religion gain 1 Faith die."
     }
 ]

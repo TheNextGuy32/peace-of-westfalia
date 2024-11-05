@@ -1,2 +1,0 @@
-[[Faith Dice]]
-[[Good Works]]

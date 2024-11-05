@@ -1,2 +1,0 @@
-[[Evangelical League]]
-[[Catholic League]]

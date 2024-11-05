@@ -1,2 +1,0 @@
-[[Private War]]
-[[League War]]

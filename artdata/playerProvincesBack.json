@@ -9,10 +9,10 @@
         { "id": "backgroundColor", "cssValue": "fill", "scope": "piece", "source": "color" }
     ],
     "overlays": [
-        { "scope": "piece", "source": "emblem" }, 
-        { "scope": "global", "source": "overlayReligionMediumHex" },
+        { "scope": "piece", "source": "graphic" }, 
+        { "scope": "global", "source": "overlayReligionLargeHex" },
         { "scope": "global", "source": "province" },
-        { "scope": "piece", "source": "town" }, 
+        { "scope": "component", "source": "overlay" }, 
         { "scope": "global", "source": "chitHexMediumBoundaries", "isComplex": true, "isDebugInfo": true }
     ]
 }

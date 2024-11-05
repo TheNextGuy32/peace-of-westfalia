@@ -27,7 +27,7 @@
         },
         {
             "scope": "global",
-            "source": "overlayReligionMediumHex"
+            "source": "overlayReligionLargeHex"
         },
         {
             "scope": "global",
@@ -37,7 +37,7 @@
         },
         {
             "scope": "global",
-            "source": "province"
+            "source": "provinceLarge"
         },
         {
             "scope": "component",

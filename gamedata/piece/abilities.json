@@ -1,19 +1,10 @@
 [
     {
-        "name": "levyTax",
-        "displayName": "Levy a Tax",
-        "quantity": 1,
-        "type": "abilityTypes/wageWar",
-        "rulesOne": "Take 2 Gold for each orthodox capital or town-province you own. \n\nYou do not earn Gold for allied towns or heretical town-provinces.",
-        "rulesTwo": "",
-        "rulesThree": ""
-    },
-    {
         "name": "convertReligionsToCatholic",
         "displayName": "Convert to Catholicism",
         "quantity": 1,
         "type": "abilityTypes/fightHeresy",
-        "rulesOne": "If there are no Catholic players, gain three Saints. Return your role card to the common pool. Take Good Works equal to the Saved Catholic player who has the least, then subtract two. You may not go negative.\n\nIf you have at least one Good Work and are in the top 2 players (or top 3 in a 7-8 player game) for Good Works, take the Saved by Faith and Works Role. Otherwise take the Damned Catholic in a State of Mortal Sin role card.\n\nChange the religion of your capital to Catholic. ",
+        "rulesOne": "Switch to Catholic. If you control enough Catholic provinces (directly or through allies) to be among the top 2 Catholics (top 3 in 7-8 player games), switch your role to Saved Catholic, otherwise switched to the Damned Catholic role. The next Damned Protestant becomes Saved in your place. All other Catholics update their roles.\n\nLose all Faith dice.\n\nIf you do not have a Catholic province, flip one province to Catholic.",
         "rulesTwo": "You must be Protestant.",
         "rulesThree": ""
     },
@@ -22,89 +13,17 @@
         "displayName": "Convert to Protestantism",
         "quantity": 1,
         "type": "abilityTypes/fightHeresy",
-        "rulesOne": "Discard your current role card. If there are any Saved by Faith Alone roles remaining, take that role. Otherwise, take the Damned Protestant Predestined to Hell role card.\n\nLose all Faith and Saints.\n\nChange the religion of your capital to Protestant. ",
+        "rulesOne": "Switch to Protestant. If you are the either the first or second (or third in 7-8 player games) to convert to Protestantism this game, switch to Saved Protestant. Otherwise, switch to Damned Protestant. All Catholics update their roles as well.\n\nLose all Faith dice.\n\nIf you do not have a Protestant province, flip one province to Protestant.",
         "rulesTwo": "You must be Catholic.",
         "rulesThree": ""
     },
     {
-        "name": "releaseVassal",
-        "displayName": "Release Vassal",
+        "name": "releaseAlly",
+        "displayName": "Release Ally",
         "quantity": 1,
         "type": "abilityTypes/doDiplomacy",
-        "rulesOne": "Release Province with a town on it as a Principality as your vassal. ",
-        "rulesTwo": "Replace your control marker with a Principality one. Place 2 influence on this Principality; you start its ally. Other Players may influence this Principality, and you may not retake this Principality except through war.",
-        "rulesThree": "You must own a Province with a town on it."
-    },
-    {
-        "name": "sackMonasteries",
-        "displayName": "Sack the Monasteries",
-        "quantity": 1,
-        "type": "abilityTypes/doDiplomacy",
-        "rulesOne": "Discard your Monasteries token, gain two Gold,",
-        "rulesTwo": "You must be Protestant.",
-        "rulesThree": ""
-    },
-    {
-        "name": "callTheCouncil",
-        "displayName": "Call a Council of Trent Vote",
-        "quantity": 1,
-        "type": "abilityTypes/fightHeresy",
-        "rulesOne": "Trigger a Council of Trent vote.",
-        "rulesTwo": "You must be Catholic.",
-        "rulesThree": ""
-    },
-    {
-        "name": "giftProvince",
-        "displayName": "Gift Province",
-        "quantity": 1,
-        "type": "abilityTypes/doDiplomacy",
-        "rulesOne": "Gift non-town provinces to Principalities if the provinces are adjacent to the Principality and the same religion as the Principality.",
-        "rulesTwo": "Gain 1 Diplomatic Influence per gifted province with that Principality.",
-        "rulesThree": ""
-    },
-    {
-        "name": "joinLeague",
-        "displayName": "Join a League",
-        "quantity": 1,
-        "type": "abilityTypes/noType",
-        "rulesOne": "Players saved by Faith and Works may join the Catholic League. They lose 1 Diplomatic Influence from each Protestant Principality they have influence with. ",
-        "rulesTwo": "Players saved by Faith Alone may join the Evangelical League. They lose 1 Diplomatic Influence from each Catholic Principality they have influence with. Players not saved by Faith Alone or by Faith and Works may join either League and lose no Diplomatic Influence upon Joining a League. ",
-        "rulesThree": "Players cannot change or leave Leagues."
-    },
-    {
-        "name": "provideAssistance",
-        "displayName": "Provide Assistance",
-        "quantity": 1,
-        "type": "abilityTypes/doDiplomacy",
-        "rulesOne": "Pay Gold (to the bank) for Diplomatic Influence at a rate of 1:1.",
-        "rulesTwo": "",
-        "rulesThree": ""
-    },
-    {
-        "name": "influencePrince",
-        "displayName": "Influence a Prince",
-        "quantity": 1,
-        "type": "abilityTypes/doDiplomacy",
-        "rulesOne": "Place Influence on any Principality(ies) of your choice, regardless of Religion or allies.\n\nIf you have 1 Influence on the Principality per province it has and more Influence than any other Player you ally the Principality. When you ally a Principality, take its Control Marker and add it to your Player Card on the appropriate slot. Another Player may not displace you as the ally unless he surpasses you in Influence. Ties in Influence default to the current controller. ",
-        "rulesTwo": "",
-        "rulesThree": ""
-    },
-    {
-        "name": "spreadFaith",
-        "displayName": "Spread the Faith",
-        "quantity": 1,
-        "type": "abilityTypes/fightHeresy",
-        "rulesOne": "Roll all of your Faith dice. Earn 1 Saint or Reformation Point for each Cross or Crucifix (1-3) you roll. \n\nSalvation Race - Catholics gain 1 Good Work token for each Crucifix, which they mark on their Good Works Die, \n\nPlace all of your successful dice:\n- In any of your own provinces;\n- On any Principality or Player-province within a contiguous chain of provinces of your religion that flows from your capital;\n- On any Principality or Player-province one hex beyond this chain of contiguous provinces of your religion that flows from your capital.\n- Church Abuses: Before the Council of Trent concludes, Catholics may not place their Faith Dice in Protestant Provinces or Principalities.\n\nWhenever a Player places a die on a Principality with a dice of the opposing Faith, both dice are removed; place a Religious Upheaval Token on the Principality's Capital to indicate its eligibility to be a Target Principality of a Religious War. ",
-        "rulesTwo": "You must be Protestant or a post Council of Trent Catholic.",
-        "rulesThree": ""
-    },
-    {
-        "name": "churchAbuses",
-        "displayName": "Church Abuses",
-        "quantity": 1,
-        "type": "abilityTypes/fightHeresy",
-        "rulesOne": "Convert every two Faith into a Saint. Left over Faith is lost.",
-        "rulesTwo": "Your must be Catholic and the Council of Trent must not have concluded.",
+        "rulesOne": "Release a province as a one province Principality. Place two Influence on it and take their control marker. The Principality does not begin as an Elector.",
+        "rulesTwo": "You may also gift it adjacent, same religion provinces to gain 1 additional Influence per province.",
         "rulesThree": ""
     },
     {
@@ -112,143 +31,44 @@
         "displayName": "Conduct Diplomacy",
         "quantity": 1,
         "type": "abilityTypes/doDiplomacy",
-        "rulesOne": "Pick a player to play the Diplomacy Game with.\n\nPlayers face each other and count down '3, 2, 1, 'Go!' Simultaneously, Players form either a thumbs up or a finger gun:  If both Players formed a thumbs up, both Player gain 2 Diplomatic Influence.  If one Player formed a thumbs up, while the other formed a finger gun, the Player with the finger gun gains 4 Influence and the other Player gain 0 Influence.  If both Players formed a finger gun, both Players gain 1 Influence. You may not move Influence between Principalities once placed.",
-        "rulesTwo": "",
-        "rulesThree": ""
-    },
-    {
-        "name": "canonize",
-        "displayName": "Canonize",
-        "quantity": 1,
-        "type": "abilityTypes/fightHeresy",
-        "rulesOne": "Convert 5 Good Works into 1 Saint as many times as you want.",
-        "rulesTwo": "Your must be Catholic.",
-        "rulesThree": ""
-    },
-    {
-        "name": "prayForTheChurch",
-        "displayName": "Pray for the Church",
-        "quantity": 1,
-        "type": "abilityTypes/fightHeresy",
-        "rulesOne": "Gain Faith Dice:\n+1 per Saint\n+2 if you adhere to the Emperor's religion\n+2 if Saved by Faith and Works\n\nOra et Labora: Gain 2 Good Works if you still have your Monastery Token.",
-        "rulesTwo": "Your must be Catholic.",
-        "rulesThree": ""
-    },
-    {
-        "name": "prayForTheReformation",
-        "displayName": "Pray for the Reformation",
-        "quantity": 1,
-        "type": "abilityTypes/fightHeresy",
-        "rulesOne": "Gain Faith Dice:\n+5 if Rounds 1-3\n+3 Rounds 4-5\n+2 if you adhere to the Emperor's religion\n+2 if Saved by Faith Alone",
-        "rulesTwo": "Your must be Protestant.",
-        "rulesThree": ""
-    },
-    {
-        "name": "becomeForeignPower",
-        "displayName": "Become Foreign Power",
-        "quantity": 0,
-        "type": "abilityTypes/doDiplomacy",
-        "rulesOne": "You may become a Foreign Power if you have no provinces or if you have 5 Imperial Power or less during Round 1-3 or you have 15 Imperial Power or less during Round 4-6.",
-        "rulesTwo": "Choose a Foreign Power hex and place it on the edge of the map. Replace your old province hex with a random Principality. Your Foreign Power is same Religion as your old Principality. Discard all saved and placed Influence but keep every other Influence discarded.",
-        "rulesThree": "Every round, set your Imperial Power to the round number multiplied by four minus the total value of 2D6. Gain Imperial Power from Provinces gained as normal. You cannot lose your last province."
-    },
-    {
-        "name": "saleOfIndulgences",
-        "displayName": "Sale of Indlugences",
-        "quantity": 1,
-        "type": "abilityTypes/fightHeresy",
-        "rulesOne": "Gain 1 Gold.",
-        "rulesTwo": "You must be Catholic and the Council of Trent must have concluded.",
+        "rulesOne": "Pick a player and play the Diplomacy Game with them. Then, take any or all of your Influence and distribute it to Principality(ies) of your choice, regardless of their religion or allies.",
+        "rulesTwo": "If you have equal or more Influence on the Principality than they have provinces and you have more Influence than any other player, ally the Principality and take its control marker, adding it to your board on the appropriate size slot. Other players do not displace you as ally until they surpass you in Influence.",
         "rulesThree": ""
     },
     {
         "name": "intercession",
-        "displayName": "Intercession of Saints",
+        "displayName": "Intercession of the Saints",
         "quantity": 1,
         "type": "abilityTypes/fightHeresy",
-        "rulesOne": "Gain 1 Faith per 5 Saints.",
-        "rulesTwo": "You must be Catholic",
-        "rulesThree": ""
-    },
-    {
-        "name": "keepTheFaith",
-        "displayName": "Keep the Faith",
-        "quantity": 1,
-        "type": "abilityTypes/fightHeresy",
-        "rulesOne": "Earn a Faith cube of your faith based on the round number and your total Saints.",
-        "rulesTwo": "",
-        "rulesThree": ""
+        "rulesOne": "Gain 3 Catholic Faith dice plus:\n\n+1 Faith dice per 3 Catholic provinces you control (directly or through allies)\n+1 if the Emperor is your religion\n+1 if you are Saved",
+        "rulesTwo": "Roll all of your Faith dice. Place every die you got a 1-3 on a province (following Faith dice placement rules) to begin converting it next Mass event. Discard the failed dice rolls.",
+        "rulesThree": "You must be a post Council of Trent Catholic."
     },
     {
         "name": "downWithTheWhore",
-        "displayName": "Down with the Whore of Babylon",
+        "displayName": "Down with Babylon",
         "quantity": 1,
         "type": "abilityTypes/fightHeresy",
-        "rulesOne": "Gain 3 Faith if you are Protestant.",
-        "rulesTwo": "You must be Protestant and it must be Round 1-3.",
-        "rulesThree": ""
+        "rulesOne": "Gain 3 Protestant Faith dice plus:\n\n+1 if the Emperor is your religion\n+1 if you are Saved",
+        "rulesTwo": "Roll all of your Faith dice. Place every die you got a 1-3 on a province (following Faith dice placement rules) to begin converting it next Mass event. Discard the failed dice rolls.",
+        "rulesThree": "You must be Protestant."
     },
     {
-        "name": "theJesuitsStrikeBack",
-        "displayName": "The Jesuits Strike Back",
-        "quantity": 1,
-        "type": "abilityTypes/fightHeresy",
-        "rulesOne": "Gain 3 Faith.",
-        "rulesTwo": "You must be Catholic and it must Round 4-6.",
-        "rulesThree": ""
-    },
-    {
-        "name": "zeal",
-        "displayName": "Zeal",
-        "quantity": "1",
-        "type": "abilityTypes/fightHeresy",
-        "rulesOne": "Gain 4 Faith.",
-        "rulesTwo": "You must be Saved.",
-        "rulesThree": ""
-    },
-    {
-        "name": "imperialSanction",
-        "displayName": "Imperial Sanction",
-        "quantity": 1,
-        "type": "abilityTypes/fightHeresy",
-        "rulesOne": "Gain 1 Faith.",
-        "rulesTwo": "You must be Emperor or be the same religion as the Emperor.",
-        "rulesThree": ""
-    },
-    {
-        "name": "churchPatronage",
-        "displayName": "Church Patronage",
-        "quantity": 1,
-        "type": "abilityTypes/fightHeresy",
-        "rulesOne": "Convert 1 Gold into 2 Faith.",
-        "rulesTwo": "",
-        "rulesThree": ""
-    },
-    {
-        "name": "changeDoctrine",
-        "displayName": "Change Military Doctrine",
-        "quantity": 0,
-        "type": "abilityTypes/wageWar",
-        "rulesOne": "Change your Military Doctrine.",
-        "rulesTwo": "",
-        "rulesThree": ""
-    },
-    {
-        "name": "declareWar",
-        "displayName": "Declare Private War",
+        "name": "declareWarOnPlayer",
+        "displayName": "Declare a Private War",
         "quantity": 1,
         "type": "abilityTypes/wageWar",
-        "rulesOne": "Declare war on a player or a prince that has not been declared war on this round. ",
-        "rulesTwo": "If you declare war on a prince, remove all Influence you have with them.",
-        "rulesThree": "You must be a German Prince player or a Foreign Power player with a province in the Empire."
+        "rulesOne": "Declare war on a player or prince. If you target a prince, remove all of your Influence with them. Immediately resolve the war.",
+        "rulesTwo": "",
+        "rulesThree": ""
     },
     {
         "name": "declareReligiousWar",
         "displayName": "Declare Religious War",
         "quantity": 1,
         "type": "abilityTypes/wageWar",
-        "rulesOne": "Declare war against a prince or elector following a heretical religion. Become the Restorer of the Faith (ROTF).",
-        "rulesTwo": "You must be Saved, in a League, and there must not already be a Religious War.",
+        "rulesOne": "Declare a Religious War against a prince with a Religious Upheaval Marker on it and immediately resolve the Religous War.",
+        "rulesTwo": "You must be Saved.",
         "rulesThree": ""
     }
 ]

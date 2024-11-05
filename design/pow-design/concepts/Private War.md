@@ -1,2 +1,0 @@
-[[]]
-[[Destruction - Destroy the Enemy]]

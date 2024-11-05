@@ -1,2 +1,0 @@
-[[Votes]]
-[[Completion - Vassalize Electors]]

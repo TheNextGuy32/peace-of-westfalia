@@ -1,0 +1,58 @@
+[
+    {
+        "name": "purple",
+        "displayName": "Purple",
+        "quantity": 1,
+        "color": "#431E42",
+        "graphic": "playerEmblemsLarge/purple"
+    },
+    {
+        "name": "green",
+        "displayName": "Green",
+        "quantity": 1,
+        "color": "#0D674A",
+        "graphic": "playerEmblemsLarge/green"
+    },
+    {
+        "name": "orange",
+        "displayName": "Orange",
+        "quantity": 1,
+        "color": "#c0550d",
+        "graphic": "playerEmblemsLarge/orange"
+    },
+    {
+        "name": "white",
+        "displayName": "White",
+        "quantity": 1,
+        "color": "#ffffff",
+        "graphic": "playerEmblemsLarge/white"
+    },
+    {
+        "name": "black",
+        "displayName": "Black",
+        "quantity": 1,
+        "color": "#000000",
+        "graphic": "playerEmblemsLarge/black"
+    },
+    {
+        "name": "blue",
+        "displayName": "Blue",
+        "quantity": 1,
+        "color": "#0000ff",
+        "graphic": "playerEmblemsLarge/blue"
+    },
+    {
+        "name": "red",
+        "displayName": "Red",
+        "quantity": 1,
+        "color": "#ff0000",
+        "graphic": "playerEmblemsLarge/red"
+    },
+    {
+        "name": "yellow",
+        "displayName": "Yellow",
+        "quantity": 1,
+        "color": "#ffff00",
+        "graphic": "playerEmblemsLarge/yellow"
+    }
+]
