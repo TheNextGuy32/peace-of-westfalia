@@ -46,15 +46,15 @@ There are 20 non-player principalities, each with:
 
 - Pick who goes first. Turn order proceeds clockwise.
 
-- Starting with the first player and proceeding clockwise, place 3 of your hexes on the board in a clover shape or a C-shape adjacent to existing tiles if there are any with the Gold Catholic side facing up. Then place an Elector of choice adjacent to existing tiles contiguously in any shape with the Gold Catholic side facing up. Place an elector token on each Elector on the Gold Catholic side.
+- Starting with the first player and proceeding clockwise, place 3 of your hexes on the board in a clover shape or a C-shape adjacent to existing tiles if there are any with the Gold Catholic side facing up. Then place an Elector (if there are any remaining) of choice adjacent to existing tiles contiguously in any shape with the Gold Catholic side facing up. Place an elector token on each Elector on the Gold Catholic side.
 
 Place Electors in this order:
-Bohemia - 4 provinces
-Brandenburg - 3 provinces
-The Palatinate and Saxony - 2 provinces
 Trier, Mainz, and Cologne - 1 province
+The Palatinate and Saxony - 2 provinces
+Brandenburg - 3 provinces
+Bohemia - 4 provinces
 
-- After placing all starting Electors, continuing clockwise, begin placing one non-elector Principality at a time. First place a 3 province Principality, then a 2 province Principality, then 1 Province Principality.
+- After placing all starting Electors, continuing clockwise, begin placing one non-elector Principality at a time until you run out of Principalities. First place a 1 province Principality, then a 2 province Principality, then 3 Province Principality. 
 
 - Return unused Principality hexes to the box. 
 
@@ -82,9 +82,9 @@ Win Peace of Westphalia through a Religious Victory or a Military Victory.
 
 To win a Religious victory, your religion must meet the following requirements:
 
-- 33, 37, 49, or 52 provinces in a 5, 6, 7, or 8 player game are your religion
+- More than half the provinces are your religion
 
-- 6 Electors in a 6 to 8 player game, or all 7 in a 5 to 7 player game are your religion 
+- Four or more Electors are your religion
 
 - The Emperor is your religion
 
@@ -126,9 +126,14 @@ You may only place Faith dice:
 
 ### Saved vs Damned
 
-All Players start with their role on Damned Catholic, but may chang to Saved either as Catholics or Protestant as the game goes on.
+All Players start with their role on Damned Catholic, but may change to Saved either as Catholics or Protestant as the game goes on.
 
-The Catholics who control the most Catholic provinces (directly or through allies) are considered Saved by Faith and Works. Only the top 2 Catholics in a 5-6 player game, or top 3 in a 7-8 player game, are Saved. Whenever province count changes, recount the Catholic provinces to see who is Saved.
+Catholics who control the most Catholic allies are considered Saved by Faith and Works. Count allies as follows:
+- 1 province principality = 1 point
+- 2-3 province principality = 2 points
+- 4 province principality = 3 points
+
+Only the top 2 Catholics in a 5-6 player game, or top 3 in a 7-8 player game, are Saved. Whenever ally control changes, recount the Catholic ally points to see who is Saved.
 
 The first 2 Players (3 in a 7-8 Player game) to respond to God's irresistible grace and convert to Protestantism are Saved by Faith Alone. Once Saved Always Saved - there is nothing you can do to lose this role except by returning to Catholicism. If you convert back to Catholicism, the next Damned Protestant becomes Saved. If there are no other Protestants, the next Player to convert to Protestantism becomes Saved.
 
@@ -183,7 +188,6 @@ Upon defeat, submit to opponent's chosen territories or vassalization. Remove 1 
 Upon victory, choose one of these three options:
 - Conquer Territory
 - Vassalize
-- Liberate a Principality
 
 Note these restrictions:
 - Vassalize Electors and Target Principalities rather than conquering them completely
@@ -197,10 +201,7 @@ Note these restrictions:
 Take up to 2 Provinces from unaligned Principality(ies) or the Player and allies. 
 
 ###### Vassalize
-Take control of a 1-2 Province Principality or Player. Maintain/Replace control markers accordingly. Remove all other Players' Influence from the Principality. Place 2 Influence to establish alliance.
-
-###### Liberate a Principality 
-Replace a Player-controlled province with a new Principality. Place 2 Influence to establish alliance.
+Take control of a 1-2 Province Principality. Maintain/Replace control markers accordingly. Remove all other Players' Influence from the Principality. Place 2 Influence to establish alliance.
 
 After choosing one option, grant each ally permission to take 1 adjacent province from unaligned Principality or the Player and allies. Restrict Principalities to 4 provinces maximum.
 

@@ -36,6 +36,15 @@
         "rulesThree": ""
     },
     {
+        "name": "foreignPower",
+        "displayName": "Foreign Power Intervention",
+        "quantity": 0,
+        "type": "abilityTypes/doDiplomacy",
+        "rulesOne": "Gain 4 Influence and place it all on one Principality of your choice.",
+        "rulesTwo": "You must have only one province and no allies.",
+        "rulesThree": ""
+    },
+    {
         "name": "intercession",
         "displayName": "Intercession of the Saints",
         "quantity": 1,
