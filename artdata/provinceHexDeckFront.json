@@ -2,15 +2,37 @@
     "name": "provinceHexDeck",
     "templateFilename": "provinceHexDeck",
     "textReplacements": [
-        { "scope": "piece", "key": "name", "source": "displayName", "isTranslateable": true },
-        { "scope": "piece", "key": "type", "source": "type", "isTranslateable": true }
+        {
+            "scope": "piece",
+            "key": "name",
+            "source": "displayName",
+            "isTranslateable": true
+        },
+        {
+            "scope": "piece",
+            "key": "type",
+            "source": "type",
+            "isTranslateable": true
+        }
     ],
-    "styleUpdates": [
-    ],
+    "styleUpdates": [],
     "overlays": [
-        { "scope": "piece", "source": "graphic" },
-        { "scope": "global", "source": "overlayProvinceHexDeck" },
-        { "scope": "piece", "source": "capitalGraphic" },
-        { "scope": "global", "source": "chitHexLargeBoundaries", "isDebugInfo": true }
+        {
+            "scope": "piece",
+            "source": "graphic"
+        },
+        {
+            "scope": "global",
+            "source": "overlayProvinceHexDeck"
+        },
+        {
+            "scope": "piece",
+            "source": "capitalGraphic"
+        },
+        {
+            "scope": "global",
+            "source": "chitHexLargeBoundaries",
+            "isDebugInfo": true
+        }
     ]
 }

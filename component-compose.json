@@ -126,8 +126,8 @@
         "componentGamedataFilename": "emperorToken",
         "disabled": false,
         "piecesGamedataFilename": "emperorToken",
-        "artdataFrontFilename": "emperorTokenFront",
-        "artdataBackFilename": "emperorTokenBack"
+        "artdataFrontFilename": "emperorToken",
+        "artdataBackFilename": "emperorToken"
     },
     {
         "name": "cubes8mmBlack",
