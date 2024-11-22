@@ -22,8 +22,8 @@
         {
             "scope": "piece",
             "source": "graphic",
-            "positionY": "0",
-            "positionX": "0"
+            "positionY": 0,
+            "positionX": 0
         },
         {
             "scope": "global",
