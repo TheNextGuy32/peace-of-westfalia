@@ -14,7 +14,7 @@
         "type": "DominoMat",
         "quantity": 8,
         "componentGamedataFilename": "playerPowerBoard",
-        "disabled": false,
+        "disabled": true,
         "piecesGamedataFilename": "playerPowerBoard",
         "artdataFrontFilename": "playerPowerBoardFront",
         "artdataBackFilename": "playerPowerBoardFront"
