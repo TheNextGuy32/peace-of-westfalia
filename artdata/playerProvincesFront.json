@@ -3,9 +3,11 @@
     "templateFilename": "provinceHexTile",
     "textReplacements": [
         {
-            "scope": "global",
             "key": "value",
-            "source": ""
+            "scope": "global",
+            "source": "",
+            "isComplex": false,
+            "isDebug": false
         }
     ],
     "styleUpdates": [

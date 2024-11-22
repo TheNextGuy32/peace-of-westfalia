@@ -3,7 +3,7 @@
     "templateFilename": "provinceHexTile",
     "textReplacements": [
         {
-            "scope": "piece",
+            "scope": "global",
             "key": "value",
             "source": "displayName",
             "isTranslateable": true

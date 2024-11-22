@@ -2,17 +2,48 @@
     "name": "playerProvinceBack",
     "templateFilename": "provinceHexTile",
     "textReplacements": [
-        { "scope": "global", "key": "value", "source": "" }
+        {
+            "scope": "global",
+            "key": "value",
+            "source": ""
+        }
     ],
     "styleUpdates": [
-        { "id": "religionColor", "cssValue": "fill", "scope": "game", "source": "catholicColor" },
-        { "id": "backgroundColor", "cssValue": "fill", "scope": "piece", "source": "color" }
+        {
+            "id": "religionColor",
+            "cssValue": "fill",
+            "scope": "game",
+            "source": "catholicColor"
+        },
+        {
+            "id": "backgroundColor",
+            "cssValue": "fill",
+            "scope": "piece",
+            "source": "color"
+        }
     ],
     "overlays": [
-        { "scope": "piece", "source": "graphic" }, 
-        { "scope": "global", "source": "overlayReligionLargeHex" },
-        { "scope": "global", "source": "province" },
-        { "scope": "component", "source": "overlay" }, 
-        { "scope": "global", "source": "chitHexMediumBoundaries", "isComplex": true, "isDebugInfo": true }
+        {
+            "scope": "piece",
+            "source": "graphic"
+        },
+        {
+            "scope": "global",
+            "source": "overlayReligionLargeHex"
+        },
+        {
+            "scope": "global",
+            "source": "province"
+        },
+        {
+            "scope": "component",
+            "source": "overlay"
+        },
+        {
+            "scope": "global",
+            "source": "chitHexMediumBoundaries",
+            "isComplex": true,
+            "isDebugInfo": true
+        }
     ]
 }

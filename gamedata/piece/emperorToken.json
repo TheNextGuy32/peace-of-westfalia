@@ -1,3 +1,7 @@
 [
-    { "name": "emperorToken", "displayName": "emperorToken", "quantity": 1 }   
+    {
+        "name": "emperorToken",
+        "displayName": "emperorToken",
+        "quantity": 1
+    }
 ]
