@@ -3,7 +3,7 @@
     "templateFilename": "provinceHexTile",
     "textReplacements": [
         {
-            "scope": "global",
+            "scope": "piece",
             "key": "value",
             "source": "displayName",
             "isTranslateable": true
@@ -28,12 +28,6 @@
         {
             "scope": "global",
             "source": "overlayReligionLargeHex"
-        },
-        {
-            "scope": "global",
-            "source": "chitHexMediumBoundaries",
-            "isComplex": true,
-            "isDebugInfo": true
         },
         {
             "scope": "global",

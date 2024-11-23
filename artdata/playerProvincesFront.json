@@ -34,20 +34,6 @@
         {
             "scope": "global",
             "source": "overlayReligionLargeHex"
-        },
-        {
-            "scope": "global",
-            "source": "province"
-        },
-        {
-            "scope": "component",
-            "source": "overlay"
-        },
-        {
-            "scope": "global",
-            "source": "chitHexMediumBoundaries",
-            "isComplex": true,
-            "isDebugInfo": true
         }
     ]
 }

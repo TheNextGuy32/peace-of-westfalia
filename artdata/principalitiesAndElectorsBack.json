@@ -28,12 +28,6 @@
         },
         {
             "scope": "global",
-            "source": "chitHexMediumBoundaries",
-            "isComplex": true,
-            "isDebugInfo": true
-        },
-        {
-            "scope": "global",
             "source": "provinceLarge",
             "isComplex": true
         },
