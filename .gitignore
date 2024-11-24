@@ -3,3 +3,4 @@ output/*
 printout.pdf
 .playground
 .animation
+output/.last
