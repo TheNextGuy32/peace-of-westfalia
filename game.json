@@ -8,5 +8,11 @@
     "oldCatholicColor": "#ffff00",
     "oldProtestantColor": "#0000ff",
     "foreignPowerColor": "#ffffff",
-    "coolFactors": "Fun!,Adventure!,Profit!"
+    "coolFactors": [
+        "Fun!",
+        "Adventure!",
+        "Profit!"
+    ],
+    "minPlayers": "3",
+    "maxPlayers": "8"
 }

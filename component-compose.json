@@ -1,192 +1,192 @@
 [
-    {
-        "name": "leagueWarBoard",
-        "type": "DominoMat",
-        "quantity": 1,
-        "piecesGamedataFilename": "leagueWarBoard",
-        "componentGamedataFilename": "leagueWarBoard",
-        "artdataFrontFilename": "leagueWarBoard",
-        "artdataBackFilename": "leagueWarBoard",
-        "disabled": true
-    },
-    {
-        "name": "playerPowerBoard",
-        "type": "DominoMat",
-        "quantity": 8,
-        "componentGamedataFilename": "playerPowerBoard",
-        "disabled": true,
-        "piecesGamedataFilename": "playerPowerBoard",
-        "artdataFrontFilename": "playerPowerBoardFront",
-        "artdataBackFilename": "playerPowerBoardFront"
-    },
-    {
-        "name": "playerProvinces",
-        "type": "HexDeck",
-        "quantity": 12,
-        "piecesGamedataFilename": "players",
-        "componentGamedataFilename": "provinceNonCapital",
-        "artdataFrontFilename": "playerProvincesFront",
-        "artdataBackFilename": "playerProvincesBack",
-        "disabled": false
-    },
-    {
-        "name": "principalityAndElectorsProvinces",
-        "type": "HexDeck",
-        "quantity": 4,
-        "piecesGamedataFilename": "principalitiesAndElectors",
-        "componentGamedataFilename": "provinceNonCapital",
-        "artdataFrontFilename": "principalitiesAndElectorsFront",
-        "artdataBackFilename": "principalitiesAndElectorsBack",
-        "disabled": false
-    },
-    {
-        "name": "principalityAndElectorsConversionDeck",
-        "type": "PokerDeck",
-        "quantity": 1,
-        "componentGamedataFilename": "principalityConversionDeck",
-        "disabled": true,
-        "piecesGamedataFilename": "principalitiesAndElectors",
-        "artdataFrontFilename": "principalityConversionDeckFront",
-        "artdataBackFilename": "principalityConversionDeckBack"
-    },
-    {
-        "name": "principalityControlTokens",
-        "type": "LargeSquareChit",
-        "quantity": 1,
-        "piecesGamedataFilename": "principalitiesAndElectorsSmall",
-        "componentGamedataFilename": "principalityControlTokens",
-        "disabled": false,
-        "artdataFrontFilename": "principalityControlTokensFront",
-        "artdataBackFilename": "principalityControlTokensFront"
-    },
-    {
-        "name": "abilities",
-        "type": "PokerDeck",
-        "quantity": 8,
-        "piecesGamedataFilename": "abilities",
-        "componentGamedataFilename": "abilities",
-        "artdataFrontFilename": "abilitiesFront",
-        "artdataBackFilename": "abilitiesBack",
-        "disabled": false
-    },
-    {
-        "name": "playerRoles",
-        "type": "PokerDeck",
-        "quantity": 8,
-        "piecesGamedataFilename": "roles",
-        "componentGamedataFilename": "roles",
-        "artdataFrontFilename": "rolesFront",
-        "artdataBackFilename": "rolesBack",
-        "disabled": false
-    },
-    {
-        "name": "units",
-        "type": "PokerDeck",
-        "quantity": 8,
-        "piecesGamedataFilename": "militaryPokerCards",
-        "componentGamedataFilename": "militaryPokerCards",
-        "artdataFrontFilename": "militaryPokerCardsFront",
-        "artdataBackFilename": "militaryPokerCardsBack",
-        "disabled": false
-    },
-    {
-        "name": "electorMarker",
-        "type": "SmallCircleChit",
-        "quantity": 7,
-        "componentGamedataFilename": "electorMarker",
-        "disabled": false,
-        "piecesGamedataFilename": "electorMarker",
-        "artdataFrontFilename": "electorMarkerFront",
-        "artdataBackFilename": "electorMarkerBack"
-    },
-    {
-        "name": "religiousUpheavalToken",
-        "type": "SmallCircleChit",
-        "quantity": 12,
-        "componentGamedataFilename": "religiousUpheavalToken",
-        "disabled": false,
-        "piecesGamedataFilename": "religiousUpheavalToken",
-        "artdataFrontFilename": "religiousUpheavalTokenFront",
-        "artdataBackFilename": "religiousUpheavalTokenFront"
-    },
-    {
-        "name": "eventDeck",
-        "type": "PokerDeck",
-        "quantity": 1,
-        "componentGamedataFilename": "eventDeck",
-        "disabled": false,
-        "piecesGamedataFilename": "eventDeck",
-        "artdataFrontFilename": "eventDeckFront",
-        "artdataBackFilename": "eventDeckBack"
-    },
-    {
-        "name": "emperorToken",
-        "type": "MediumCircleChit",
-        "quantity": 1,
-        "componentGamedataFilename": "emperorToken",
-        "disabled": false,
-        "piecesGamedataFilename": "emperorToken",
-        "artdataFrontFilename": "emperorToken",
-        "artdataBackFilename": "emperorToken"
-    },
-    {
-        "name": "cubes8mmBlack",
-        "type": "STOCK_Cube8mmBlack",
-        "quantity": 30,
-        "disabled": false
-    },
-    {
-        "name": "cubes8mmYellow",
-        "type": "STOCK_Cube8mmYellow",
-        "quantity": 30,
-        "disabled": false
-    },
-    {
-        "name": "cubes8mmBlue",
-        "type": "STOCK_Cube8mmBlue",
-        "quantity": 30,
-        "disabled": false
-    },
-    {
-        "name": "cubes8mmGreen",
-        "type": "STOCK_Cube8mmGreen",
-        "quantity": 30,
-        "disabled": false
-    },
-    {
-        "name": "cubes8mmOrange",
-        "type": "STOCK_Cube8mmOrange",
-        "quantity": 30,
-        "disabled": false
-    },
-    {
-        "name": "cubes8mmPurple",
-        "type": "STOCK_Cube8mmPurple",
-        "quantity": 30,
-        "disabled": false
-    },
-    {
-        "name": "cubes8mmRed",
-        "type": "STOCK_Cube8mmRed",
-        "quantity": 30,
-        "disabled": false
-    },
-    {
-        "name": "cubes8mmWhite",
-        "type": "STOCK_Cube8mmWhite",
-        "quantity": 30,
-        "disabled": false
-    },
-    {
-        "name": "protestantDice",
-        "type": "STOCK_D616mmRoundedBrownPearl",
-        "quantity": 20,
-        "disabled": false
-    },
-    {
-        "name": "catholicDice",
-        "type": "STOCK_D616mmRoundedWhitePearl",
-        "quantity": 20,
-        "disabled": false
-    }
+  {
+    "name": "leagueWarBoard",
+    "type": "DominoMat",
+    "quantity": 1,
+    "piecesGamedataFilename": "leagueWarBoard",
+    "componentGamedataFilename": "leagueWarBoard",
+    "artdataFrontFilename": "leagueWarBoard",
+    "artdataBackFilename": "leagueWarBoard",
+    "disabled": false
+  },
+  {
+    "name": "playerPowerBoard",
+    "type": "DominoMat",
+    "quantity": 8,
+    "componentGamedataFilename": "playerPowerBoard",
+    "disabled": true,
+    "piecesGamedataFilename": "playerPowerBoard",
+    "artdataFrontFilename": "playerPowerBoardFront",
+    "artdataBackFilename": "playerPowerBoardFront"
+  },
+  {
+    "name": "playerProvinces",
+    "type": "HexDeck",
+    "quantity": 12,
+    "piecesGamedataFilename": "players",
+    "componentGamedataFilename": "provinceNonCapital",
+    "artdataFrontFilename": "playerProvincesFront",
+    "artdataBackFilename": "playerProvincesBack",
+    "disabled": false
+  },
+  {
+    "name": "principalityAndElectorsProvinces",
+    "type": "HexDeck",
+    "quantity": 4,
+    "piecesGamedataFilename": "principalitiesAndElectors",
+    "componentGamedataFilename": "provinceNonCapital",
+    "artdataFrontFilename": "principalitiesAndElectorsFront",
+    "artdataBackFilename": "principalitiesAndElectorsBack",
+    "disabled": false
+  },
+  {
+    "name": "principalityAndElectorsConversionDeck",
+    "type": "PokerDeck",
+    "quantity": 1,
+    "componentGamedataFilename": "principalityConversionDeck",
+    "disabled": true,
+    "piecesGamedataFilename": "principalitiesAndElectors",
+    "artdataFrontFilename": "principalityConversionDeckFront",
+    "artdataBackFilename": "principalityConversionDeckBack"
+  },
+  {
+    "name": "principalityControlTokens",
+    "type": "LargeSquareChit",
+    "quantity": 1,
+    "piecesGamedataFilename": "principalitiesAndElectorsSmall",
+    "componentGamedataFilename": "principalityControlTokens",
+    "disabled": false,
+    "artdataFrontFilename": "principalityControlTokensFront",
+    "artdataBackFilename": "principalityControlTokensFront"
+  },
+  {
+    "name": "abilities",
+    "type": "PokerDeck",
+    "quantity": 8,
+    "piecesGamedataFilename": "abilities",
+    "componentGamedataFilename": "abilities",
+    "artdataFrontFilename": "abilitiesFront",
+    "artdataBackFilename": "abilitiesBack",
+    "disabled": false
+  },
+  {
+    "name": "playerRoles",
+    "type": "PokerDeck",
+    "quantity": 8,
+    "piecesGamedataFilename": "roles",
+    "componentGamedataFilename": "roles",
+    "artdataFrontFilename": "rolesFront",
+    "artdataBackFilename": "rolesBack",
+    "disabled": false
+  },
+  {
+    "name": "units",
+    "type": "PokerDeck",
+    "quantity": 8,
+    "piecesGamedataFilename": "militaryPokerCards",
+    "componentGamedataFilename": "militaryPokerCards",
+    "artdataFrontFilename": "militaryPokerCardsFront",
+    "artdataBackFilename": "militaryPokerCardsBack",
+    "disabled": false
+  },
+  {
+    "name": "electorMarker",
+    "type": "SmallCircleChit",
+    "quantity": 7,
+    "componentGamedataFilename": "electorMarker",
+    "disabled": false,
+    "piecesGamedataFilename": "electorMarker",
+    "artdataFrontFilename": "electorMarkerFront",
+    "artdataBackFilename": "electorMarkerBack"
+  },
+  {
+    "name": "religiousUpheavalToken",
+    "type": "SmallCircleChit",
+    "quantity": 12,
+    "componentGamedataFilename": "religiousUpheavalToken",
+    "disabled": false,
+    "piecesGamedataFilename": "religiousUpheavalToken",
+    "artdataFrontFilename": "religiousUpheavalTokenFront",
+    "artdataBackFilename": "religiousUpheavalTokenFront"
+  },
+  {
+    "name": "eventDeck",
+    "type": "PokerDeck",
+    "quantity": 1,
+    "componentGamedataFilename": "eventDeck",
+    "disabled": false,
+    "piecesGamedataFilename": "eventDeck",
+    "artdataFrontFilename": "eventDeckFront",
+    "artdataBackFilename": "eventDeckBack"
+  },
+  {
+    "name": "emperorToken",
+    "type": "MediumCircleChit",
+    "quantity": 1,
+    "componentGamedataFilename": "emperorToken",
+    "disabled": false,
+    "piecesGamedataFilename": "emperorToken",
+    "artdataFrontFilename": "emperorToken",
+    "artdataBackFilename": "emperorToken"
+  },
+  {
+    "name": "cubes8mmBlack",
+    "type": "STOCK_Cube8mmBlack",
+    "quantity": 30,
+    "disabled": false
+  },
+  {
+    "name": "cubes8mmYellow",
+    "type": "STOCK_Cube8mmYellow",
+    "quantity": 30,
+    "disabled": false
+  },
+  {
+    "name": "cubes8mmBlue",
+    "type": "STOCK_Cube8mmBlue",
+    "quantity": 30,
+    "disabled": false
+  },
+  {
+    "name": "cubes8mmGreen",
+    "type": "STOCK_Cube8mmGreen",
+    "quantity": 30,
+    "disabled": false
+  },
+  {
+    "name": "cubes8mmOrange",
+    "type": "STOCK_Cube8mmOrange",
+    "quantity": 30,
+    "disabled": false
+  },
+  {
+    "name": "cubes8mmPurple",
+    "type": "STOCK_Cube8mmPurple",
+    "quantity": 30,
+    "disabled": false
+  },
+  {
+    "name": "cubes8mmReds",
+    "type": "STOCK_Cube8mmRed",
+    "quantity": 28,
+    "disabled": false
+  },
+  {
+    "name": "cubes8mmWhite",
+    "type": "STOCK_Cube8mmWhite",
+    "quantity": 30,
+    "disabled": false
+  },
+  {
+    "name": "protestantDice",
+    "type": "STOCK_D616mmRoundedBrownPearl",
+    "quantity": 20,
+    "disabled": false
+  },
+  {
+    "name": "catholicDice",
+    "type": "STOCK_D616mmRoundedWhitePearl",
+    "quantity": 20,
+    "disabled": false
+  }
 ]
