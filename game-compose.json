@@ -5,6 +5,6 @@
     "componentGamedataDirectory": "./gamedata/component",
     
     "artdataDirectory": "./artdata",
-    "artTemplatesDirectory": "./art/templates",
-    "artInsertsDirectory": "./art/graphicalInserts"
+    "artTemplatesDirectory": "./art",
+    "artInsertsDirectory": "./art"
 }
